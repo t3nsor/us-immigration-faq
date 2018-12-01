@@ -8,3 +8,6 @@ In some cases, yes. Brian's personal experience is that when qualified immigrati
 Brian believes that you should believe his answers about US immigration for the same reason why you believe his answers on other topics---not because he is some sort of "expert", but because they make sense in the context of what you already know about the topic.
 
 That being said, whenever possible, we will provide citations to the relevant statutes, regulations, and current practices, including the Immigration and Nationality Act, title 8 of the Code of Federal Regulations, the State Department's *Foreign Affairs Manual*, and the CBP Field Manual, as well as to other sources written by more qualified individuals that you may or may not consider authoritative.
+
+## Which section of the FAQ should I read?
+* [general.md](general.md) for general questions about the US immigration system
