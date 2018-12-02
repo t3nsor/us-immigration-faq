@@ -29,6 +29,21 @@ You become an LPR, and are entitled to the associated rights and privileges, as 
 ## What is the typical application process for employer-sponsored immigration?
 See [the EB FAQ](EB.md).
 
+## What is the 7% per-country cap?
+This is a rule that [22]:
+* At most 7% of the annual quota of EB visas is available to natives of any single country.
+* Likewise, at most 7% of the annual quota of numerically limited family-based visas is available to natives of any single country.
+This rule tends to result in long waiting times for applicants from certain countries, if they are applying for an immigrant classification that many other people from their country are also applying for. For example, family-based waiting times are very for natives of Mexico, and employment-based waiting times are very long for natives of India.
+
+## Why are the per-country quotas on immigration based on country of birth rather than country of citizenship?
+Friends who think of me as first and foremost a Canadian are sometimes surprised to hear that I have to wait a long time for a green card simply due to having been born in China. I'm not sure why the limitations are based on country of birth, but some plausible explanations include:
+* The limitations are intended to ensure a certain amount of racial diversity in immigration patterns, and country of birth is viewed as a better proxy for race than present country of citizenship.
+* Per-country quotas were first introduced by the Immigration Act of 1924; this was so long ago that most people didn't move around very much and some countries didn't even issue proof of citizenship, so country of birth was regarded as a practical criterion for sorting immigrants.
+* Restrictions based on country of citizenship would be easier to circumvent, perhaps by "buying" citizenship in some third country.
+
+## Can I be charged to the quota of a country other than my country of birth?
+As explained above, becoming a citizen of another country doesn't affect which country you're charged to for the purposes of the 7% per-country limitation. However, under some conditions, it is possible to be charged to a different country. If your country of birth is different from that of both of your parents, and neither parent had a residence in your country of birth at the time of your birth, you may be able to be charged to one of your parents' countries of birth instead. Also, you can be "cross-charged" to your spouse's country of birth if it is different from yours [20]. The *Foreign Affairs Manual* explains that, for example, an EB-2 applicant born in India and has a spouse born in France could elect to be charged to France, thus having their priority date become current sooner [21]. (However, if your plan is to find someone to marry specifically to speed up your green card process, why not just marry an American?)
+
 # References
 [1] [50 USC §3802(a)](https://www.law.cornell.edu/uscode/text/50/3802)  
 [2] [8 USC §1359](https://www.law.cornell.edu/uscode/text/8/1359)  
@@ -48,4 +63,7 @@ See [the EB FAQ](EB.md).
 [16] [8 USC §1157–1159](https://www.law.cornell.edu/uscode/text/8/chapter-12/subchapter-II/part-I)  
 [17] [8 USC §1151(a)](https://www.law.cornell.edu/uscode/text/8/1151#a)  
 [18] [8 USC §1154(a)](https://www.law.cornell.edu/uscode/text/8/1154#a)  
-[19] [8 CFR §204.1](https://www.law.cornell.edu/cfr/text/8/204.1)  
+[19] [8 CFR §204.1](https://www.law.cornell.edu/cfr/text/8/204.1)   
+[20] [8 USC §1152(b)](https://www.law.cornell.edu/uscode/text/8/1152#b)   
+[21] [9 FAM 503.2-4(A)(h)](https://fam.state.gov/FAM/09FAM/09FAM050302.html)  
+[22] [8 USC §1152(a)(2)](https://www.law.cornell.edu/uscode/text/8/1152#a_2)  
