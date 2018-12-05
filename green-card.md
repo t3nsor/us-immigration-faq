@@ -79,12 +79,12 @@ There is a single exception: if you, as an LPR, leave the US in order to avoid t
 If you wish to return to the US as an immigrant in the future after giving up LPR status, you will need to go through the whole process all over again. You cannot reuse the priority date that you used for your previous immigrant visa application when you are applying for your new immigrant visa [26]. You might wonder if there's a loophole: if you had two I-140s approved, and you used the priority date of the earlier one for your immigrant visa application, becoming an LPR, could you later use the priority date of the later one for a subsequent immigrant visa application? The answer doesn't seem to be written down anywhere, and no immigration lawyer I spoke to had ever heard of such an unusual case. All I can say is that it would be unwise to expect this to be allowed. You should simply assume that you will have to start from scratch, with none of your old priority dates being available.
 
 # References
-[1] [50 USC §3802(a)](https://www.law.cornell.edu/uscode/text/50/3802)  
+[1] [8 USC §1101(a)(15)(O)(i)](https://www.law.cornell.edu/uscode/text/8/1101#a_15_O_i)  
 [2] [8 USC §1359](https://www.law.cornell.edu/uscode/text/8/1359)  
 [3] *Matter of Yellowquil*, 16 I. & N. Dec. 576 (BIA 1978) (https://www.justice.gov/sites/default/files/eoir/legacy/2012/08/17/2664.pdf)  
 [4] [48 USC §1901](https://www.gpo.gov/fdsys/pkg/USCODE-2009-title48/html/USCODE-2009-title48-chap18-subchapI-partA-sec1901.htm)  
 [5] [48 USC §1931](https://www.gpo.gov/fdsys/pkg/USCODE-2009-title48/html/USCODE-2009-title48-chap18-subchapII-partA-sec1931.htm)  
-[6] [8 USC §1101(a)(15)(O)(i)](https://www.law.cornell.edu/uscode/text/8/1101#a_15_O_i)  
+[6] [50 USC §3802(a)](https://www.law.cornell.edu/uscode/text/50/3802)  
 [7] This is the so-called "green card test", codified at [26 USC §7701(b)(1)(A)(i)](https://www.law.cornell.edu/uscode/text/26/7701#b_1_A_i)  
 [8] [26 USC §877(e)(2)](https://www.law.cornell.edu/uscode/text/26/877#e_2)  
 [9] [8 CFR §211.1(a)](https://www.law.cornell.edu/cfr/text/8/211.1#a)  
