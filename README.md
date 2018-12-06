@@ -12,4 +12,5 @@ That being said, whenever possible, we will provide citations to the relevant st
 ## Which section of the FAQ should I read?
 * [general.md](general.md) for general questions about the US immigration system
 * [green-card.md](green-card.md) for questions about green cards and LPR status
-* [EB.md](EB.md) for questions specific employment-based immigration
+* [EB.md](EB.md) for questions specific to employment-based immigration
+* [H-1B.md](H-1B.md) for questions about H-1B visas/status
