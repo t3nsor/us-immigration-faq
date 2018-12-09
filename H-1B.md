@@ -37,9 +37,9 @@ As discussed previously, once you are counted against the cap, you are entitled 
 
 > It is the H-1B petitioner's burden to request and demonstrate the specific amount of time for recapture on behalf of the beneficiary. The beneficiary may provide appropriate evidence, such as copies of passport stamps, Arrival-Departure Records (Form I-94), or airline tickets, together with a chart, indicating the dates spent outside of the United States, and referencing the relevant independent documentary evidence, when seeking to recapture the alien's time spent outside the United States. Based on the evidence provided, USCIS may grant all, part, or none of the recapture period requested. 
 
-Some immigration lawyers appear to believe that the opportunity to request recapture expires on the 6th anniversary. However, this is contradicted by the USCIS Adjudicator's Field Manual, which gives the following example:
+Some immigration lawyers appear to believe that the opportunity to request recapture expires on the 6th anniversary. However, this is contradicted by the USCIS Adjudicator's Field Manual, which gives the following example [15]:
 
-> an alien who spent five years in the United States in H-1B status (from January 1, 1999 - December 31, 2004), and then remained outside the United States for all of 2005, could seek to be admitted in January 2006 for the “remainder” of the initial six-year period, i.e., a total of one year." [15]
+> an alien who spent five years in the United States in H-1B status (from January 1, 1999 - December 31, 2004), and then remained outside the United States for all of 2005, could seek to be admitted in January 2006 for the “remainder” of the initial six-year period, i.e., a total of one year."
 
 ## What are the chances of winning the H-1B lottery?
 In the random selection process, cap-subject petitions for an alien with a master's degree are first entered into the lottery for the 20,000 visas available under the master's degree exemption. Petitions not selected in the master's lottery are then entered in the general lottery for 65,000 visas together with all the remaining cap-subject petitions [5–8][9]. Therefore, we can calculate the chances of winning the lottery in previous years based on data provided by USCIS (TODO)
