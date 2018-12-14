@@ -61,8 +61,14 @@ It's not clear why the number of petitions filed dropped between FY 2017 and FY 
 * The outcome of the 2016 presidential election caused some foreigners to change their minds about whether they wanted to live in the US.
 * Uncertainty over whether the new administration would stop issuing EADs to spouses of H-1B workers discouraged married and engaged individuals from seeking H-1B visas.
 
-## I've heard people try to game the system by having multiple companies submit H-1B petitions for them.
-(TODO)
+## I've heard people try to increase their chances in the lottery by having multiple companies submit H-1B petitions for them.
+Federal regulations state that when the random selection procedure must be used, it is *petitions* that are sampled randomly [10]. USCIS appears to acknowledge the possibility that having multiple petitions in the lottery can be used as a tactic to increase one's chances of winning, which is the reason why they adopted a policy [17] that if one employer submits multiple petitions for the same alien, all such petitions will be denied [19]. This is the case even if the multiple petitions are for different roles [18].
+
+Evidently, USCIS has the ability to detect duplicate petitions (presumably using some subset of the alien's name, country of birth, I-94 number, and passport number), but there appears to be no evidence for the claim that USCIS uses this detection algorithm to collapse all petitions into a single "lottery ticket". Therefore, it appears that you **can**, in fact, increase your chances of winning the lottery by having multiple petitions filed on your behalf, provided that USCIS is convinced they are not duplicative.
+
+However, as discussed above, you need multiple *different* employers to file H-1B petitions for you in April, otherwise your chances will drop to zero. Furthermore, if USCIS finds that "related entities" do not have a "legitimate business need" to file petitions on behalf of the same alien, they will likewise deny all such petitions [18][19]. In the case *Matter of S- Inc.*, the USCIS Administrative Appeals Office determined that even if two companies do not have any legal relationship with each other, they can still be considered "related entities" if they appear to be "acting in concert" to file multiple petitions for the same alien "for the same full-time position with the same end client through the same vendors during the same time frame" [20].
+
+Thus, in order to use this tactic, you need to get two *genuinely distinct* offers. For example, if you are graduating soon, and you have applied to both Google, Inc. and Facebook, Inc. as a new grad software engineer, both have extended you an offer and both are willing to sponsor you for a work visa and enter you in the H-1B lottery, and you accept both offers and fill out the required paperwork, then you'd double your chances of having at least one petition approved, compared to someone else who only has one petition filed on their behalf. (This tactic does not appear to be used often, possibly because candidates don't like to be dishonest by accepting multiple offers and risk burning bridges.)
 
 # References
 [1] INA 101(a)(15)(L) ([8 USC §1101(a)(15)(L)](https://www.law.cornell.edu/uscode/text/8/1101#a_15_L))  
@@ -80,4 +86,8 @@ It's not clear why the number of petitions filed dropped between FY 2017 and FY 
 [13] INA 214(g)(7) ([8 USC §1184(g)(7)](https://www.law.cornell.edu/uscode/text/8/1184#g_7))  
 [14] [8 CFR §214.2(h)(13)(iii)(C)](https://www.law.cornell.edu/cfr/text/8/214.2#h_13_iii_C)  
 [15] [USCIS-AFM 31.3(g)(15)](https://www.uscis.gov/ilink/docView/AFM/HTML/AFM/0-0-0-1/0-0-0-13593/0-0-0-13813.html)  
-[16] https://www.uscis.gov/tools/reports-studies/reports-and-studies
+[16] https://www.uscis.gov/tools/reports-studies/reports-and-studies  
+[17] [73 FR 15391](https://www.gpo.gov/fdsys/pkg/FR-2008-03-24/pdf/E8-5906.pdf)  
+[18] *Ibid., p. 15392  
+[19] [8 CFR 214.2(h)(2)(i)(G)](https://www.law.cornell.edu/cfr/text/8/214.2#h_2_i_G)  
+[20] Adopted Decision 2018-02, [*Matter of S- Inc.*](https://www.uscis.gov/sites/default/files/err/D2%20-%20Temporary%20Worker%20in%20a%20Specialty%20Occupation%20or%20Fashion%20Model%20%28H-1B%29/Decisions_Issued_in_2018/JAN112018_03D2101.pdf)  
