@@ -63,7 +63,7 @@ However, for priority date retention, this actually doesn't matter. Priority dat
 Where it *does* matter is for post 6th-year H-1B extensions [13], which require a *currently approved* I-140. Thus, staying at the employer that sponsored the I-140 for at least 180 days after approval helps to prevent possible interruption in your work authorization when you switch to a new employer.
 
 # References
-[1] [8 USC §1182(a)(5)(A)(i)](https://www.law.cornell.edu/uscode/text/8/1182#a_5_A_i)  
+[1] INA 212(a)(5)(A)(i) ([8 USC §1182(a)(5)(A)(i)](https://www.law.cornell.edu/uscode/text/8/1182#a_5_A_i))  
 [2] [8 CFR §204.5(k)(4)(i)](https://www.law.cornell.edu/cfr/text/8/204.5#k_4_i)  
 [3] [8 CFR §204.5(l)(3)(i)](https://www.law.cornell.edu/cfr/text/8/204.5#l_3_i)  
 [4] [20 CFR §656.17(e)](https://www.law.cornell.edu/cfr/text/20/656.17#e)  
@@ -72,8 +72,8 @@ Where it *does* matter is for post 6th-year H-1B extensions [13], which require 
 [7] [8 CFR §204.5(d)](https://www.law.cornell.edu/cfr/text/8/204.5#d)  
 [8] [8 CFR §245.1(g)(1)](https://www.law.cornell.edu/cfr/text/8/245.1#g_1)  
 [9] The bar for "exceptional ability" is not as high as the bar for "extraordinary ability".  
-[10] [8 USC §1153(b)](https://www.law.cornell.edu/uscode/text/8/1153#b)  
-[11] [8 USC §1152(a)(2)](https://www.law.cornell.edu/uscode/text/8/1152#a_2)  
+[10] INA 203(b) ([8 USC §1153(b)](https://www.law.cornell.edu/uscode/text/8/1153#b))  
+[11] INA 202(a)(2) ([8 USC §1152(a)(2)](https://www.law.cornell.edu/uscode/text/8/1152#a_2))  
 [12] [AC21 §104(c)](https://www.congress.gov/bill/106th-congress/senate-bill/2045/text)  
 [13] [8 CFR §214.2(h)(13)(iii)(E)](https://www.law.cornell.edu/cfr/text/8/214.2#h_13_iii_E)  
 [14] [8 CFR §214.2(h)(13)(iii)(A)](https://www.law.cornell.edu/cfr/text/8/214.2#h_13_iii_A)  
