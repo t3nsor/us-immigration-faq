@@ -41,12 +41,12 @@ Yes. If you have a valid and unexpired US visa, then you don't need a Mexican vi
 # References
 [1] [8 CFR §211.1(a)](https://www.law.cornell.edu/cfr/text/8/211.1#a)  
 [2] [8 CFR §217.5(a)](https://www.law.cornell.edu/cfr/text/8/217.5#a)  
-[3] [8 USC §1187(a)(7)](https://www.law.cornell.edu/uscode/text/8/1187#a_7)  
+[3] INA 217(a)(7) ([8 USC §1187(a)(7)](https://www.law.cornell.edu/uscode/text/8/1187#a_7))  
 [4] [8 CFR §217.2(b)(2)](https://www.law.cornell.edu/cfr/text/8/217.2#b_2)  
 [5] https://help.cbp.gov/app/answers/detail/a_id/1097/~/previously-denied-a-visa-or-immigration-benefit  
 [6] [8 CFR §214.1(c)(3)(i)](https://www.law.cornell.edu/cfr/text/8/214.1#c_3_i)  
-[7] [8 USC §1285(a)(4)](https://www.law.cornell.edu/uscode/text/8/1258#a_4)  
-[8] [8 USC §1255(c)(4)](https://www.law.cornell.edu/uscode/text/8/1255#c)  
+[7] INA 248(a)(4) ([8 USC §1258(a)(4)](https://www.law.cornell.edu/uscode/text/8/1258#a_4))  
+[8] INA 245(c)(4) ([8 USC §1255(c)(4)](https://www.law.cornell.edu/uscode/text/8/1255#c))  
 [9] [8 CFR §212.1(a)(1)](https://www.law.cornell.edu/cfr/text/8/212.1#a_1)  
 [10] [8 CFR §212.1(c)(1)(i)](https://www.law.cornell.edu/cfr/text/8/212.1#c_1_i)  
 [11] https://consulmex.sre.gob.mx/sanfrancisco/index.php/visas-traveling-to-mexico  
