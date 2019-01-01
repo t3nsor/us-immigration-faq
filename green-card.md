@@ -81,10 +81,18 @@ If you wish to return to the US as an immigrant in the future after giving up LP
 ## Can I bring my family with me when I immigrate to the US?
 This is a complicated topic. The general principles are as follows:
 * Terminology: the alien who directly qualifies for an immigrant visa or adjustment of status is known as the *principal applicant*. Some immigration categories allow *derivative applicants*: that is, additional individuals, namely the spouse and children of the principal, are eligible to immigrate as well by virtue of their relationship to the principal. Some categories do not allow derivatives. For example, if Form I-140 was filed on your behalf by your employer, then you are a principal applicant and your spouse and children can be included as derivatives; they derive their eligibility from you, rather than through their own employment.
-* In the Immigration and Nationality Act, "child" means unmarried child under the age of 21 [44]. A child who is married or over the age of 21 cannot be included as a derivative. Instead, you may eventually be able to sponsor them as a principal in a family-based immigration category [13], at which time they can bring their own derivatives. However, the waiting time for this is often years or decades.
+* In the Immigration and Nationality Act, "child" means unmarried child under the age of 21, including stepchildren and adopted children under some circumstances [44]. A child who is married or over the age of 21 cannot be included as a derivative. Instead, you may eventually be able to sponsor them as a principal in a family-based immigration category [13], at which time they can bring their own derivatives. However, the waiting time for this is often years or decades.
 * Derivative applicants outside the US may either accompany the principal (enter the US on immigrant visas at the same time as the principal) or follow to join (enter the US on immigrant visas after the principal has immigrated) [43][45]. Derivative applicants in the US may file for adjustment of status either concurrently with the principal or at a later time [46].
 * Your spouse can only qualify as a derivative if you married them before you entered the US on an immigrant visa [45] or before your adjustment of status was approved [46]. A similar rule exists for children, but there are exceptions, for which see [45]. If you get married after you become an LPR, your spouse cannot qualify as a derivative, and must instead be sponsored as a principal. Since, at the time of writing, there is roughly a 2-year backlog for spouses of LPRs [47], you are advised to consider getting married before you acquire LPR status.
 * A child born outside the US to a mother who is already an LPR does not need to receive an immigrant visa as a derivative, but may instead be admitted to the US as an immigrant when accompanying the mother on her first return to the US after the birth of the child [48]. (A child born *in* the US, on the other hand, is already a citizen.)
+
+## Which immigrant classifications allow family members to be derivative beneficiaries?
+In this answer, we will only cover the previously mentioned [routes to LPR status](#how-can-i-apply-for-lawful-permanent-residence-green-card-status). Eligibility for derivative classification, as a spouse or child of the principal applicant, is subject to the caveats discussed above.
+* A principal classified as the immediate relative of a US citizen (spouse, unmarried child under 21, or parent) cannot have derivative benficiaries; their spouses and children must be separately sponsored as principals [52]. (We defer further discussion of this topic to a possible future section of the FAQ dealing specifically with family-based immigration.)
+* [Employment-based](EB.md) immigrants, that is, immigrants with classification EB-1, EB-2, EB-3, EB-4, and EB-5, can have derivative beneficiaries [43].
+* Family-based preference immigrants (F1, F2A, F2B, F3, or F4) can have derivative beneficiaries [43]. However, F1 and F2B immigrants cannot have derivative spouses since those classifications require the principal to be unmarried.
+* Spouses and children of diversity immigrants can have derivative beneficiaries [43].
+* Asylees and refugees can have derivative beneficiaries [49][50]. The derivatives are accorded the same status as the principals, and therefore must apply for LPR status after one year, just as the principal does [51].
 
 # References
 [1] INA 101(a)(15)(O)(i) ([8 USC §1101(a)(15)(O)(i)](https://www.law.cornell.edu/uscode/text/8/1101#a_15_O_i))  
@@ -129,9 +137,15 @@ This is a complicated topic. The general principles are as follows:
 [40] [8 USC §1229a(b)(5)](https://www.law.cornell.edu/uscode/text/8/1229a#b_5)  
 [41] INA 212(a)(6)(B) ([8 USC §1182(a)(6)(B)](https://www.law.cornell.edu/uscode/text/8/1182#a_6_B))  
 [42] INA 212(a)(9)(A) ([8 USC §1182(a)(9)(A)](https://www.law.cornell.edu/uscode/text/8/1182#a_9_A))  
-[43] INA 203(d) ([8 USC §1182(d)](https://www.law.cornell.edu/uscode/text/8/1153#d))  
+[43] INA 203(d) ([8 USC §1153(d)](https://www.law.cornell.edu/uscode/text/8/1153#d))  
 [44] INA 101(b)(1) ([8 USC §1101(b)(1)](https://www.law.cornell.edu/uscode/text/8/1101#b_1))  
 [45] [9 FAM 502.1-1(C)(2)(b)](https://fam.state.gov/FAM/09FAM/09FAM050201.html)  
 [46] [Instructions for Form I-485](https://www.uscis.gov/sites/default/files/files/form/i-485instr.pdf)  
 [47] [January 2019 visa bulletin](https://travel.state.gov/content/travel/en/legal/visa-law0/visa-bulletin/2019/visa-bulletin-for-january-2019.html)  
 [48] [8 CFR §211.1(b)(1)](https://www.law.cornell.edu/cfr/text/8/211.1#b_1)  
+[49] INA 207(c)(2)(A) ([8 USC §1157(c)(2)(A)](https://www.law.cornell.edu/uscode/text/8/1157#c_2_A))  
+[50] INA 208(b)(3)(A) ([8 USC §1158(b)(3)(A)](https://www.law.cornell.edu/uscode/text/8/1158#b_3_A))  
+[51] INA 209(b)(3) ([8 USC §1159(b)(3)](https://www.law.cornell.edu/uscode/text/8/1159#b_3))  
+[52] [8 CFR §204.2(a)(4)](https://www.law.cornell.edu/cfr/text/8/204.2#a_4)  
+[53] *Ibid.*, (d)(4)  
+[54] *Ibid.*, (f)(4)  
