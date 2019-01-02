@@ -91,7 +91,7 @@ In this answer, we will only cover the previously mentioned [routes to LPR statu
 * A principal classified as the immediate relative of a US citizen (spouse, unmarried child under 21, or parent) cannot have derivative benficiaries; their spouses and children must be separately sponsored as principals [52]. (We defer further discussion of this topic to a possible future section of the FAQ dealing specifically with family-based immigration.)
 * [Employment-based](EB.md) immigrants, that is, immigrants with classification EB-1, EB-2, EB-3, EB-4, and EB-5, can have derivative beneficiaries [43].
 * Family-based preference immigrants (F1, F2A, F2B, F3, or F4) can have derivative beneficiaries [43]. However, F1 and F2B immigrants cannot have derivative spouses since those classifications require the principal to be unmarried.
-* Spouses and children of diversity immigrants can have derivative beneficiaries [43].
+* Diversity immigrants can have derivative beneficiaries [43].
 * Asylees and refugees can have derivative beneficiaries [49][50]. The derivatives are accorded the same status as the principals, and therefore must apply for LPR status after one year, just as the principal does [51].
 
 # References
