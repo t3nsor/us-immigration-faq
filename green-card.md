@@ -94,6 +94,21 @@ In this answer, we will only cover the previously mentioned [routes to LPR statu
 * Diversity immigrants can have derivative beneficiaries [43].
 * Asylees and refugees can have derivative beneficiaries [49][50]. The derivatives are accorded the same status as the principals, and therefore must apply for LPR status after one year, just as the principal does [51].
 
+## What happens when an adjustment of status application is denied?
+Denial of Form I-485 results in your status not being adjusted; for example, if you were in H-1B status at the time when Form I-485 was denied, then you continue in H-1B status. However, if your nonimmigrant status has expired by the time that Form I-485 is denied, then you are in trouble, since USCIS has decided to start referring to removal proceedings all denied I-485 applicants who are unlawfully present upon denial [60]. It is therefore advisable to, whenever possible, keep renewing your nonimmigrant status while waiting for your I-485 to be adjudicated. (Unfortunately, there are some nonimmigrant classifications, such as K-1 and K-2, for which this isn't possible.)
+
+## How can I get an Employment Authorization Document (EAD)?
+There are many ways to get an EAD, but only two will be discussed in this section of the FAQ.
+
+Aliens applying for adjustment of status can apply for an EAD [55]. USCIS allows Form I-765, Application for Employment Authorization, to be filed either concurrently with Form I-485, or while Form I-485 is pending [56]. If Form I-485 is approved, you become an LPR and no longer need an EAD. However, many adjustment applicants will want to apply for an EAD because Form I-765 typically takes around 3 months to be approved, which is significantly more quickly than Form I-485.
+
+As an exception, asylees and refugees qualify for employment authorization "incident to status" [59], and even though they may have a pending I-485, they should apply for employment authorization on the basis of their status, not on the basis of the pending I-485 [56].
+
+## If my I-485 is denied, does my EAD get revoked?
+USCIS may revoke an EAD when it determines that a change in circumstances results in you no longer being eligible for employment authorization [57]. Thus, if you received an EAD due to a pending I-485 and the I-485 is denied, USCIS has grounds to revoke the EAD upon written notice, which gives you 15 days to respond (for example, by filing a motion to reopen the adjustment case). Some immigration lawyers claim that regardless of whether or not USCIS notifies you that they are revoking your EAD, the denial of Form I-485 results in automatic revocation of the EAD. Others, however, recognize that federal regulations explicitly require written notice of revocation (see, *e.g.*, [Silzer, 2009](http://ilw.com/articles/2009,0723-silzer.shtm)).
+
+Note, however, that if you are placed in removal proceedings upon the denial of the adjustment of status application (see above), then this has a side effect of automatically revoking your EAD; USCIS is not required to send notice of revocation in such cases [58].
+
 # References
 [1] INA 101(a)(15)(O)(i) ([8 USC §1101(a)(15)(O)(i)](https://www.law.cornell.edu/uscode/text/8/1101#a_15_O_i))  
 [2] INA 289 ([8 USC §1359](https://www.law.cornell.edu/uscode/text/8/1359))  
@@ -149,3 +164,9 @@ In this answer, we will only cover the previously mentioned [routes to LPR statu
 [52] [8 CFR §204.2(a)(4)](https://www.law.cornell.edu/cfr/text/8/204.2#a_4)  
 [53] *Ibid.*, (d)(4)  
 [54] *Ibid.*, (f)(4)  
+[55] [8 CFR §274a.12(c)(9)](https://www.law.cornell.edu/cfr/text/8/274a.12#c_9)  
+[56] [Instructions for Form I-765](https://www.uscis.gov/sites/default/files/files/form/i-765instr.pdf)  
+[57] [8 CFR §274a.14(b)](https://www.law.cornell.edu/cfr/text/8/274a.14#b)  
+[58] *Ibid.*, (a)  
+[59] [8 CFR §274a.12(a)(3–5)](https://www.law.cornell.edu/cfr/text/8/274a.12#a)  
+[60] [Notice to Appear Policy Memorandum](https://www.uscis.gov/legal-resources/notice-appear-policy-memorandum)  
