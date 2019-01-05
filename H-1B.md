@@ -79,7 +79,9 @@ Due to [8 CFR 214.2(h)(4)(ii)](https://www.law.cornell.edu/cfr/text/8/214.2#h_4_
 This does **not** mean that H-1B workers aren't permitted to start companies, but if they want to be able to work for their startup while in H-1B status, there must be a legal structure in which an employer-employee relationship exists according to USCIS policy. For example, if you co-found a startup with a US citizen, in which the US citizen is the CEO and you are the CTO, and you report directly to the CEO, with the CEO having the power to fire you, then this startup *may* be able to sponsor you for H-1B status. It should go without saying that if you're planning on getting your work authorization through your startup, you should consult an immigration lawyer who is experienced with drafting H-1B petitions for startups, and have them advise you on what kind of legal structure would allow you to achieve your objectives.
 
 ## How can I get an Employment Authorization Document (EAD)?
-TODO
+An EAD grants employment authorization that is not restricted to a particular employer (for example, it allows self-employment), but not all H-1B nonimmigrants will qualify for one. There are two common ways for an H-1B nonimmigrant to get an EAD:
+1. With a pending Form I-485 [24]. Usually this will be at the final stage of the [employment-based green card process](EB.md), but could also occur through, *e.g.*, marriage to a US citizen. See [the green card FAQ](green-card.md).
+2. With an approved [Form I-140](EB.md), but only if you can convince USCIS that you have "compelling circumstances" and your priority date is within 1 year of the cut-off date [25].
 
 # References
 [1] INA 101(a)(15)(L) ([8 USC §1101(a)(15)(L)](https://www.law.cornell.edu/uscode/text/8/1101#a_15_L))  
@@ -100,8 +102,10 @@ TODO
 [16] https://www.uscis.gov/tools/reports-studies/reports-and-studies  
 [17] [73 FR 15391](https://www.gpo.gov/fdsys/pkg/FR-2008-03-24/pdf/E8-5906.pdf)  
 [18] *Ibid.*, p. 15392  
-[19] [8 CFR 214.2(h)(2)(i)(G)](https://www.law.cornell.edu/cfr/text/8/214.2#h_2_i_G)  
+[19] [8 CFR §214.2(h)(2)(i)(G)](https://www.law.cornell.edu/cfr/text/8/214.2#h_2_i_G)  
 [20] Adopted Decision 2018-02, [*Matter of S- Inc.*](https://www.uscis.gov/sites/default/files/err/D2%20-%20Temporary%20Worker%20in%20a%20Specialty%20Occupation%20or%20Fashion%20Model%20%28H-1B%29/Decisions_Issued_in_2018/JAN112018_03D2101.pdf)  
-[21] [8 CFR 274a.12(b)(9)](https://www.law.cornell.edu/cfr/text/8/274a.12#b_9)  
-[22] [8 CFR 214.2(h)(2)(i)(H)](https://www.law.cornell.edu/cfr/text/8/214.2#h_2_i_H)  
-[23] [USCIS AFM 31.3(g)(16)](https://www.uscis.gov/ilink/docView/AFM/HTML/AFM/0-0-0-1/0-0-0-13593/0-0-0-13813.html#0-0-0-511)  
+[21] [8 CFR §274a.12(b)(9)](https://www.law.cornell.edu/cfr/text/8/274a.12#b_9)  
+[22] [8 CFR §214.2(h)(2)(i)(H)](https://www.law.cornell.edu/cfr/text/8/214.2#h_2_i_H)  
+[23] [USCIS-AFM 31.3(g)(16)](https://www.uscis.gov/ilink/docView/AFM/HTML/AFM/0-0-0-1/0-0-0-13593/0-0-0-13813.html#0-0-0-511)  
+[24] [8 CFR §274a.12(c)(9)](https://www.law.cornell.edu/cfr/text/8/274a.12#c_9)  
+[25] [8 CFR §204.5(p)](https://www.law.cornell.edu/cfr/text/8/204.5#p)  
