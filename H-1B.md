@@ -70,6 +70,17 @@ However, as discussed above, you need multiple *different* employers to file H-1
 
 Thus, in order to use this tactic, you need to get two *genuinely distinct* offers. For example, if you are graduating soon, and you have applied to both Google, Inc. and Facebook, Inc. as a new grad software engineer, both have extended you an offer and both are willing to sponsor you for a work visa and enter you in the H-1B lottery, and you accept both offers and fill out the required paperwork, then you'd double your chances of having at least one petition approved, compared to someone else who only has one petition filed on their behalf. (This tactic does not appear to be used often, possibly because candidates don't like to be dishonest by accepting multiple offers and risk burning bridges.)
 
+## Can I do any work other than for my sponsoring employer?
+Unless they have an EAD, an H-1B alien is only permitted to work for a petitioning employer [21], but can work for multiple petitioning employers concurrently [22]. Thus, when an H-1B worker wants to work for an employer other than the employer that sponsored their current status, the new employer must file an H-1B petition, and the employee may choose to work for both employers concurrently, or to quit their current job and start working for the new employer.
+
+## Can I be self-employed while in H-1B status?
+Due to [8 CFR 214.2(h)(4)(ii)](https://www.law.cornell.edu/cfr/text/8/214.2#h_4_ii), a petitioning employer must have an "employer-employee relationship" with the beneficiary, and USCIS has interpreted this requirement to include the "right to control". If you're self-employed, then there's no entity other than yourself that has the right to control your work, so this requirement would not be satisfied [23]. Since, as discussed in the previous answer, an H-1B worker isn't permitted to engage in any employment other than for a petitioning employer [21], this effectively prohibits self-employment while in H-1B status (again, unless you have an EAD; see below).
+
+This does **not** mean that H-1B workers aren't permitted to start companies, but if they want to be able to work for their startup while in H-1B status, there must be a legal structure in which an employer-employee relationship exists according to USCIS policy. For example, if you co-found a startup with a US citizen, in which the US citizen is the CEO and you are the CTO, and you report directly to the CEO, with the CEO having the power to fire you, then this startup *may* be able to sponsor you for H-1B status. It should go without saying that if you're planning on getting your work authorization through your startup, you should consult an immigration lawyer who is experienced with drafting H-1B petitions for startups, and have them advise you on what kind of legal structure would allow you to achieve your objectives.
+
+## How can I get an Employment Authorization Document (EAD)?
+TODO
+
 # References
 [1] INA 101(a)(15)(L) ([8 USC §1101(a)(15)(L)](https://www.law.cornell.edu/uscode/text/8/1101#a_15_L))  
 [2] INA 214(g)(1)(A)(vii) ([8 USC §1184(g)(1)(A)(vii)](https://www.law.cornell.edu/uscode/text/8/1184#g_1_A_vii))  
@@ -88,6 +99,9 @@ Thus, in order to use this tactic, you need to get two *genuinely distinct* offe
 [15] [USCIS-AFM 31.3(g)(15)](https://www.uscis.gov/ilink/docView/AFM/HTML/AFM/0-0-0-1/0-0-0-13593/0-0-0-13813.html)  
 [16] https://www.uscis.gov/tools/reports-studies/reports-and-studies  
 [17] [73 FR 15391](https://www.gpo.gov/fdsys/pkg/FR-2008-03-24/pdf/E8-5906.pdf)  
-[18] *Ibid., p. 15392  
+[18] *Ibid.*, p. 15392  
 [19] [8 CFR 214.2(h)(2)(i)(G)](https://www.law.cornell.edu/cfr/text/8/214.2#h_2_i_G)  
 [20] Adopted Decision 2018-02, [*Matter of S- Inc.*](https://www.uscis.gov/sites/default/files/err/D2%20-%20Temporary%20Worker%20in%20a%20Specialty%20Occupation%20or%20Fashion%20Model%20%28H-1B%29/Decisions_Issued_in_2018/JAN112018_03D2101.pdf)  
+[21] [8 CFR 274a.12(b)(9)](https://www.law.cornell.edu/cfr/text/8/274a.12#b_9)  
+[22] [8 CFR 214.2(h)(2)(i)(H)](https://www.law.cornell.edu/cfr/text/8/214.2#h_2_i_H)  
+[23] [USCIS AFM 31.3(g)(16)](https://www.uscis.gov/ilink/docView/AFM/HTML/AFM/0-0-0-1/0-0-0-13593/0-0-0-13813.html#0-0-0-511)  
