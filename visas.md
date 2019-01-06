@@ -38,6 +38,13 @@ No. You need a Canadian visa, unless you're a citizen of one of the [visa-exempt
 ## Can I visit Mexico with a US visa?
 Yes. If you have a valid and unexpired US visa, then you don't need a Mexican visa to visit Mexico. [11]
 
+## Are Canadians still visa-exempt even if they've violated immigration laws or been denied admission or denied an immigration benefit?
+Yes. Federal regulations [9] do not appear to contemplate any exceptions to the visa exemptions enjoyed by Canadians seeking admission as nonimmigrants other than in E, K, S, or V status. Thus, being denied entry to the US, or making some other request for an immigration benefit which ends up denied, does not create a requirement for Canadians to apply for visas in the future; nor do violations, ranging from minor ones such as overstaying by a few days, to the more serious, such as engaging in unauthorized employment.
+
+Thus, as discussed previously, the rules are quite different for Canadians and other visa-exempt nationals, such as Australians; circumstances such as overstays that would force other nationals to apply for visas for future visits to the US do not have the same effect on Canadians.
+
+It is important to remember that aliens in general, including Canadians, may become inadmissible to the US if they were previously removed or committed certain severe crimes or violations of US immigration law. Even in such cases, there is no point in a Canadian trying to apply for a visa, since the application will be denied due to inadmissibility anyway. It is sometimes possible to have grounds of inadmissibility waived by filing the appropriate form. If the waiver application is approved, the Canadian is then once again eligible for visa-free entry.
+
 # References
 [1] [8 CFR §211.1(a)](https://www.law.cornell.edu/cfr/text/8/211.1#a)  
 [2] [8 CFR §217.5(a)](https://www.law.cornell.edu/cfr/text/8/217.5#a)  
