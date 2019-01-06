@@ -28,7 +28,7 @@ Attending a job interview is not "work", and is a permitted activity for visitor
 ## How can I apply for a nonimmigrant work visa?
 This process involves both you and your sponsoring employer.
 1. Your sponsoring employer must first file a petition with USCIS to establish your eligibility for one of the nonimmigrant classes eligible for employment in the US
-2. Once this petition is approved, **you** can use it to apply for the corresponding visa type through [the usual procedure](https://travel.state.gov/content/travel/en/us-visas/tourism-visit/visitor.html); your employer does not need to be involved when you are applying for the visa itself.
+2. Once this petition is approved, **you** can use it to apply for the corresponding visa type at a consular post; see [here](https://travel.state.gov/content/travel/en/us-visas/employment/temporary-worker-visas.html) for instructions. Your employer does not need to be involved when you are applying for the visa itself.
 
 If you're visa-exempt, you still need the approved petition from step 1 in order to obtain the nonimmigrant status you are seeking.
 
