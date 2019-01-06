@@ -91,7 +91,14 @@ An EAD grants employment authorization that is not restricted to a particular em
 ## How can I change employers in H-1B status?
 Since, as discussed above, H-1B nonimmigrants are generally authorized only to work for a sponsoring employer, if an H-1B worker wants to change jobs, the new company must be one that is willing to sponsor H-1Bs, and must file an H-1B petition (Form I-129) on behalf of the prospective employee. Therefore, the new job must also be in a speciality occupation and is subject to the same evidentiary requirements as any previous H-1B petitions. However, as previously discussed, an alien who has already been counted against the H-1B cap does not need to enter the lottery again until they've used up 6 years of H-1B time [13]. This means that switching jobs while already in H-1B status tends to be a quicker process than getting an H-1B for your first job in the US.
 
-In fact, in order to make it as easy as possible for H-1B workers to switch jobs, the [AC21 Act](https://en.wikipedia.org/wiki/American_Competitiveness_in_the_21st_Century_Act) included a provision that allows an H-1B worker to commence new employment as soon as the new employer *files* the H-1B petition; that is, it's not necessary to wait for the petition to be *approved* [27]. In order to take advantage of this portability provision, the H-1B worker must (TO BE CONTINUED)
+If the H-1B worker wants to change employers without leaving the US, the new employer should file for an extension of stay on the I-129 petition [35]. (Note that sometimes this doesn't actually lengthen the period for which the beneficiary is allowed to remain in the US, but it is nonetheless considered an application for extension of stay. Presumably the logic employed by USCIS here is that the alien's authorized period of stay in H-1B status *with respect to the new employer* is initially zero, and then becomes nonzero once the petition is approved.)
+
+In order to make it as easy as possible for H-1B workers to switch jobs, the [AC21 Act](https://en.wikipedia.org/wiki/American_Competitiveness_in_the_21st_Century_Act) included a provision that allows an H-1B worker to commence new employment as soon as the new employer *files* the H-1B petition; that is, it's not necessary to wait for the petition to be *approved*. However, in order to take advantage of this portability provision, the H-1B worker must meet the other conditions to be eligible for extension of stay, that is, they must be maintaining their H-1B status at the time of filing [27][37][39]. If the petition is denied, the worker must stop working for the new employer [27].
+
+The H-1B worker can continue to use their valid, unexpired H-1B visa for admission to the United States after changing employers. However, if the visa expires while the new petition is pending, they won't be eligible for a new visa until the new petition is approved [40]. Therefore, H-1B workers should not travel outside the United States while a portability petition is pending unless their visa will still be valid at the time they plan to return.
+
+## What happens if my I-94 expires while my new employer's H-1B petition is pending?
+TODO
 
 # References
 [1] INA 101(a)(15)(L) ([8 USC §1101(a)(15)(L)](https://www.law.cornell.edu/uscode/text/8/1101#a_15_L))  
@@ -128,3 +135,9 @@ In fact, in order to make it as easy as possible for H-1B workers to switch jobs
 [32] [Instructions for Petition for Nonimmigrant Worker](https://www.uscis.gov/sites/default/files/files/form/i-129instr.pdf)  
 [33] [USCIS-AFM 30.3(d)(3)](https://www.uscis.gov/ilink/docView/AFM/HTML/AFM/0-0-0-1/0-0-0-12693/0-0-0-12947.html)  
 [34] *Ibid.*, (d)(7)(A)
+[35] [8 CFR §214.2(h)(2)(i)(D)](https://www.law.cornell.edu/cfr/text/8/214.2#h_2_i_D)  
+[36] *Ibid.*, (h)(15)(ii)(B)  
+[37] *Ibid.*, (h)(2)(i)(H)  
+[38] [USCIS-AFM 30.2(d)(3)](https://www.uscis.gov/ilink/docView/AFM/HTML/AFM/0-0-0-1/0-0-0-12693/0-0-0-12738.html)  
+[39] [8 CFR §214.1(c)(4)](https://www.law.cornell.edu/cfr/text/8/214.1#c_4)  
+[40] [9 FAM 402.10-11(A)](https://fam.state.gov/FAM/09FAM/09FAM040210.html)  
