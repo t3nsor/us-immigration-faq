@@ -1,6 +1,11 @@
 ## Why should I apply for H-1B as opposed to other work visas?
 Most people who want to work in the United States will only be able to qualify for either H-1B or [L-1](L-1.md) status, although you can find a list of other work visas on the [general FAQ](general.md). Foreign nationals who already live in the US are usually more interested in H-1B status, since obtaining L-1 status would require them to spend a year working outside the US first. In addition, since L-1 status is only valid with respect to the particular company the alien has worked at for a year abroad, it's not possible to switch companies while in L-1 status without leaving the US or switching to H-1B [1]. Even people who already hold L-1 status will often need to switch to H-1B in order to be able to continue working in the US for longer than five years (see below).
 
+## What is the process to apply for an H-1B visa or H-1B status?
+H-1B is a petition-based classification; an H-1B visa or change of status to H-1B cannot be granted unless the employer has filed an appropriate petition [28]. The form that the employer must use for filing a petition is called Form I-129 [29]. You don't have to worry about this form too much, since it will always be prepared by your employer or by a lawyer on your employer's behalf. However, we will make occasional references to it. If the petition is approved, the employer will receive a Form I-797 [30] and will usually forward the original to the prospective H-1B worker, keeping a copy for themselves.
+
+If the beneficiary (*i.e.,* the alien seeking to be employed in H-1B status) is abroad, they are usually required to apply for a [visa](visas.md). Visa-exempt individuals, such as Canadians, must bring the original I-797 or a copy to the port of entry when applying for admission [31]. If the beneficiary is already in the United States, the petitioner may request to change the beneficiary's status to H-1B instead of requiring them to leave the US and apply for an H-1B visa [32]. The adjudication of such a request is a two-step process, in which USCIS first determines whether the beneficiary qualifies for H-1B classification, and then determines whether the beneficiary qualifies to change their status to H-1B while in the United States [33]. Usually, both steps will be approved, in which case USCIS sends Form I-797A, containing an I-94 indicating the new H-1B status and authorized period of stay [34]. However, it's possible that the petition is approved while the change of status is denied—typically because USCIS has determined that the beneficiary has violated their status, making them ineligible for a change of status—and the beneficiary must usually leave the United States and apply for a visa or for status at the port of entry.
+
 ## Who can qualify for H-1B status?
 You may be eligible for H-1B status if an employer sponsors you for a position in a "specialty occupation", which is an occupation that generally requires a bachelor's degree or equivalent training or progressive experience. See [this page by USCIS](https://www.uscis.gov/working-united-states/temporary-workers/h-1b-specialty-occupations-dod-cooperative-research-and-development-project-workers-and-fashion-models) for more information.
 
@@ -81,7 +86,12 @@ This does **not** mean that H-1B workers aren't permitted to start companies, bu
 ## How can I get an Employment Authorization Document (EAD)?
 An EAD grants employment authorization that is not restricted to a particular employer (for example, it allows self-employment), but not all H-1B nonimmigrants will qualify for one. There are two common ways for an H-1B nonimmigrant to get an EAD:
 1. With a pending Form I-485 [24]. Usually this will be at the final stage of the [employment-based green card process](EB.md), but could also occur through, *e.g.*, marriage to a US citizen. See [the green card FAQ](green-card.md).
-2. With an approved [Form I-140](EB.md), but only if you can convince USCIS that you have "compelling circumstances" and your priority date is within 1 year of the cut-off date [25].
+2. With an approved [Form I-140](EB.md), but only if you can convince USCIS that you have "compelling circumstances" and your priority date is within 1 year of the cut-off date [25][26].
+
+## How can I change employers in H-1B status?
+Since, as discussed above, H-1B nonimmigrants are generally authorized only to work for a sponsoring employer, if an H-1B worker wants to change jobs, the new company must be one that is willing to sponsor H-1Bs, and must file an H-1B petition (Form I-129) on behalf of the prospective employee. Therefore, the new job must also be in a speciality occupation and is subject to the same evidentiary requirements as any previous H-1B petitions. However, as previously discussed, an alien who has already been counted against the H-1B cap does not need to enter the lottery again until they've used up 6 years of H-1B time [13]. This means that switching jobs while already in H-1B status tends to be a quicker process than getting an H-1B for your first job in the US.
+
+In fact, in order to make it as easy as possible for H-1B workers to switch jobs, the [AC21 Act](https://en.wikipedia.org/wiki/American_Competitiveness_in_the_21st_Century_Act) included a provision that allows an H-1B worker to commence new employment as soon as the new employer *files* the H-1B petition; that is, it's not necessary to wait for the petition to be *approved* [27]. In order to take advantage of this portability provision, the H-1B worker must (TO BE CONTINUED)
 
 # References
 [1] INA 101(a)(15)(L) ([8 USC §1101(a)(15)(L)](https://www.law.cornell.edu/uscode/text/8/1101#a_15_L))  
@@ -109,3 +119,12 @@ An EAD grants employment authorization that is not restricted to a particular em
 [23] [USCIS-AFM 31.3(g)(16)](https://www.uscis.gov/ilink/docView/AFM/HTML/AFM/0-0-0-1/0-0-0-13593/0-0-0-13813.html#0-0-0-511)  
 [24] [8 CFR §274a.12(c)(9)](https://www.law.cornell.edu/cfr/text/8/274a.12#c_9)  
 [25] [8 CFR §204.5(p)](https://www.law.cornell.edu/cfr/text/8/204.5#p)  
+[26] [Employment Authorization in Compelling Circumstances](https://www.uscis.gov/working-united-states/employment-authorization-compelling-circumstances)  
+[27] INA 214(n) ([8 USC §1184(n)](https://www.law.cornell.edu/uscode/text/8/1184#n))  
+[28] *Ibid.*, (c)(1)  
+[29] [8 CFR §214.2(h)(2)(i)(A)](https://www.law.cornell.edu/cfr/text/8/214.2#h_2_i_A)  
+[30] *Ibid.*, (h)(9)(i)  
+[31] [9 FAM 402.10-7(G)](https://fam.state.gov/FAM/09FAM/09FAM040210.html)  
+[32] [Instructions for Petition for Nonimmigrant Worker](https://www.uscis.gov/sites/default/files/files/form/i-129instr.pdf)  
+[33] [USCIS-AFM 30.3(d)(3)](https://www.uscis.gov/ilink/docView/AFM/HTML/AFM/0-0-0-1/0-0-0-12693/0-0-0-12947.html)  
+[34] *Ibid.*, (d)(7)(A)
