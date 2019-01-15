@@ -37,6 +37,15 @@ In recent years there have been more than 85,000 applicants per year. You might 
 * Aliens who have already been counted against the cap are, for the next 6 years, not subject to the cap when seeking admission in H-1B status or switching to another employer wishing to sponsor them for H-1B status [13]. Days spent outside the US do not count against the 6 years [14], so winning the lottery qualifies you up to 6 years of total time in the US in H-1B status, assuming that you also qualify on the merits and are not inadmissible.
 * There are circumstances in which H-1B time can be extended beyond 6 years (see below).
 
+## What happens when you have used up 6 years in H-1B status?
+We simply quote the text of the relevant regulation [41]:
+
+> An H-1B alien in a specialty occupation or an alien of distinguished merit and ability who has spent six years in the United States under section 101(a)(15)(H) and/or (L) of the Act may not seek extension, change status, or be readmitted to the United States under section 101(a)(15) (H) or (L) of the Act unless the alien has resided and been physically present outside the United States, except for brief trips for business or pleasure, for the immediate prior year.
+
+There are some exceptions to the 6-year limitation in cases where the alien is being [sponsored for a green card](EB.md), which are discussed in more detail below.
+
+Once the alien has resided outside the US for one year, they can qualify for H-1B status again, but are no longer cap-exempt as described in [13] and must go through the lottery again in order to obtain a new allotment of up to 6 years in H-1B status.
+
 ## What are the rules on recapturing the unused portion of your 6 years?
 As discussed previously, once you are counted against the cap, you are entitled to not be counted against the cap again until you've used up your total 6 years, and days spent outside the US do not count toward that limit [14]. Days spent outside the US are said to be eligible for "recapture": that is, a petition for extension of H-1B status can request an extension beyond the 6th anniversary of the alien's initial admission in H-1B status by demonstrating that the alien was outside the US for some of the 6 year period. According to regulations [14]:
 
@@ -141,3 +150,4 @@ TODO
 [38] [USCIS-AFM 30.2(d)(3)](https://www.uscis.gov/ilink/docView/AFM/HTML/AFM/0-0-0-1/0-0-0-12693/0-0-0-12738.html)  
 [39] [8 CFR §214.1(c)(4)](https://www.law.cornell.edu/cfr/text/8/214.1#c_4)  
 [40] [9 FAM 402.10-11(A)](https://fam.state.gov/FAM/09FAM/09FAM040210.html)  
+[41] [8 CFR §214.2(h)(13)(iii)(A)](https://www.law.cornell.edu/cfr/text/8/214.2#h_13_iii_A)  
