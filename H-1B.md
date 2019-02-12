@@ -113,6 +113,13 @@ Unfortunately, the laws that are actually on the books are unclear about this. S
 
 If the petition is denied after your I-94 has expired, you no longer have authorization to be employed in the US, and unlawful presence begins to accrue [43].
 
+## What happens if my employer applies to extend my stay, but my I-94 expires while the petition is pending?
+The answer to this question is similar to the answer to the previous question, but with a caveat. Provided that the extension petition was filed prior to the expiration of status and you did not violate your status, you are authorized to continue employment with the same employer after your I-94 expires---but **only for up to 240 days after the expiration of status** [44]. USCIS makes an effort to adjudicate extension petitions within 240 days, and even [suspended premium processing](https://www.uscis.gov/news/uscis-extends-and-expands-suspension-premium-processing-h-1b-petitions-reduce-delays) at one point in order to prioritize petitions that were approaching 240 days of pendency.
+
+(As in the portability case, there is technically no guarantee that ICE will recognize this 240-day period as authorized stay, but in practice, one doesn't need to worry about this.)
+
+Again, unlawful presence will begin to accrue if the petition is denied after your I-94 has expired. Denials became more likely in 2017 following new USCIS [guidance](https://www.uscis.gov/sites/default/files/USCIS/Laws/Memoranda/2017/2017-10-23Rescission-of-Deference-PM6020151.pdf) instructing adjudicators not to defer to prior approvals.
+
 # References
 [1] INA 101(a)(15)(L) ([8 USC §1101(a)(15)(L)](https://www.law.cornell.edu/uscode/text/8/1101#a_15_L))  
 [2] INA 214(g)(1)(A)(vii) ([8 USC §1184(g)(1)(A)(vii)](https://www.law.cornell.edu/uscode/text/8/1184#g_1_A_vii))  
@@ -156,4 +163,5 @@ If the petition is denied after your I-94 has expired, you no longer have author
 [40] [9 FAM 402.10-11(A)](https://fam.state.gov/FAM/09FAM/09FAM040210.html)  
 [41] [8 CFR §214.2(h)(13)(iii)(A)](https://www.law.cornell.edu/cfr/text/8/214.2#h_13_iii_A)  
 [42] [USCIS-AFM 40.9.2(b)(3)(B)](https://www.uscis.gov/ilink/docView/AFM/HTML/AFM/0-0-0-1/0-0-0-17138/0-0-0-18383.html#0-0-0-1865)  
-[43] *Ibid.*, (b)(3)(D)(iv)
+[43] *Ibid.*, (b)(3)(D)(iv)  
+[44] [8 CFR §274a.12](https://www.law.cornell.edu/cfr/text/8/274a.12#b_20)   
