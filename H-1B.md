@@ -42,6 +42,8 @@ We simply quote the text of the relevant regulation [41]:
 
 > An H-1B alien in a specialty occupation or an alien of distinguished merit and ability who has spent six years in the United States under section 101(a)(15)(H) and/or (L) of the Act may not seek extension, change status, or be readmitted to the United States under section 101(a)(15) (H) or (L) of the Act unless the alien has resided and been physically present outside the United States, except for brief trips for business or pleasure, for the immediate prior year.
 
+(Observe that it says "(H) and/or (L)"; this means that time spent in L-1 status counts against the 6-year limit on H-1B time.)
+
 There are some exceptions to the 6-year limitation in cases where the alien is being [sponsored for a green card](EB.md), which are discussed in more detail below.
 
 Once the alien has resided outside the US for one year, they can qualify for H-1B status again, but are no longer cap-exempt as described in [13] and must go through the lottery again in order to obtain a new allotment of up to 6 years in H-1B status.
@@ -120,6 +122,53 @@ The answer to this question is similar to the answer to the previous question, b
 
 Again, unlawful presence will begin to accrue if the petition is denied after your I-94 has expired. Denials became more likely in 2017 following new USCIS [guidance](https://www.uscis.gov/sites/default/files/USCIS/Laws/Memoranda/2017/2017-10-23Rescission-of-Deference-PM6020151.pdf) instructing adjudicators not to defer to prior approvals.
 
+## How can I extend my H-1B beyond 6 years?
+As discussed above, it's possible to recapture time spent outside the US, so extensions and periods of admission may be granted until the H-1B worker has actually spent 6 years *in H-1B status*. However, there are also two exceptions to the 6-year limit that apply when you have reached certain stages in the [green card process](EB.md):
+
+1. The "lengthy adjudication" exemption. To qualify, you or your employer must have begun the green card filing process---by filing a labor certification or I-140---at least 365 days ago.
+2. The "per-country limitation" exemption. To qualify, you must be the beneficiary of an approved I-140.
+
+## What are the rules for the lengthy adjudication exemption?
+This exemption was created by AC21 §106 [45]. By statute, you qualify for this exemption if:
+* You currently hold, or ever held H-1B status; and
+* An employment-based immigrant visa petition or employment-based adjustment of status application has been filed on your behalf; and
+* At least 365 days have elapsed since the filing of the visa petition or a labor certification, if required for the corresponding employment-based immigrant classification.
+
+Those who qualify for the exemption may be granted H-1B status beyond the 6 year limitation, for 1 year at a time, "until such time as a final decision is made on the alien’s lawful permanent residence."
+
+The wording of the statute left certain issues unclear. In 2017, DHS issued guidance [49] codifying (among other things) DHS's current interpretation of AC21. According to these rules [46] and the further clarification from the AFM [50][51], you qualify for this exemption if:
+* You currently hold, or ever held H-1B status; and
+* Any of the following are true:
+    * A labor certification required for EB-2 or EB-3 classification has been filed on your behalf and has been pending for at least 365 days; or
+    * A labor certification required for EB-2 or EB-3 classification was filed at least 365 days ago, was approved, and has neither expired nor been revoked; or
+    * An I-140 filed on your behalf is pending, and at least 365 days have elapsed since either the I-140 itself was filed or the approved labor certification required for the I-140 was filed; or
+    * An I-140 filed on your behalf has been approved and is still approved, and you are awaiting the availability of an immigrant visa number; or
+    * You have filed for adjustment of status or an immigrant visa based on your approved I-140, and your adjustment of status application or immigrant visa application is pending.
+
+The regulations appear to be a bit broader than the statute; for example, if your labor certification has been pending for 365 days so your employer hasn't been able to file an I-140 on your behalf yet, you would still be eligible. (We won't speculate here on whether this is a permissible implementation of the statute.) The regulations also clarify the point at which eligibility for this exemption expires (*i.e.*, the interpretation of the "until" clause of the statute), which is reflected in the criteria given above, and the fact that the H-1B petitioner need not be the same as the one that filed the qualifying labor certification or I-140.
+
+Also relevant is the fact that an I-140 that has been approved for at least 180 days remains approved even if it is withdrawn by the petitioner or if the petitioner goes out of business [52]. This implies that such an I-140 can still be used for H-1B extensions provided that the other conditions described above are met. The announcement in the Federal Register clearly indicates that this was the intent [53]. For this reason, it's generally advised that you remain with your employer for at least 180 days after your I-140 is approved, unless you are sure that they won't withdraw it after you leave. (This would only apply to your *first* I-140; as long as that one stays approved, you can use it for H-1B extensions even if subsequent I-140s are revoked.)
+
+Note that the exemption provided by AC21 §106 and the corresponding regulations is an exemption from the 6 year limitation itself, and not merely a rule permitting *extensions* beyond the 6th year. Thus, it can be claimed even if the H-1B petition is not an extension petition. Thus, provided you meet the criteria above, you could qualify for H-1B status beyond the 6th year regardless of whether the time after the 6th year is being sought as an extension of stay or whether, say, you're currently outside the US and need to be admitted to start working for a new H-1B sponsor after having already used up 6 years.
+
+The 365-day waiting period required to claim the lengthy adjudication exemption is the reason why most companies will try to file the labor certification before the end of the fifth year of the employee's H-1B time. Assuming that the labor certification and I-140 are not denied, this ensures that the employee will become eligible for the exemption by the time their 6 years period expires, so no interruption to their employment will be necessary.
+
+## What are the rules for the per-country limitation exemption?
+This exemption was created by AC21 §104(c) [47], according to which you qualify if:
+* You currently hold, or ever held H-1B status; and
+* An EB-1, EB-2, or EB-3 immigrant visa petition filed on your behalf has been approved; and
+* Despite the approved petition, you are not able to be granted LPR status at the present time due to the [per-country cap](green-card.md#what-is-the-7-per-country-cap).
+
+Eligibility for this exemption lasts "until the alien’s application for adjustment of status has been processed and a decision made thereon."
+
+Many people who qualify for the per-country limitation exemption will also qualify for the lengthy adjudication exemption under current DHS rules (see the previous question). However, the per-country limitation exemption gives you 3 years at a time [48] whereas the lengthy adjudication exemption only gives you 1 year at a time.
+
+The regulations [48] clarify that:
+* You are still eligible for this exemption while your I-485 or immigrant visa application at a consular post is *pending*.
+* The H-1B petitioner need not be the same one that filed the I-140 used to qualify for the exemption.
+
+The paragraph regarding the 180-day rule in the answer to the previous question about the lengthy adjudication exemption also applies to the per-country limitation exemption. Likewise, note that the exemption is not limited to extension petitions.
+
 # References
 [1] INA 101(a)(15)(L) ([8 USC §1101(a)(15)(L)](https://www.law.cornell.edu/uscode/text/8/1101#a_15_L))  
 [2] INA 214(g)(1)(A)(vii) ([8 USC §1184(g)(1)(A)(vii)](https://www.law.cornell.edu/uscode/text/8/1184#g_1_A_vii))  
@@ -165,3 +214,12 @@ Again, unlawful presence will begin to accrue if the petition is denied after yo
 [42] [USCIS-AFM 40.9.2(b)(3)(B)](https://www.uscis.gov/ilink/docView/AFM/HTML/AFM/0-0-0-1/0-0-0-17138/0-0-0-18383.html#0-0-0-1865)  
 [43] *Ibid.*, (b)(3)(D)(iv)  
 [44] [8 CFR §274a.12](https://www.law.cornell.edu/cfr/text/8/274a.12#b_20)   
+[45] [AC21 §106(a–b)](https://www.uscis.gov/ilink/docView/PUBLAW/HTML/PUBLAW/0-0-0-22204.html)  
+[46] [8 CFR §214.2(h)(13)(iii)(D)](https://www.law.cornell.edu/cfr/text/8/214.2#h_13_iii_D)  
+[47] [AC21 §104(c)](https://www.uscis.gov/ilink/docView/PUBLAW/HTML/PUBLAW/0-0-0-22204.html)  
+[48] [8 CFR §214.2(h)(13)(iii)(E)](https://www.law.cornell.edu/cfr/text/8/214.2#h_13_iii_E)  
+[49] [81 FR 82398–82492](https://www.govinfo.gov/content/pkg/FR-2016-11-18/pdf/2016-27540.pdf)  
+[50] [USCIS-AFM 31.2(d)(4)](https://www.uscis.gov/ilink/docView/AFM/HTML/AFM/0-0-0-1/0-0-0-13593/0-0-0-13680.html)  
+[51] [USCIS-AFM 31.3(g)(8)](https://www.uscis.gov/ilink/docView/AFM/HTML/AFM/0-0-0-1/0-0-0-13593/0-0-0-13813.html)  
+[52] [8 CFR §205.1(a)(3)(iii)(C–D)](https://www.law.cornell.edu/cfr/text/8/205.1#a_3_iii)  
+[53] [81 FR pp. 82407, 82414–82415](https://www.govinfo.gov/content/pkg/FR-2016-11-18/pdf/2016-27540.pdf)  
