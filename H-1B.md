@@ -163,9 +163,7 @@ Eligibility for this exemption lasts "until the alien’s application for adjust
 
 Many people who qualify for the per-country limitation exemption will also qualify for the lengthy adjudication exemption under current DHS rules (see the previous question). However, the per-country limitation exemption gives you 3 years at a time [48] whereas the lengthy adjudication exemption only gives you 1 year at a time.
 
-The regulations [48] clarify that:
-* You are still eligible for this exemption while your I-485 or immigrant visa application at a consular post is *pending*.
-* The H-1B petitioner need not be the same one that filed the I-140 used to qualify for the exemption.
+The regulations [48] clarify that the H-1B petitioner need not be the same one that filed the I-140 used to qualify for the exemption.
 
 The paragraph regarding the 180-day rule in the answer to the previous question about the lengthy adjudication exemption also applies to the per-country limitation exemption. Likewise, note that the exemption is not limited to extension petitions.
 
