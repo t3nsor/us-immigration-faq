@@ -33,6 +33,15 @@ If you're seeking to do an internship in the US, you don't need an H, L, or O vi
 ## How can I get a green card through my employer, in order to live and work in the US permanently?
 See the [green card FAQ](green-card.md).
 
+## What is dual intent?
+*Dual intent* occurs when an alien applying for a nonimmigrant visa or nonimmigrant status has two intents: an intent to live in the US temporarily for the purposes of their nonimmigrant classification, and an intent to live in the US permanently (also known as *immigrant intent*). This concept is significant because some nonimmigrant statuses *allow* dual intent, some explicitly *disallow* dual intent, and others exist in a grey area.
+
+Among the statuses that explicitly *disallow* dual intent are B (visitor for business or pleasure), F (student), and J (exchange visitor). In order to be classified as a B, F, or J nonimmigrant, an alien must have "a residence in a foreign country which he has no intention of abandoning" [31]. Furthermore, according to INA 214(b), the alien has the burden of proof and must affirmatively establish that they do in fact have a residence abroad they have no intention of abandoning, both when they apply for the B, F, or J visa, and when they are applying for admission [32]. In addition, the consular officer may be in possession of evidence that the B, F, or J visa applicant is likely to be an intending immigrant, such as: inconsistencies in the applicant's explanation of their proposed activities in the US, previous overstays, or an ongoing application for permanent immigration status. Consequently, 214(b) visa denials, in which the consular officer refuses to issue a B, F, or J visa on the grounds that the alien has failed to meet this burden of proof, are very common.
+
+On the other hand, the H-1B, L, and V statuses have no requirement of a residence abroad [31], and are explicitly exempted from INA 214(b) [32]. They are considered to be statuses that explicitly *allow* dual intent, so that one cannot, for example, be denied an H-1B visa on the basis of an intention to immigrate. Similarly, as K nonimmigrants are expected to apply for adjustment of status to that of permanent resident, the K status also allows dual intent.
+
+Contrary to popular belief, applying for a green card while in a status that does not allow dual intent is not illegal, and does not constitute a status violation. The problem arises when the applicant tries to extend their nonimmigrant status, or makes a visit abroad and attempts to be re-admitted to the US. The ongoing green card application can be regarded as evidence of immigrant intent, resulting in denial of the extension petition or refusal of admission. For this reason, it's considered "safer" to apply for a green card while in a status that allows dual intent. However, there are exceptions to this rule, which we'll describe in other parts of the FAQ.
+
 # References
 [1] INA 212(a)(7) ([8 USC §1182(a)(7)](https://www.law.cornell.edu/uscode/text/8/1182#a_7))  
 [2] [9 FAM 102](https://fam.state.gov/FAM/09FAM/09FAM010201.html)  
@@ -64,3 +73,5 @@ See the [green card FAQ](green-card.md).
 [28] INA 101(a)(15)(E)(iii) ([8 USC §1101(a)(15)(E)(iii)](https://www.law.cornell.edu/uscode/text/8/1101#a_15_E))  
 [29] INA 101(a)(15)(H)(i)(b1) ([8 USC §1101(a)(15)(H)(i)(b1)](https://www.law.cornell.edu/uscode/text/8/1101#a_15_H))  
 [30] INA 214(g)(8) ([8 USC §1184(g)(8)](https://www.law.cornell.edu/uscode/text/8/1184#g_8))  
+[31] INA 101(a)(15)(B), (F), (J) ([8 USC §1101(a)(15)](https://www.law.cornell.edu/uscode/text/8/1101#a_15))  
+[32] INA 214(b) ([8 USC §1184(b)](https://www.law.cornell.edu/uscode/text/8/1184#b))  
