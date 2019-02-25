@@ -26,11 +26,13 @@ Some nonimmigrants with expired visas can return to the US using the expired vis
 Attending a job interview is not "work", and is a permitted activity for visitors to the US. This means you don't need sponsorship from the company you're applying to merely to attend the job interview, and you may qualify for one of the visa exemptions listed above; for example, Canadians interviewing in the US only need their passport, while most Europeans will only need their passport and approved ESTA. Otherwise, a B-1 visa (or B-2 if the primary purpose of the trip is pleasure) is appropriate. However, you will have to leave and re-enter the US with an appropriate status (such as H-1B) in order to actually begin working. If the CBP officer believes that you're not going to comply with this rule, they will deny you entry.
 
 ## How can I apply for a nonimmigrant work visa?
-This process involves both you and your sponsoring employer.
+In most cases, this process involves both you and your sponsoring employer.
 1. Your sponsoring employer must first file a petition with USCIS to establish your eligibility for one of the nonimmigrant classes eligible for employment in the US
 2. Once this petition is approved, **you** can use it to apply for the corresponding visa type at a consular post; see [here](https://travel.state.gov/content/travel/en/us-visas/employment/temporary-worker-visas.html) for instructions. Your employer does not need to be involved when you are applying for the visa itself.
 
-If you're visa-exempt, you still need the approved petition from step 1 in order to obtain the nonimmigrant status you are seeking.
+Those who are visa-exempt would still need the approved petition from step 1 in order to obtain the nonimmigrant status you are seeking.
+
+There are exceptions to this rule. Canadians who want to work in [TN status](TN.md) are exempt from both steps; they do not need visas, and can apply for admission at the border without any prior petition approval. (TODO: also discuss H-1B1 and E-3 visas here.)
 
 ## Can I visit Canada with a US visa?
 No. You need a Canadian visa, unless you're a citizen of one of the [visa-exempt countries](https://www.canada.ca/en/immigration-refugees-citizenship/services/visit-canada/entry-requirements-country.html).
