@@ -1,6 +1,8 @@
 ## Why should I apply for H-1B as opposed to other work visas?
 Most people who want to work in the United States will only be able to qualify for either H-1B or [L-1](L-1.md) status, although you can find a list of other work visas on the [general FAQ](general.md). Foreign nationals who already live in the US are usually more interested in H-1B status, since obtaining L-1 status would require them to spend a year working outside the US first. In addition, since L-1 status is only valid with respect to the particular company the alien has worked at for a year abroad, it's not possible to switch companies while in L-1 status without leaving the US or switching to H-1B [1]. Even people who already hold L-1 status will often need to switch to H-1B in order to be able to continue working in the US for longer than five years (see below).
 
+However, if you are a citizen of Chile or Singapore, see [the FAQ](H-1B1.md) for an alternative that may be easier to obtain.
+
 ## What is the process to apply for an H-1B visa or H-1B status?
 H-1B is a petition-based classification; an H-1B visa or change of status to H-1B cannot be granted unless the employer has filed an appropriate petition [28]. The form that the employer must use for filing a petition is called Form I-129 [29]. You don't have to worry about this form too much, since it will always be prepared by your employer or by a lawyer on your employer's behalf. However, we will make occasional references to it. If the petition is approved, the employer will receive a Form I-797 [30] and will usually forward the original to the prospective H-1B worker, keeping a copy for themselves.
 
@@ -69,7 +71,7 @@ In the random selection process, cap-subject petitions for an alien with a maste
 | 2018 | 199,000 | 112,300 | 48% | 36% |
 | 2019 | 190,098 | ? | ? | ? |
 
-Note that these figures are inaccurate not only due to the approximation discussed above, but also because not all petitions selected in the lottery are approved (the existence of someone else's petition that is denied on its merits, in theory, doesn't reduce your chances of winning the lottery, since it doesn't consume any quota), because an alien with multiple petitions approved is counted only once, and because there are special rules for Chile and Singapore [55]. So, you really should take the numbers in the chart above as very crude approximations.
+Note that these figures are inaccurate not only due to the approximation discussed above, but also because not all petitions selected in the lottery are approved (the existence of someone else's petition that is denied on its merits, in theory, doesn't reduce your chances of winning the lottery, since it doesn't consume any quota), because an alien with multiple petitions approved is counted only once, and because there are special rules for Chile and Singapore relating to [H-1B1 visas](H-1B1.md) [55]. So, you really should take the numbers in the chart above as very crude approximations.
 
 It's not clear why the number of petitions filed dropped between FY 2017 and FY 2018, although some reasonable hypotheses are:
 * The low probability of winning the lottery discouraged employers from filing cap-subject petitions for new candidates for employment.
@@ -167,21 +169,6 @@ The regulations [48] clarify that the H-1B petitioner need not be the same one t
 
 The paragraph regarding the 180-day rule in the answer to the previous question about the lengthy adjudication exemption also applies to the per-country limitation exemption. Likewise, note that the exemption is not limited to extension petitions.
 
-## How does the special H-1B1 visa for Chileans and Singaporeans work?
-H-1B1 status is a variant of H-1B status, which similarly allows an alien to work for a sponsoring employer in the United States. Like H-1B status, H-1B1 status is only available to an alien in a specialty occupation whose prospective employer has filed a labor condition application with the Department of Labor. These requirements are similar to those of H-1B status, but the details are a bit different.
-
-H-1B1 status is only available to nationals of Chile and Singapore, pursuant to free trade agreements that those countries have signed with the United States. It has an annual quota of 1400 for Chile and 5400 for Singapore [55][57]. This quota only applies to "initial" applications (extensions of H-1B1 status are therefore not subject to the quota). The State Department releases some statistics that show the total number of H-1B1 visas granted per year [58], although these counts don't include people already in the US applying for a change of status to H-1B1 (most from F-1 status, one would imagine). That being said, as of FY 2018, neither the Chile nor Singapore H-1B1 quota has ever been reached. This means Chileans and Singaporeans generally have an easier time getting a work visa than most other foreign nationals; no lottery is required, nor any waiting time for quota to become available.
-
-Due to the terms of the free trade agreements, a petition is not required in order to obtain an H-1B1 visa [59]. (The treaties did *not* grant exemptions from the requirement to obtain a visa to enter the US.) Instead, evidence required to qualify for an H-1B1 visa should be presented directly to the consular officer [61]. However, to apply for a change of status to H-1B1 or extension of stay in H-1B1 status, Form I-129 must be used [32], which is the same form used to file H-1B petitions.
-
-H-1B1 status may be granted for 1 year at a time, and can be renewed indefinitely, but only for 1-year increments [56]. Unlike H-1B workers, H-1B1 workers are *not* required to spend 1 year outside the US after working in the US for 6 years. Although the absence of a lottery requirement makes the H-1B1 visa attractive to Chileans and Singaporeans, some later enter the lottery to switch to the regular H-1B status, for reasons that will be mentioned below. (If they don't win the lottery, their H-1B1 status is unaffected.)
-
-In order to switch H-1B1 employers while in the US, your new employer must file Form I-129 and wait for it to be *approved* before you can start working at the new employer. That is, H-1B1 workers may not avail themselves of H-1B portability. This is because The text of INA 214(n) [27] does not apply to H-1B1 workers; this fact is also noted in the federal regulations [60]. (This is one thing that many immigration lawyers on the internet get wrong, due to their lack of familiarity with the H-1B1 rules.) Unlike H-1B petitions, H-1B1 petitions are not eligible for premium processing [62]. Thus, rather than filing Form I-129 and waiting several months for it to be approved, some H-1B1 workers opt to leave and re-enter the US, since the petition would not then be required to switch employers. While the Foreign Affairs Manual doesn't cover this situation, it appears that one must apply for a *new* H-1B1 visa after presenting the required evidence, and the original H-1B1 visa will be cancelled if one no longer intends to work for the original employer; see for example [here](https://immigrationworkvisa.com/h1b1-visa/) and [here](https://visaguide.world/us-visa/nonimmigrant/employment/h1b/h1b1/).
-
-The 240-day rule [44] *does* apply to H-1B1 workers, as the paragraph (b)(9) that it references explicitly includes H-1B1. That is, an H-1B1 worker is authorized to continue employment for up to 240 days past the expiration of their status provided that their employer has filed an extension petition prior to the expiration of status.
-
-(TODO: explain how H-1B1 doesn't allow dual intent, but it's a grey area.)
-
 # References
 [1] INA 101(a)(15)(L) ([8 USC §1101(a)(15)(L)](https://www.law.cornell.edu/uscode/text/8/1101#a_15_L))  
 [2] INA 214(g)(1)(A)(vii) ([8 USC §1184(g)(1)(A)(vii)](https://www.law.cornell.edu/uscode/text/8/1184#g_1_A_vii))  
@@ -236,12 +223,4 @@ The 240-day rule [44] *does* apply to H-1B1 workers, as the paragraph (b)(9) tha
 [51] [USCIS-AFM 31.3(g)(8)](https://www.uscis.gov/ilink/docView/AFM/HTML/AFM/0-0-0-1/0-0-0-13593/0-0-0-13813.html)  
 [52] [8 CFR §205.1(a)(3)(iii)(C–D)](https://www.law.cornell.edu/cfr/text/8/205.1#a_3_iii)  
 [53] [81 FR pp. 82407, 82414–82415](https://www.govinfo.gov/content/pkg/FR-2016-11-18/pdf/2016-27540.pdf)  
-[54] INA 101(a)(H)(i)(b1) ([8 USC §1101(a)(15)(H)(i)(b1)](https://www.law.cornell.edu/uscode/text/8/1101#a_15_H))  
-[55] INA 214(g)(8)(B) ([8 USC §1184(g)(8)(B)](https://www.law.cornell.edu/uscode/text/8/1184#g_8_B))  
-[56] *Ibid.*, (g)(8)(C)  
-[57] [9 FAM 402.10-5(B)](https://fam.state.gov/fam/09FAM/09FAM040210.html#M402_10_5)  
-[58] [Nonimmigrant Visa Issuances by Visa Class and by Nationality: FY1997-2017 NIV Detail Table](https://travel.state.gov/content/dam/visas/Statistics/Non-Immigrant-Statistics/NIVDetailTables/FYs97-17_NIVDetailTable.xls)  
-[59] [INA 214(c)(1)](https://www.law.cornell.edu/uscode/text/8/1184#c_1) explicitly exempts the H-1B1 classification from its petition requirement.  
-[60] [20 CFR §655.700(d)(1)](https://www.law.cornell.edu/cfr/text/20/655.700#d_1)  
-[61] [9 FAM 402.10-5(D)](https://fam.state.gov/fam/09FAM/09FAM040210.html#M402_10_5)  
-[62] https://www.uscis.gov/i-129-addresses
+[55] INA 214(g)(8)(B) ([8 USC §1184(g)(8)(B)](https://www.law.cornell.edu/uscode/text/8/1184#g_8_B))  (b)(3)(D)(iv)
