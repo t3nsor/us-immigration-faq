@@ -60,7 +60,9 @@ Some immigration lawyers appear to believe that the opportunity to request recap
 > an alien who spent five years in the United States in H-1B status (from January 1, 1999 - December 31, 2004), and then remained outside the United States for all of 2005, could seek to be admitted in January 2006 for the “remainder” of the initial six-year period, i.e., a total of one year."
 
 ## What are the chances of winning the H-1B lottery?
-In the random selection process, cap-subject petitions for an alien with a master's degree are first entered into the lottery for the 20,000 visas available under the master's degree exemption. Petitions not selected in the master's lottery are then entered in the general lottery for 65,000 visas together with all the remaining cap-subject petitions [5–8][9]. Therefore, we can estimate the chances of winning the lottery in previous years based on data provided by USCIS. Unfortunately, this is not as straightforward as it looks, because while USCIS has published the number of cap-subject petitions received in recent years [3–8], they don't say how many of them are for beneficiaries with a US master's or higher. Based on data available in [16], let us make the very crude estimate that the fraction of cap-subject petitions filed in FY N that qualified for the master's cap equals the fraction of approved petitions for initial employment in FY N-1 that were for beneficiaries with a master's degree or higher. (Note that petitions *for* the beginning of FY N are filed *in* April of FY N-1.) We therefore get the following estimates:
+Historically, in the random selection process, cap-subject petitions for an alien with a master's degree or higher from a US institution were first entered into the lottery for the 20,000 visas available under the master's degree exemption. Petitions not selected in the master's lottery were then entered in the general lottery for 65,000 visas together with all the remaining cap-subject petitions [5–8][56]. Starting on April 1, 2019 (the first day to file cap-subject petitions for FY 2020), the order of the two lotteries was reversed [57][58], increasing the probability that an applicant with a master's or higher from a US institution would win, and decreasing the probability for other applicants.
+
+Therefore, we should be able to estimate the chances of winning the lottery in previous years based on data provided by USCIS. Unfortunately, this is not as straightforward as it looks, because while USCIS has published the number of cap-subject petitions received in recent years [3–8], they don't say how many of them are for beneficiaries with a US master's or higher. Based on data available in [16], let us make the very crude estimate that the fraction of cap-subject petitions filed in FY N that qualified for the master's cap equals the fraction of approved petitions for initial employment in FY N-1 that were for beneficiaries with a master's degree or higher. (Note that petitions *for* the beginning of FY N are filed *in* April of FY N-1.) We therefore get the following estimates:
 
 | Fiscal year | Number of cap-subject petitions filed | Estimated number of petitions filed under master's cap | Chance of winning lottery with US master's or higher | Chance of winning lottery without US master's |
 | --- | --- | --- | --- | --- |
@@ -70,6 +72,7 @@ In the random selection process, cap-subject petitions for an alien with a maste
 | 2017 | 236,000 | 142,000 | 40% | 30% |
 | 2018 | 199,000 | 112,300 | 48% | 36% |
 | 2019 | 190,098 | ? | ? | ? |
+| 2020 | 201,011 | ? | ? | ? |
 
 Note that these figures are inaccurate not only due to the approximation discussed above, but also because not all petitions selected in the lottery are approved (the existence of someone else's petition that is denied on its merits, in theory, doesn't reduce your chances of winning the lottery, since it doesn't consume any quota), because an alien with multiple petitions approved is counted only once, and because there are special rules for Chile and Singapore relating to [H-1B1 visas](H-1B1.md) [55]. So, you really should take the numbers in the chart above as very crude approximations.
 
@@ -178,8 +181,8 @@ The paragraph regarding the 180-day rule in the answer to the previous question 
 [6] https://www.uscis.gov/news/alerts/uscis-completes-h-1b-cap-random-selection-process-fy-2017  
 [7] https://www.uscis.gov/news/alerts/uscis-completes-h-1b-cap-random-selection-process-fy-2018  
 [8] https://www.uscis.gov/news/alerts/uscis-completes-h-1b-cap-random-selection-process-fy-2019  
-[9] [8 CFR §214.2(h)(9)(i)(B)](https://www.law.cornell.edu/cfr/text/8/214.2#h_9_i_B)  
-[10] [8 CFR §214.2(h)(8)(ii)(B)](https://www.law.cornell.edu/cfr/text/8/214.2#h_8_ii_B)  
+[9] [8 CFR §214.2(h)(2)(i)(I)](https://www.law.cornell.edu/cfr/text/8/214.2#ii_2_i_I)  
+[10] [8 CFR §214.2(h)(8)(iii)(A)(5)(ii)](https://www.law.cornell.edu/cfr/text/8/214.2#ii_8_iii_A_5_ii)  
 [11] INA 214(g)(5)(C) ([8 USC §1184(g)(5)(C)](https://www.law.cornell.edu/uscode/text/8/1184#g_5_C))  
 [12] INA 214(g)(5)(A–B) ([8 USC §1184(g)(5)(A–B)](https://www.law.cornell.edu/uscode/text/8/1184#g_5_A))  
 [13] INA 214(g)(7) ([8 USC §1184(g)(7)](https://www.law.cornell.edu/uscode/text/8/1184#g_7))  
@@ -223,4 +226,7 @@ The paragraph regarding the 180-day rule in the answer to the previous question 
 [51] [USCIS-AFM 31.3(g)(8)](https://www.uscis.gov/ilink/docView/AFM/HTML/AFM/0-0-0-1/0-0-0-13593/0-0-0-13813.html)  
 [52] [8 CFR §205.1(a)(3)(iii)(C–D)](https://www.law.cornell.edu/cfr/text/8/205.1#a_3_iii)  
 [53] [81 FR pp. 82407, 82414–82415](https://www.govinfo.gov/content/pkg/FR-2016-11-18/pdf/2016-27540.pdf)  
-[55] INA 214(g)(8)(B) ([8 USC §1184(g)(8)(B)](https://www.law.cornell.edu/uscode/text/8/1184#g_8_B))  (b)(3)(D)(iv)
+[55] INA 214(g)(8)(B) ([8 USC §1184(g)(8)(B)](https://www.law.cornell.edu/uscode/text/8/1184#g_8_B))  
+[56] former [8 CFR §214.2](https://www.govinfo.gov/content/pkg/CFR-2019-title8-vol1/xml/CFR-2019-title8-vol1-sec214-2.xml)(h)(8)(ii)(B) (January 1, 2019)  
+[57] https://www.federalregister.gov/documents/2019/01/31/2019-00302/registration-requirement-for-petitioners-seeking-to-file-h-1b-petitions-on-behalf-of-cap-subject  
+[58] [8 CFR §214.2(h)(8)(iii)(A)(5–6)](https://www.law.cornell.edu/cfr/text/8/214.2#ii_8_iii_A)  
