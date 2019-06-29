@@ -3,6 +3,7 @@ Yes, with a few exceptions. Almost all nonimmigrant statuses are for a limited p
 * [O-1](O-1.md) status is exempt from the requirement to maintain a residence abroad [1], and can therefore be renewed indefinitely in 3-year increments. However, you must continue to work in the area of extraordinary ability for as long as you want to remain in O-1 status.
 * American Indians born in Canada may live in the US permanently and are immune to deportation [2][3].
 * Most citizens of the Federated States of Micronesia, the Republic of the Marshall Islands, and Palau may live and work in the US indefinitely under the terms of the Compact of Free Association [4][5].
+* There are a few paths to US citizenship that bypass the usual requirement of first becoming a permanent resident. The most common one involves applying for naturalization during a temporary visit to the US when you have a US citizen parent (possibly an adoptive parent) who resides with you outside the US [61]. The others are more obscure.
 
 ## Are there any reasons why I might not want a green card?
 Yes. Lawful permanent resident (LPR) status in the United States confers both rights and responsibilities. Here are some reasons why you might not want to become an LPR: 
@@ -170,3 +171,4 @@ Note, however, that if you are placed in removal proceedings upon the denial of 
 [58] *Ibid.*, (a)  
 [59] [8 CFR §274a.12(a)(3–5)](https://www.law.cornell.edu/cfr/text/8/274a.12#a)  
 [60] [Notice to Appear Policy Memorandum](https://www.uscis.gov/legal-resources/notice-appear-policy-memorandum)  
+[61] INA 322 ([8 USC §1433](https://www.law.cornell.edu/uscode/text/8/1433))  
