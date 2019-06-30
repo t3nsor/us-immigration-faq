@@ -1,4 +1,5 @@
 # General questions about the US immigration system
+This section of the FAQ covers questions that apply broadly to foreigners regardless of their particular class of admission.
 
 ## What's the difference between "visa" and "status"?
 A *visa* is issued to a foreign national by the State Department at a consular post outside the United States. It should be presented when seeking admission to the United States at a port of entry. Most foreign nationals must have a valid visa in order to enter the United States [1][2].
@@ -42,6 +43,29 @@ On the other hand, the H-1B, L, and V statuses have no requirement of a residenc
 
 Applying for a green card while in a status that does not allow dual intent is considered risky. But contrary to popular belief, doing so is not illegal, does not constitute a status violation, and is not among the grounds for deportation or revocation of an approved nonimmigrant petition. Instead, the risk is that the applicant's attempt to *extend* their nonimmigrant status, or be re-admitted to the US as a nonimmigrant after a visit abroad, may be denied. The ongoing green card application can be regarded as evidence of immigrant intent, resulting in denial of nonimmigrant classification. For this reason, it's considered "safer" to apply for a green card while in a status that allows dual intent. However, there are exceptions to this rule, which we'll describe in other parts of the FAQ.
 
+## As an immigrant, can I bring my family with me to the US?
+If you are an employment-based immigrant, you most likely qualify to bring your spouse and unmarried children under 21 with you when you immigrate. The same is also true for some (but not all) other types of immigrants. See the answer [here](green-card.md#can-i-bring-my-family-with-me-when-i-immigrate-to-the-us) for the details. Derivative immigrants become lawful permanent residents in their own right; once they are granted lawful permanent resident status, maintaining that status depends on their own actions, not yours.
+
+## As a nonimmigrant, can I bring my family with me to the US?
+Some nonimmigrant classifications allow dependents. For example, an [H-1B](H-1B.md) worker's spouse and unmarried children under 21 would normally qualify for a status known as "H-4", although they also have the option of seeking admission or change of status to any other status that they may be qualified for. An [L-1](L-1.md) worker's spouse and unmarried children under 21 would normally qualify for L-2 status. There are some provisos: the dependents must not be inadmissible, and there are some rules for which children really count as "children" [33]. We won't get into these details here.
+
+In general, each dependent needs their own passport and [visa](visas.md) in order to be admitted to the US: if you have an H-1B visa then your dependents must each apply for an H-4 visa if they want to be admitted in H-4 status. If you are visa-exempt (for example, because you're travelling on a Canadian passport) but your dependent is not visa-exempt, they still need a visa even though you don't. If you are not visa-exempt, but your dependent is, they still don't need a visa, even though you do.
+
+If you are changing status based on an I-129 petition your employer is filing on your behalf (for example, to H-1B or L-1 status) then your dependents, if they are in the US, must file separately to the corresponding nonimmigrant status. The form used for this is Form I-539. On the other hand, if you are filing to change your own status, for example to F-1, then you and your dependents could be included on a single Form I-539 application to simultaneously change your status to F-1 and their status to F-2 [34][35].
+
+## If I am a nonimmigrant, can my dependents study and work in the US?
+TODO
+
+## Is it possible to have derivative nonimmigrant status when the principal is absent from the US?
+Where INA 101(a)(15) authorizes the admission of dependent nonimmigrants [36], it specifies that the dependents must be "accompanying or following to join". This means that when the principal is admitted, their dependents may either be admitted in the corresponding dependent status at the same time, or they can be admitted after the principal has already been admitted (not before).
+
+TODO: Can dependents be admitted while the principal is temporarily absent?
+
+TODO: Can dependents stay in the US if the principal leaves the US temporarily?
+
+## If I am fired from my job or quit, what happens to my status?
+TODO
+
 # References
 [1] INA 212(a)(7) ([8 USC §1182(a)(7)](https://www.law.cornell.edu/uscode/text/8/1182#a_7))  
 [2] [9 FAM 102](https://fam.state.gov/FAM/09FAM/09FAM010201.html)  
@@ -75,3 +99,7 @@ Applying for a green card while in a status that does not allow dual intent is c
 [30] INA 214(g)(8) ([8 USC §1184(g)(8)](https://www.law.cornell.edu/uscode/text/8/1184#g_8))  
 [31] INA 101(a)(15)(B), (F), (J) ([8 USC §1101(a)(15)](https://www.law.cornell.edu/uscode/text/8/1101#a_15))  
 [32] INA 214(b) ([8 USC §1184(b)](https://www.law.cornell.edu/uscode/text/8/1184#b))  
+[33] INA 101(b)(1) ([8 USC §1101(b)(1)](https://www.law.cornell.edu/uscode/text/8/1101#b_1))  
+[34] [Form I-539 Instructions](https://www.uscis.gov/sites/default/files/files/form/i-539instr.pdf)  
+[35] [8 CFR §248.3](https://www.law.cornell.edu/cfr/text/8/248.3)  
+[36] INA 101(a)(15)(H) ([8 USC §1101(a)(15)(H)](https://www.law.cornell.edu/uscode/text/8/1101#a_15))  
