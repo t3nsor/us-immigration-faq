@@ -14,4 +14,5 @@ That being said, whenever possible, we will provide citations to the relevant st
 * [green-card.md](green-card.md) for questions about green cards and LPR status
 * [EB.md](EB.md) for questions specific to employment-based immigration
 * [H-1B.md](H-1B.md) for questions about H-1B visas/status
+* [TN.md](TN.md) for questions about TN visas/status
 * [visas.md](visas.md) for questions about visas in general (stamped into your passport by the State Department)
