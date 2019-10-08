@@ -64,7 +64,33 @@ TODO: Can dependents be admitted while the principal is temporarily absent?
 TODO: Can dependents stay in the US if the principal leaves the US temporarily?
 
 ## If I am fired from my job or quit, what happens to my status?
-TODO
+If you are working in the US in E-1, E-2, [E-3](E-3.md), [H-1B](H-1B.md), [H-1B1](H-1B1.md), [L-1](L-1.md), [O-1](O-1.md), or [TN](TN.md) status and your employment ends, then you may be eligible for a 60-day grace period, which starts the day after the last day of your employment. You remain in status until either the grace period expires or your I-94 expires (**whichever is earlier**). [37] The grace period for F-1 OPT trainees is different; it will be discussed elsewhere.
+
+During the grace period, since you are considered to still be *in status*, you remain eligible for extension of status or change of status [38]. For example:
+
+* If you are in H-1B status and you enter the grace period, a new employer may file for extension of status during the grace period so you can be an H-1B employee for them. Due to [H-1B portability](H-1B.md#how-can-i-change-employers-in-h-1b-status), you can start working for the new employer as soon as the new petition is accepted for processing by USCIS.
+* If you are in L-1 status and you enter the grace period, your options are more limited. But for the sake of demonstration, let's say you find a new employer that's willing to sponsor you for O-1 status. Then, they can file for a change of status during the grace period, but you cannot work until the petition is approved. (TODO: Discuss what happens if the grace period expires while the petition is pending.)
+
+You can only get a grace period "once per authorized validity period". In practice this is not much of a restriction, because every time a petition by a new employer gets approved, you receive a new authorized validity period. For example, suppose:
+
+* You are admitted in H-1B status on Oct 3, 2019 with status valid until Oct 13, 2022.
+* You are fired on Jul 18, 2020.
+* A new employer files an H-1B petition for you on Aug 25, 2020 and you start working for them on receipt.
+* The new petition is approved with a validity period until Aug 25, 2023.
+* On Jan 22, 2022, you are fired again.
+
+In this situation, you would be eligible for a second grace period, since you were in an authorized validity period that began on Aug 25, 2020. The fact that this is within the original validity period from Oct 3, 2019 to Oct 3, 2022 is not relevant; the two periods overlap, but you used a grace period during the first one and now you are using a grace period within the second one.
+
+On the other hand, suppose the situation were as follows:
+
+* You are admitted in H-1B status on Oct 3, 2019 with status valid until Oct 13, 2022.
+* You are fired on Jul 18, 2020.
+* A new employer files an H-1B petition for you on Aug 25, 2020 and you start working for them on receipt.
+* On Mar 12, 2021, the new H-1B petition is denied.
+
+Upon the denial of the new petition, you would have to immediately stop working for the new employer. You already used your grace period for the authorized validity period starting on Oct 3, 2019, **and** although, during the period from Jul 19, 2020 to Mar 12, 2021, you were in an *authorized period of stay*, you did not receive a second *authorized validity period*, since an authorized validity period can only be established by the approval of a petition. Thus, in this case, you would not receive a second grace period. You would have to leave the United States immediately.
+
+Note that the regulations state that "DHS may eliminate or shorten this 60-day period as a matter of discretion." [37] Thus, if you attempt to abuse the grace period provision, USCIS may simply decide to act as if the grace period has already expired. For example, if USCIS receives a petition to extend or change your status, and you are in a grace period, and USCIS decides that you should not receive that grace period, they will deny your petition and you will have to leave the US immediately.
 
 # References
 [1] INA 212(a)(7) ([8 USC §1182(a)(7)](https://www.law.cornell.edu/uscode/text/8/1182#a_7))  
@@ -103,3 +129,7 @@ TODO
 [34] [Form I-539 Instructions](https://www.uscis.gov/sites/default/files/files/form/i-539instr.pdf)  
 [35] [8 CFR §248.3](https://www.law.cornell.edu/cfr/text/8/248.3)  
 [36] INA 101(a)(15)(H) ([8 USC §1101(a)(15)(H)](https://www.law.cornell.edu/uscode/text/8/1101#a_15))  
+[37] [8 CFR §214.1(l)(2)](https://www.law.cornell.edu/cfr/text/8/214.1#l_2)  
+[38] *Ibid.*, (l)(3)  
+[39] INA 212(a)(9)(B)(iv) ([8 USC §1182(a)(9)(B)(iv)](https://www.law.cornell.edu/uscode/text/8/1182#a_9_B_iv))  
+[40] [USCIS-AFM 40.9.2(b)(3)(B)](https://www.uscis.gov/ilink/docView/AFM/HTML/AFM/0-0-0-1/0-0-0-17138/0-0-0-18383.html#0-0-0-1911)  
