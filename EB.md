@@ -98,9 +98,30 @@ There is a special I-485 portability rule that applies if your I-485 has been pe
 ## Why should I wait for 180 days after I-140 approval before switching jobs?
 If an I-140 remains approved for at least 180 days before being withdrawn by the sponsoring employer, it *remains approved* despite having been withdrawn [20]. Thus, you might want to stay for 180 days so that your employer doesn't withdraw the I-140 within that time period, and the I-140 will remain approved after you leave.
 
-However, for priority date retention, this actually doesn't matter. Priority date retention under [16][17] only requires that you have an I-140 *that was once approved*. So even if it becomes revoked because the sponsoring employer withdrew it within 180 days, this doesn't affect your ability to retain the priority date.
+However, for priority date retention, this actually doesn't matter. Priority date retention under [16][17] only requires that you have an I-140 *that was once approved*. So even if it becomes revoked because the sponsoring employer withdrew it within 180 days, this doesn't affect your ability to retain the priority date. In other words, you can leave right after the I-140 is approved, and even if the employer withdraws it, you can still retain the priority date.
 
-Where it *does* matter is for post 6th-year H-1B extensions [13], which require a *currently approved* I-140. Thus, staying at the employer that sponsored the I-140 for at least 180 days after approval helps to prevent possible interruption in your work authorization when you switch to a new employer.
+Where it *does* matter is for post 6th-year H-1B extensions [13], which require a *currently approved* I-140. Thus, if an approved I-140 is withdrawn within 180 days of approval, that I-140 can no longer be used for post 6th-year H-1B extensions. If it is withdrawn after 180 days of approval, it remains approved and can still be used for post 6th-year H-1B extensions. Staying at the employer that sponsored the I-140 for at least 180 days after approval therefore helps to prevent possible interruption in your work authorization (due to possible ineligibility H-1B extensions) when you switch to a new employer.
+
+## How long do I have to stay at my sponsoring employer after my green card is approved?
+An employment-based green card, or admission on an employment-based immigrant visa, is granted on the basis of future employment. In all cases, the alien must have the intent to engage in the qualifying employment *after* lawful permanent resident status is granted [26][33]. 
+
+In the case of EB-1B, EB-1C, EB-2 (except NIW), and EB-3 immigrants, the regulations [33] state that:
+
+> In all cases, the applicant and his or her intended employer must demonstrate the intention for the applicant to be employed under the continuing or new employment offer (including self-employment) described in paragraphs (a)(1) and (2) of this section, as applicable, within a reasonable period upon the applicant's grant of lawful permanent resident status. 
+
+Many lawyers recommend staying at the sponsoring employer for 6 months after the green card is approved (or 6 months after admission using an immigrant visa, as the case may be). Some lawyers recommend a year. [35] There is no specific amount of time specified in the regulations. However, some individuals have reported that staying for less than 6 months caused them to be questioned about their actions when they eventually applied for naturalization.
+
+For example, in 2019, a user on Blind posted that 7 years ago, they had left their company after 3 months, and when they applied for citizenship, they were questioned about it by an immigration officer. The immigration officer was satisfied once he saw a letter the applicant provided stating that the job they switched to was for the same manager and the same responsibilities as the job offer their green card was based on. [36]
+
+Some observers believe that the passage of AC21 and its I-485 portability provision abrogated the requirement to stay with the sponsoring employer after I-485 approval. Their argument is that since one is allowed to switch employers 6 months after Form I-485 has been filed, and this does not cause the I-485 to be denied, it ought to be the case that switching after Form I-485 has already been *approved* should, likewise, not invalidate the approval of the I-485. However, this argument is contradicted by the clear wording of the regulations [33] (previously quoted). Paragraph (a)(3) states that the intent to be employed "within a reasonable period upon the applicant's grant of lawful permanent resident status" must exist with respect to either the original job offer on which the adjustment of status was based, or the new employment offer used for porting the I-485. That is, whichever job you have at the time of approval&mdash;whether it was the job offer in the I-140, or a new job offer that was used for porting&mdash;that is the one you must have the intent to remain at "within a reasonable period".
+
+Note that paragraph (a) also states:
+
+> An alien who has a pending application to adjust status to that of a lawful permanent resident based on an approved employment-based immigrant visa petition filed under section 204(a)(1)(F) of the Act on the applicant's behalf must have a valid offer of employment based on a valid petition at the time the application to adjust status is filed and at the time the alien's application to adjust status is adjudicated, and the applicant must intend to accept such offer of employment.
+
+Here, again, we see that the requirement to have a valid offer of employment, which the applicant intends to accept, applies both at the time of the I-485 filing and at the time of approval. In conclusion: despite the AC21 portability provisions, it remains true that the I-485 applicant, who was approved on the basis of a particular job offer, must be employed in that job for some time after approval.
+
+EB-1A and EB-2 NIW immigrants, if applying for adjustment of status, must sign a statement affirming that they intend to work in the occupational field of extraordinary or exceptional ability, respectively [34]. Again, there is no specific length of time required, but one could imagine that switching one's career to a totally different occupational field within 6 months would raise some red flags.
 
 # References
 [1] INA 212(a)(5)(A)(i) ([8 USC §1182(a)(5)(A)(i)](https://www.law.cornell.edu/uscode/text/8/1182#a_5_A_i))  
@@ -135,3 +156,7 @@ Where it *does* matter is for post 6th-year H-1B extensions [13], which require 
 [30] [USCIS-AFM 23.5(f)(1)](https://www.uscis.gov/ilink/docView/AFM/HTML/AFM/0-0-0-1/0-0-0-8624/0-0-0-9232.html#0-0-0-1583)  
 [31] [8 CFR §245.25(a)(1)](https://www.law.cornell.edu/cfr/text/8/245.25#a_1)  
 [32] [8 CFR §204.5(j)(3)(i)](https://www.law.cornell.edu/cfr/text/8/204.5#j_3_i)  
+[33] [8 CFR §245.25(a)(3)](https://www.law.cornell.edu/cfr/text/8/245.25#a_3)  
+[34] [Form I-485 Instructions](https://www.uscis.gov/sites/default/files/files/form/i-485instr.pdf)  
+[35] [Murthy Law Firm: Changing Employers After Receiving Employment-Based Green Card](https://www.murthy.com/2019/07/29/changing-employers-after-receiving-employment-based-green-card/)  
+[36] https://www.trackitt.com/usa-discussion-forums/i140/2040986077/switching-jobs-after-i-485-approval  
