@@ -102,6 +102,35 @@ However, for priority date retention, this actually doesn't matter. Priority dat
 
 Where it *does* matter is for post 6th-year H-1B extensions [13], which require a *currently approved* I-140. Thus, if an approved I-140 is withdrawn within 180 days of approval, that I-140 can no longer be used for post 6th-year H-1B extensions. If it is withdrawn after 180 days of approval, it remains approved and can still be used for post 6th-year H-1B extensions. Staying at the employer that sponsored the I-140 for at least 180 days after approval therefore helps to prevent possible interruption in your work authorization (due to possible ineligibility H-1B extensions) when you switch to a new employer.
 
+## How can I port my I-485 to another job?
+First of all, if you are applying in the EB-1A or EB-2 NIW category, then your eligibility is not based on a particular job offer. Here, we will only be discussing the case where the I-485 is based on a specific job offer in the EB-1B, EB-1C, EB-2 (except NIW), or EB-3 categories.
+
+Recall that when you file Form I-485, it has to be based on an I-140 representing a valid *future* job offer. Note that if you have multiple approved I-140s, including some from job offers that have been withdrawn or are otherwise no longer valid, then you can file Form I-485 based on the earliest priority date. However, regardless of which I-140 you got your priority date from, your I-485 must be filed on the basis of one particular I-140 whose job offer is currently valid (meaning that the employer intends for you to begin or continue doing that job when your I-485 is approved) [37]. In effect, the I-485 is a petition for USCIS to grant you LPR status so that you can do that job on a permanent basis. ("Permanent" does not mean "eternal"; see below.)
+
+You do not necessarily need to be working for the sponsoring employer when your I-140 and I-485 are filed. However, the intent must exist for you to work there after your I-485 is approved. That intent must exist at both the time when the I-485 is filed, and at the time when it is adjudicated (usually several months later, although it can occasionally take up to 2 years) [37]. In many cases, the applicant will be working for the I-140 sponsor as a nonimmigrant worker (*e.g.*, in H-1B or L-1 status) at the time when the I-140 is filed, at the time when the I-485 is filed, and at the time when the I-485 is approved. In that case, the requisite job offer and intent exist throughout the process.
+
+However, once the I-485 has been pending for at least 180 days, you are allowed to "replace" the job offer that it is based on. That is, you may abandon the intent to work for the I-140 sponsor (or said sponsor may withdraw its intent to employ you), and the I-485 may be adjudicated on the basis of a different job offer: that is, at the time of adjudication, you must have the intent to do a job upon approval, but that job doesn't have to be the same one as the I-140 job. Furthermore, **a new I-140 is not required for the new job offer.** In order to qualify for this portability rule, the new job has to be in "the same or a similar occupational classification" as the I-140 job offer [18]. If this condition is not met, then a new I-140 would be required (including a new labor certification, in the EB-2 and EB-3 cases).
+
+In order to apply for I-485 portability, you have to complete Form I-485J, also known as Supplement J to Form I-485 [37]. Form I-485J can only be filed once Form I-485 has been pending for at least 180 days and a new job offer exists in the same or a similar occupational classification. You can file Supplement J prospectively in order to check whether USCIS considers your new job offer to be valid for porting, or you can file it when USCIS asks for it (such as in response to an RFE or NOID [38], or by bringing it to the interview). Some people have reported that Supplement J simply gets lost in the shuffle when filed prospectively, so this is not necessarily recommended. If you have some doubt about whether the new job offer is similar enough to the I-140 job offer, and the best strategy for filing Supplement J in your case, consult your prospective new employer's immigration attorney prior to accepting an offer. If you don't trust them, consult an attorney independently as well.
+
+## Can I use I-485 portability if the I-140 is still pending?
+If you have filed Form I-485 based on an I-140 that was concurrently filed or pending, it's possible that once the I-485 has been pending 180 days, the I-140 is *also* still pending. In that case, you are still eligible for portability.
+
+When you submit Supplement J, if your I-140 is still pending, USCIS will first examine the facts to determine whether or not the I-140 *would have been approvable* if it had been adjudicated at the 180 day mark. If so, the I-140 will be approved, and then USCIS will adjudicate Supplement J. If the I-140 is denied, then portability cannot be granted. [38][39]
+
+Porting with a pending I-140 is considered risky. Even if you believe that the I-140 should be approved, it's possible that USCIS will issue an RFE on the I-140, as the law firm acting on behalf of the I-140 employer may have made a mistake such as forgetting to submit some required document. (There are also allegations that USCIS sometimes asks for documents that shouldn't actually be required.) In that case, it's the I-140 employer's responsibility to provide the missing evidence in order to respond to the RFE, and they may not be interested in doing so for a former employee. If the RFE is not adequately addressed, the I-140 will be denied, and the applicant would have to start over with a new I-140.
+
+## Can I use I-485 portability if the I-140 was withdrawn?
+If an I-140 that has already been approved is withdrawn within 180 days of approval, it is revoked [20], which means that the I-485 applicant is not eligible for portability [40] and the I-485 will be denied.
+
+As an exception, if the withdrawal of the already approved I-140 occurs when the I-485 has been pending for 180 days or more, then the applicant retains eligibility for portability [20]. In other words, once the applicant becomes eligible to port at the 180 day mark, the applicant will retain said eligibility even if the I-140 is withdrawn.
+
+If the I-140 has been approved for 180 days or more, then even after it is withdrawn, it remains approved, so eligibility for I-485 portability would continue to exist in that case [17][20].
+
+For example, if Form I-140 is approved on Jun 15, 2019, Form I-485 is filed based on the approved I-140 on Oct 1, 2019, and on Jan 2, 2020, Form I-140 is withdrawn and the employee is fired, then, since the withdrawal occurred more than 180 days after approval, the Form I-140 can still be used for porting. However, the employee would not be able to request portability immediately on Jan 2, 2020, since Form I-485 was filed less than 180 days before that date.
+
+(to be continued)
+
 ## How long do I have to stay at my sponsoring employer after my green card is approved?
 An employment-based green card, or admission on an employment-based immigrant visa, is granted on the basis of future employment. In all cases, the alien must have the intent to engage in the qualifying employment *after* lawful permanent resident status is granted [26][33]. 
 
@@ -142,8 +171,8 @@ EB-1A and EB-2 NIW immigrants, if applying for adjustment of status, must sign a
 [16] [8 CFR §204.5(e)(2)](https://www.law.cornell.edu/cfr/text/8/204.5#e_2)  
 [17] See also "Retention of EB-1, EB-2, and EB-3 Immigrant Workers...", [81 FR 82398](https://www.federalregister.gov/documents/2016/11/18/2016-27540/retention-of-eb-1-eb-2-and-eb-3-immigrant-workers-and-program-improvements-affecting-high-skilled), where this is stated explicitly.  
 [18] INA 204(j) ([8 USC §1154(j)](https://www.law.cornell.edu/uscode/text/8/1154#j))  
-[19] USCIS Policy Memorandum 602-0122.1 (https://www.uscis.gov/sites/default/files/USCIS/Laws/Memoranda/2016/Final_Same_or_Similar_Policy_Final_Memorandum_3-18-16.pdf)  
-[20] [8 CFR §205.1(a)(3)(iii)(C)](https://www.law.cornell.edu/cfr/text/8/205.1#a_3_iii_C)
+[19] [USCIS Policy Memorandum 602-0122.1](https://www.uscis.gov/sites/default/files/USCIS/Laws/Memoranda/2016/Final_Same_or_Similar_Policy_Final_Memorandum_3-18-16.pdf)  
+[20] [8 CFR §205.1(a)(3)(iii)(C)](https://www.law.cornell.edu/cfr/text/8/205.1#a_3_iii_C)  
 [21] INA 204(a)(1)(E) ([8 USC §1154(a)(1)(E)](https://www.law.cornell.edu/uscode/text/8/1154#a_1_E))  
 [22] [8 CFR §204.5(h)(3)(ix)](https://www.law.cornell.edu/cfr/text/8/204.5#h_3_ix)  
 [23] [8 CFR §204.5(k)(1)](https://www.law.cornell.edu/cfr/text/8/204.5#k_1)  
@@ -160,3 +189,7 @@ EB-1A and EB-2 NIW immigrants, if applying for adjustment of status, must sign a
 [34] [Form I-485 Instructions](https://www.uscis.gov/sites/default/files/files/form/i-485instr.pdf)  
 [35] [Murthy Law Firm: Changing Employers After Receiving Employment-Based Green Card](https://www.murthy.com/2019/07/29/changing-employers-after-receiving-employment-based-green-card/)  
 [36] https://www.trackitt.com/usa-discussion-forums/i140/2040986077/switching-jobs-after-i-485-approval  
+[37] [8 CFR §245.25(a)](https://www.law.cornell.edu/cfr/text/8/245.25#a)  
+[38] [I-485 Supplement J Instructions](https://www.uscis.gov/system/files_force/files/form/i-485supjinstr.pdf?download=1)  
+[39] [8 CFR §245.25(a)(2)(ii)(B)](https://www.law.cornell.edu/cfr/text/8/245.25#a_2_ii_B)  
+[40] *Ibid.*, (a)(2)(iii)  
