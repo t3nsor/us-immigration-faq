@@ -92,6 +92,25 @@ Upon the denial of the new petition, you would have to immediately stop working 
 
 Note that the regulations state that "DHS may eliminate or shorten this 60-day period as a matter of discretion." [37] Thus, if you attempt to abuse the grace period provision, USCIS may simply decide to act as if the grace period has already expired. For example, if USCIS receives a petition to extend or change your status, and you are in a grace period, and USCIS decides that you should not receive that grace period, they will deny your petition and you will have to leave the US immediately.
 
+## What happens if I travel while I have a pending application to change my nonimmigrant status?
+In most cases where a change of status petition is filed on Form I-539 or Form I-129, if the petition is pending at the time when you leave the US, then USCIS will deny the change of status. See for example [41]. For example, this would apply if you are changing from F-1 to H-1B status (Form I-129) or from H-1B status to H-4 status (Form I-539), or from H-4 to L-2 status. Consequently USCIS will eventually render a denial on the petition.
+
+Thus, if you absolutely must travel while a change of status petition is pending, then be prepared to apply for consular processing when you are abroad: that is, bring with you the appropriate documents in order to apply for a visa for your desired classification at a consular post. Once the visa is issued, you can return to the US in the new status.
+
+In the case of I-129 change of status petitions, note that USCIS applies a two-step adjudication process (see [here](H-1B.md#what-is-the-process-to-apply-for-an-h-1b-visa-or-h-1b-status) for references) in which they first decide whether or not to authorize you to work for the sponsoring employer for a period of time, *then* decide whether or not to approve your status change. If you travel while this petition is pending, then the first step can still be approved on the merits, but the second step will be denied; you will receive an I-797B instead of an I-797A (see [42]). The I-797B must be used to apply for a visa.
+
+## What happens if I travel while I have a pending application to extend my nonimmigrant status?
+In most cases where an extension of stay is filed on Form I-539 or Form I-129, the petition will continue to be processed despite your departure from the US. See for example [41]. This includes, for example, extensions of H-4 or L-2 status, extensions of H-1B status with the same employer, and H-1B change of employer petitions. (When you change employers while retaining H-1B status, this is considered an "extension".) See [the H-1B page](H-1B.md#can-i-travel-while-an-h-1b-transfer-is-pending) for more information about travelling with a pending H-1B transfer.
+
+Note that the "Last Action Rule" will apply to such cases [42]. According to this rule, the latest issued I-94 controls your status. For example, if your extension of stay petition is approved while you are outside the US, then USCIS will issue a new I-94, but when you subsequently return to the US, CBP will issue another I-94; the latter is later in time, so when it is issued, the former will be void. Or, alternatively, if you travel while your extension petition is pending, then return to the US while it is still pending, and the petition is eventually approved, the I-94 issued by USCIS will control, and will void the previous I-94 issued by CBP.
+
+## Why is it that changes of status are abandoned but extensions of stay are not?
+If you've read the preceding two sections, you might be asking this question. Because USCIS has not published a description of the official policy regarding travel with pending Form I-129 or I-539, we can only speculate.
+
+You might be aware of the fact that, in most cases, the US government does not like it when aliens seek admission in one status with the actual intent of obtaining another status. For example, an alien should not attempt to enter the US with an existing B-2 visa if their plan is that immediately after entering the US, they will file to change to F-1 status. If the purpose of your trip is to study, then you are supposed to get an F-1 visa, and present the F-1 visa at the port of entry. This ensures that the State Department and CBP are appraised of the alien's intentions and are able to make the appropriate decision based on the evidence provided.
+
+Given this fact, it is understandable that a change of status petition would be denied when the alien leaves the US. Suppose you are in F-1 status and you have filed to change to H-1B status. Then, if USCIS did not deny the pending petition upon your departure, it would mean that upon your return to the US, you would present the F-1 visa and be admitted in F-1 status with the knowledge that you would soon be changed to H-1B status based on your still-pending petition. This is contrary to policy objectives, so USCIS deals with it by ensuring that the petition will be denied. On the other hand, if it were an extension petition that did not change status, there would be no compelling policy objective necessitating the denial of the petition. Such denial would only result in additional workload for the government as the alien would need to go through consular processing or re-submit the extension petition.
+
 # References
 [1] INA 212(a)(7) ([8 USC §1182(a)(7)](https://www.law.cornell.edu/uscode/text/8/1182#a_7))  
 [2] [9 FAM 102](https://fam.state.gov/FAM/09FAM/09FAM010201.html)  
@@ -133,3 +152,5 @@ Note that the regulations state that "DHS may eliminate or shorten this 60-day p
 [38] *Ibid.*, (l)(3)  
 [39] INA 212(a)(9)(B)(iv) ([8 USC §1182(a)(9)(B)(iv)](https://www.law.cornell.edu/uscode/text/8/1182#a_9_B_iv))  
 [40] [USCIS-AFM 40.9.2(b)(3)(B)](https://www.uscis.gov/ilink/docView/AFM/HTML/AFM/0-0-0-1/0-0-0-17138/0-0-0-18383.html#0-0-0-1911)  
+[41] [Travel out of US with H4 Extension, COS or H4 EAD Pending - Options?](https://redbus2us.com/travel-out-of-us-with-h4-extension-cos-or-h4-ead-pending-options/)  
+[42] [USCIS: Form I-797: Types and Functions](https://www.uscis.gov/forms/forms-information/form-i-797-types-and-functions)  
