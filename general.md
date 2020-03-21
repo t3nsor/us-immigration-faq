@@ -31,6 +31,15 @@ There are also some treaties the United States with other countries that allow t
 
 If you're seeking to do an internship in the US, you don't need an H, L, or O visa. Instead, your employer will invite you to visit the US for an exchange program (often through a third-party organization such as [Cultural Vistas](https://culturalvistas.org/)), the purpose of which is for you to receive training at said employer. You will need to obtain [J-1](J-1.md) status, which is not numerically limited. Some J-1 interns will be subject to a 2-year home residency requirement following the completion of their visit.
 
+## Can I change my nonimmigrant status without leaving the US?
+In most cases, yes. If you are in the US in one nonimmigrant status and you want a different nonimmigrant status, one method is to leave the US, apply for a new visa for the status you want to obtain, then re-enter the US. However, in most cases, it's also possible to apply for USCIS to change your status while you are still in the US, provided that your status is still valid at the time of filing [51].
+
+If you want to change to E-1 principal, E-2 principal, E-3 principal, H-1, H-2, H-3, L-1, O-1, O-2, P-1, P-2, P-3, Q-1, R-1, or TN status, then your employer must file Form I-129 with supporting evidence that you are entitled to that classification [47][49]. If you want to change to A, B, E dependent, F, G, H-4, I, J, L-2, M, O-3, P-4, R-2, T, TD, or U status, you must file Form I-539 with supporting evidence that you are entitled to that classification [34][48]. You cannot apply to change to C or K status [50].
+
+A nonimmigrant with C, D, K, or S status, or who was admitted under the Visa Waiver Program, is not eligible for a change of status, unless changing to T or U status [52].
+
+A J nonimmigrant who is subject to the home residency requirement, and who has neither fulfilled the requirement nor had it waived, is not eligible for a change of status, unless changing to A, G, T, or U status [51][52] and it appears that USCIS interprets this prohibition to include *former* J nonimmigrants as well [34]. For example, a former J exchange visitor who has not yet fulfilled the home residency requirement is allowed to leave and re-enter the US in B or F status, but could not use Form I-539 to switch from B to F status.
+
 ## How can I get a green card through my employer, in order to live and work in the US permanently?
 See the [green card FAQ](green-card.md).
 
@@ -165,3 +174,9 @@ Given this fact, it is understandable that a change of status petition would be 
 [44] [8 CFR §214.2(b)(7)](https://www.law.cornell.edu/cfr/text/8/214.2#b_7)  
 [45] [9 FAM 402.1-3(a)](https://fam.state.gov/FAM/09FAM/09FAM040201.html)  
 [46] [*Plyler v. Doe*, 457 U.S. 202 (1982)](https://caselaw.findlaw.com/us-supreme-court/457/202.html)  
+[47] [8 CFR §248.3(a)](https://www.law.cornell.edu/cfr/text/8/248.3#a)  
+[48] *Ibid.*, (b)  
+[49] [I-129 &ndash; USCIS](https://www.uscis.gov/i-129)  
+[50] [8 CFR §248.1(a)](https://www.law.cornell.edu/cfr/text/8/248.1#a)  
+[51] [INA 248(a) (8 USC §1258(a))](https://www.law.cornell.edu/uscode/text/8/1258#a)  
+[52] *Ibid.*, (b)  
