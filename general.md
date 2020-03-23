@@ -34,11 +34,28 @@ If you're seeking to do an internship in the US, you don't need an H, L, or O vi
 ## Can I change my nonimmigrant status without leaving the US?
 In most cases, yes. If you are in the US in one nonimmigrant status and you want a different nonimmigrant status, one method is to leave the US, apply for a new visa for the status you want to obtain, then re-enter the US. However, in most cases, it's also possible to apply for USCIS to change your status while you are still in the US, provided that your status is still valid at the time of filing [51].
 
-If you want to change to E-1 principal, E-2 principal, E-3 principal, H-1, H-2, H-3, L-1, O-1, O-2, P-1, P-2, P-3, Q-1, R-1, or TN status, then your employer must file Form I-129 with supporting evidence that you are entitled to that classification [47][49]. If you want to change to A, B, E dependent, F, G, H-4, I, J, L-2, M, O-3, P-4, R-2, T, TD, or U status, you must file Form I-539 with supporting evidence that you are entitled to that classification [34][48]. You cannot apply to change to C or K status [50].
+If you want to change to E principal, H-1, H-2, H-3, L-1, O-1, O-2, P-1, P-2, P-3, Q-1, R-1, or TN status, then your employer must file Form I-129 with supporting evidence that you are entitled to that classification [47][49]. If you want to change to A, B, E dependent, F, G, H-4, I, J, L-2, M, O-3, P-4, R-2, T, TD, or U status, you must file Form I-539 with supporting evidence that you are entitled to that classification [34][48]. You cannot apply to change to C or K status [50].
 
 A nonimmigrant with C, D, K, or S status, or who was admitted under the Visa Waiver Program, is not eligible for a change of status, unless changing to T or U status [52].
 
 A J nonimmigrant who is subject to the home residency requirement, and who has neither fulfilled the requirement nor had it waived, is not eligible for a change of status, unless changing to A, G, T, or U status [51][52] and it appears that USCIS interprets this prohibition to include *former* J nonimmigrants as well [34]. For example, a former J exchange visitor who has not yet fulfilled the home residency requirement is allowed to leave and re-enter the US in B or F status, but could not use Form I-539 to switch from B to F status.
+
+If a change of status is approved, USCIS will issue a Form I-797A whose tear-off portion contains a new I-94, indicating the alien's new nonimmigrant status and end date of that new status. [53][54] If the change of status is denied, the alien's status does not change.
+
+## Can I extend my nonimmigrant status without leaving the US?
+A nonimmigrant generally must leave the US on or before the expiration date of their I-94. It is often possible to use the same visa, or a new visa in the same category, to return to the US in the same status. However, in many cases, it's also possible to apply for USCIS to grant you an extension while you are still in the US, provided that your status is still valid at the time of filing [58].
+
+If an alien has E principal, H-1, H-2, H-3, L-1, O-1, O-2, P-1, P-2, P-3, Q-1, R-1, or TN status, their employer must file Form I-129 in order to extend the alien's stay [49][55]. The employer must submit evidence that the alien will continue to perform the employment that qualifies them for their status.
+
+If an alien has A, B, E dependent, G, H-4, K-3, K-4, L-2, M, O-3, P-4, R-2, T, TD, or U status, they must file Form I-539 in order to obtain an extension [34][56]. Form I-539 must be accompanied by evidence that the alien will continue to qualify for their status.
+
+An alien admitted under the Visa Waiver Program, or an alien with C, D, K-1, or K-2 status, may not extend their stay [57]. Aliens from Visa Waiver Program countries who need to stay in the US for longer than the period allowed by the Visa Waiver Program should apply for B visas.
+
+An international student with F status generally is admitted for *duration of status*; their I-94 does not show a specific end date. An alien who is maintaining F status and who must remain beyond the end date of their I-20 in order to complete their academic program must apply to their DSO for an extension, rather than submitting Form I-539. Upon approval, the DSO will issue a new I-20 [61]. An alien in F status who wishes to remain in the US to pursue post-completion optional practical training (OPT) must file Form I-765 [64]. If Form I-765 is approved, the alien may maintain F status without having to file Form I-539 [63]. Form I-539 must be used by students who failed to maintain F status and are applying for a discretionary reinstatement [34][62].
+
+An exchange visitor with J status is usually admitted for duration of status [67], but if they wish to continue their program beyond the end date on their DS-2019, they must ask their sponsor to apply for an extension [65][66]. If the extension is approved, the alien will receive a new DS-2019 [66].
+
+If an extension of status on Form I-129 or Form I-539 is approved, USCIS will issue a Form I-797A whose tear-off portion contains a new I-94, indicating the alien's new approved period of stay [59][60]. If the extension is denied, the alien's current I-94 is unaffected and they must still leave the US before its expiration date.
 
 ## How can I get a green card through my employer, in order to live and work in the US permanently?
 See the [green card FAQ](green-card.md).
@@ -180,3 +197,18 @@ Given this fact, it is understandable that a change of status petition would be 
 [50] [8 CFR §248.1(a)](https://www.law.cornell.edu/cfr/text/8/248.1#a)  
 [51] [INA 248(a) (8 USC §1258(a))](https://www.law.cornell.edu/uscode/text/8/1258#a)  
 [52] *Ibid.*, (b)  
+[53] [USCIS-AFM 30.3(c)(11)(A)](https://www.uscis.gov/ilink/docView/AFM/HTML/AFM/0-0-0-1/0-0-0-12693/0-0-0-12947.html)  
+[54] *Ibid.*, (d)(7)(A)  
+[55] [8 CFR §214.1(c)(1)](https://www.law.cornell.edu/cfr/text/8/214.1#c_1)  
+[56] *Ibid.*, (c)(2)  
+[57] *Ibid.*, (c)(3)  
+[58] *Ibid.*, (c)(4)  
+[59] [USCIS-AFM 30.2(c)(8)(A)](https://www.uscis.gov/ilink/docView/AFM/HTML/AFM/0-0-0-1/0-0-0-12693/0-0-0-12738.html)  
+[60] *Ibid.*, (d)(7)(A)  
+[61] [8 CFR §214.2(f)(7)](https://www.law.cornell.edu/cfr/text/8/214.2#f_7)  
+[62] *Ibid.*, (f)(16)  
+[63] *Ibid.*, (f)(10)(ii)(D)  
+[64] *Ibid.*, (f)(11)(i)(A)  
+[65] *Ibid.*, (j)(1)(iv)  
+[66] [22 CFR §62.43](https://www.law.cornell.edu/cfr/text/22/62.43)  
+[67] *CBP Inspector's Field Manual*, 15.4(j)  
