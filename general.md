@@ -34,7 +34,7 @@ If you're seeking to do an internship in the US, you don't need an H, L, or O vi
 ## Can I change my nonimmigrant status without leaving the US?
 In most cases, yes. If you are in the US in one nonimmigrant status and you want a different nonimmigrant status, one method is to leave the US, apply for a new visa for the status you want to obtain, then re-enter the US. However, in most cases, it's also possible to apply for USCIS to change your status while you are still in the US, provided that your status is still valid at the time of filing [51].
 
-If you want to change to E principal, H-1, H-2, H-3, L-1, O-1, O-2, P-1, P-2, P-3, Q-1, R-1, or TN status, then your employer must file Form I-129 with supporting evidence that you are entitled to that classification [47][49]. If you want to change to A, B, E dependent, F, G, H-4, I, J, L-2, M, O-3, P-4, R-2, T, TD, or U status, you must file Form I-539 with supporting evidence that you are entitled to that classification [34][48]. You cannot apply to change to C or K status [50].
+If you want to change to E principal, H-1, H-2, H-3, L-1, O-1, O-2, P-1, P-2, P-3, Q-1, R-1, or TN status, then your employer must file Form I-129 with supporting evidence that you are entitled to that classification [47][49]. If you want to change to A, B, E dependent, F, G, H-4, I, J, L-2, M, O-3, P-4, R-2, or TD status, you must file Form I-539 with supporting evidence that you are entitled to that classification [34][48]. You cannot apply to change to C or K status [50].
 
 A nonimmigrant with C, D, K, or S status, or who was admitted under the Visa Waiver Program, is not eligible for a change of status, unless changing to T or U status [52].
 
