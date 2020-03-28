@@ -129,6 +129,8 @@ Upon the denial of the new petition, you would have to immediately stop working 
 
 Note that the regulations state that "DHS may eliminate or shorten this 60-day period as a matter of discretion." [37] Thus, if you attempt to abuse the grace period provision, USCIS may simply decide to act as if the grace period has already expired. For example, if USCIS receives a petition to extend or change your status, and you are in a grace period, and USCIS decides that you should not receive that grace period, they will deny your petition and you will have to leave the US immediately.
 
+It is possible that the grace period may expire while you are waiting for a change of status or extension of stay to be approved. Since the grace period is a period of valid nonimmigrant status, that means a change of status or extension of stay filed during the grace period is timely filed. Consequently, if the grace period expires *after* the application was already filed, this generally will not prevent it from being approved.
+
 ## What happens if my nonimmigrant status expires while my Change of Status, Extension of Stay, or Adjustment of Status application is pending?
 The summary answer that most attorneys would agree with is:
 
