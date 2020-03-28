@@ -49,6 +49,11 @@ A Mexican citizen can have the request for new employment adjudicated at a consu
 
 Although this is not explicitly stated, it appears that the intent is that the approval of Form I-129 requesting the addition of a new employer avoids the need to re-adjudicate the matter at a consular post. Thus, a Mexican citizen whose new employment was approved by USCIS pursuant to the filing of Form I-129 would *not* need to also have the new employer added directly on their TN visa [30][31]. However, a visit to the consulate would obviously be necessary if the previously issued visa had already expired.
 
+## Is there a grace period for TN workers?
+Yes. The grace period for TN workers is available subject to the general rules discussed [in the general FAQ](https://github.com/t3nsor/us-immigration-faq/blob/master/general.md#if-i-am-fired-from-my-job-or-quit-what-happens-to-my-status). In particular, TN is one of the classifications listed in the regulations as being eligible for the grace period of up to 60 days per authorized validity period.
+
+During the grace period, it is possible to ask a new employer to file a TN petition so you can start a new job without leaving the US. However, you can't work until the petition is approved. Canadian TN nonimmigrants may therefore find it easier to simply leave the US and apply for TN status with the new employer at the port of entry with CBP. Mexican TN nonimmigrants likewise may do so if their visa is still valid (see above).
+
 ## How long is TN status valid for?
 A TN nonimmigrant may be admitted for up to three years [19] and may travel out of the US and seek re-admission within that three-year period [32]. A new three-year period may be requested either by filing Form I-129, or by presenting the same documentation at the port of entry as would be required for an initial admission [33]; of course, in the case of a Mexican citizen, if their visa has expired, a new visa must be obtained as well.
 
