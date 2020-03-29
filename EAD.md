@@ -1,9 +1,12 @@
 # Questions about employment authorization documents (EADs)
 
 ## What is an employment authorization document (EAD)?
-An EAD is a wallet-sized card issued by USCIS that can be used as a List A document (evidence of both identity and US employment authorization). EADs issued since 2017 look like this:
+An EAD is a wallet-sized card issued by USCIS that can be used as a List A document (evidence of both identity and US employment authorization) [1]. EADs issued since 2017 look like this:
 
 ![EAD specimen, 2017 edition](https://www.uscis.gov/sites/default/files/images/Verification/I9Central/EAD_Current_Front.jpg)
+
+## Is the <q>USCIS#</q> on an EAD the same as the holder's Alien Number?
+As of 2019, USCIS ominously states that *at this time*, the USCIS# on an EAD is just the holder's Alien Number, except that an Alien Number is written with a leading letter <q>A</q> and the USCIS Number is not [12]. The [USCIS Glossary](https://www.uscis.gov/tools/glossary) has two separate entries for <q>Alien Number</q> and <q>USCIS Number</q>, which is an additional indication that at some point in the future, the two numbers may become different, but this hasn't occurred yet.
 
 ## How do I know whether I need an EAD?
 According to USCIS, there are three different categories of aliens who are eligible for work authorization in the US [2]:
@@ -17,6 +20,11 @@ An alien in category (a) is automatically work-authorized simply by virtue of th
 Aliens in category (b) include [H-1B](H-1B.md), [L-1](L-1.md), and [TN](TN.md) nonimmigrants. These aliens are sponsored by a particular employer and do not receive an EAD [4].
 
 Aliens in category (c) include international students, adjustment of status applicants, J-2 nonimmigrants, and some H-4 nonimmigrant spouses [5]. For example, a J-2 nonimmigrant may not begin working immediately upon their admission to the US, but rather, their J-2 status makes them eligible to apply for an EAD, and if the EAD is granted, then they are allowed to work in the US. Similarly, if an alien has a pending application for adjustment of status, this does not mean they are automatically work-authorized, but it means they can use their pending application to separately apply for work authorization.
+
+## What does the category code mean on an EAD?
+The category code, such as <q>C09</q> on the image shown above, refers to a particular section of 8 CFR §274a.12: for example, if an alien requests an EAD based on 8 CFR §274a.12(c)(9), which means adjustment of status applicant, the alien's EAD will have the code <q>C09</q>. There are some exceptions to this rule: for example, A17 means dependent spouse of E-1/E-2/E-3 worker, and A18 means dependent spouse of L-1 worker [13] (these classes of aliens are provided employment authorization by statute, not regulation).
+
+The codes <q>C09P</q> and <q>C16P</q> have the same meaning as <q>C09</q> and <q>C16</q>, respectively [16]. The letter <q>P</q> means that the EAD is a combo card that also serves as Advance Parole (see below) [14][15].
 
 ## How do I apply for an EAD?
 Refugees and some asylees [6] will receive an EAD without having to make a separate application. An alien who qualifies for an EAD (see above) but does not receive one automatically must file Form I-765 with the required evidence stated in the form instructions [7].
@@ -42,3 +50,8 @@ In all other cases, when USCIS approves an EAD, they are *only* granting employm
 [9] [8 CFR §214.2(f)(10)(ii)(D)](https://www.law.cornell.edu/cfr/text/8/214.2#f_10_ii_D)  
 [10] [81 FR 82425&ndash;82426](https://www.govinfo.gov/content/pkg/FR-2016-11-18/pdf/2016-27540.pdf)  
 [11] [Employment Authorization in Compelling Circumstances - USCIS](https://www.uscis.gov/working-united-states/employment-authorization-compelling-circumstances)  
+[12] [Instructions for Form I-9, Employment Eligibility Verification](https://www.uscis.gov/system/files_force/files/form/i-9instr.pdf)  
+[13] [Employment Authorization Document Codes - USCIS](https://save.uscis.gov/web/media/resourcesContents/EAD_Code_Table.pdf)  
+[14] [USCIS Employment Authorization Documents - Fiscal Year 2017 Report to Congress](https://www.dhs.gov/sites/default/files/publications/USCIS%20-%20USCIS%20Employment%20Authorization%20Documents_2.pdf)  
+[15] [Special Advisory Regarding Combination Employment Authorization/Advance Parole Card - USCIS (retrieved August 24, 2019)](http://web.archive.org/web/20190824033529/https://www.uscis.gov/sites/default/files/ilink/docView/AFM/DATAOBJECTS/App55-5f.pdf)  
+[16] [Fact Sheet - Automatic Extensions of EADs Provided by the “Retention of EB-1, EB2, and EB-3 Immigrant Workers and Program Improvements Affecting High-Skilled Nonimmigrant Workers” Final Rule - USCIS](https://www.uscis.gov/sites/default/files/USCIS/Verification/I-9%20Central/FactSheets/Fact-Sheet-AutoExtendEAD.pdf)  
