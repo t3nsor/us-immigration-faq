@@ -38,6 +38,13 @@ There is also one situation where the approval of an EAD application does not co
 
 In all other cases, when USCIS approves an EAD, they are *only* granting employment authorization to the applicant, and not any other immigration benefit.
 
+## Do I need to carry my EAD with me when I am in the US?
+Unlike a green card, an EAD does not necessarily need to be carried by its holder at all times.
+
+There are two separate issues here. First, there is INA 264(e) [17], which requires aliens in the United States to carry proof of alien registration. An EAD *may* be used for this purpose [18]; an alien would only be obligated to carry their EAD if they had no other registration document. This issue is also discussed in the [general FAQ](general.md).
+
+However, another issue is that aliens may wish to carry with them proof that they have legal status or have complied with the immigration laws. While it is not legally required to carry such proof, it may help avoid unnecessary detention based on the suspicion that the alien is not lawfully present. Since an EAD will usually not constitute proof of authorized stay (see above), it is advised to carry the documents relating to the underlying basis of legal status or authorized stay. For example, if an alien has an expired I-94 but has timely filed an I-485, then a copy of the receipt notice should be carried since it is the pending I-485 that grants an authorized period of stay. Such an alien would have an authorized period of stay regardless of whether they had an EAD or not.
+
 # References
 [1] [Form I-9 Acceptable Documents - USCIS](https://www.uscis.gov/i-9-central/acceptable-documents/list-documents/form-i-9-acceptable-documents)  
 [2] [8 CFR §274a.12](https://www.law.cornell.edu/cfr/text/8/274a.12)  
@@ -55,3 +62,7 @@ In all other cases, when USCIS approves an EAD, they are *only* granting employm
 [14] [USCIS Employment Authorization Documents - Fiscal Year 2017 Report to Congress](https://www.dhs.gov/sites/default/files/publications/USCIS%20-%20USCIS%20Employment%20Authorization%20Documents_2.pdf)  
 [15] [Special Advisory Regarding Combination Employment Authorization/Advance Parole Card - USCIS (retrieved August 24, 2019)](http://web.archive.org/web/20190824033529/https://www.uscis.gov/sites/default/files/ilink/docView/AFM/DATAOBJECTS/App55-5f.pdf)  
 [16] [Fact Sheet - Automatic Extensions of EADs Provided by the “Retention of EB-1, EB2, and EB-3 Immigrant Workers and Program Improvements Affecting High-Skilled Nonimmigrant Workers” Final Rule - USCIS](https://www.uscis.gov/sites/default/files/USCIS/Verification/I-9%20Central/FactSheets/Fact-Sheet-AutoExtendEAD.pdf)  
+[17] [INA 264(e) (8 USC §1304(e))](https://www.law.cornell.edu/uscode/text/8/1304#e)  
+[18] [8 CFR §264.1(b)](https://www.law.cornell.edu/cfr/text/8/264.1#b)  
+[19] [81 FR 91654](https://www.govinfo.gov/content/pkg/FR-2016-12-19/pdf/2016-30459.pdf)  
+[20] [8 CFR §1.4](https://www.law.cornell.edu/cfr/text/8/1.4)  
