@@ -19,6 +19,27 @@ Some nonimmigrants, most commonly F nonimmigrants (international students) and J
 
 There are two main categories of nonimmigrant visitors who do *not* receive an I-94: Canadian visitors by land, and Mexicans with a Border Crossing Card exempt from the passport requirement. A Canadian visitor by land will only be issued an I-94 if they apply for one and pay the required fee. If a Canadian visitor is not issued an I-94, they must leave by the date CBP stamps on their passport. If no date is explicitly given, they must leave within 6 months of their admission [80]. A Mexican citizen who enters the US using a Border Crossing Card, without presenting a passport, is not issued an I-94 and can generally stay in the US for up to 30 days per visit and is geographically restricted to a region near the US&ndash;Mexico border [81]. They must present a passport and obtain an I-94 if they wish to stay for longer or if they need to travel outside the designated region.
 
+## What immigration papers do I need to carry with me while I am in the US?
+By law, aliens are required to carry a <q>certificate of alien registration</q> [83]. US citizens and nationals are not legally obligated to carry proof of their citizenship or nationality.
+
+Federal regulations [17] define the set of forms that aliens may carry in order to satisfy the registration requirement. For most aliens, this will be one of:
+
+* A [green card](green-card.md) or temporary I-551 stamp, or
+* The alien's current Form I-94, if unexpired (an alien with a valid electronic I-94 is not legally required to carry a printout [84][85]), or
+* A passport with an unexpired admission stamp, or
+* An [Employment Authorization Document](EAD.md).
+
+Separately, however, all persons present in the US might wonder what documentation they should carry with them in order to avoid unnecessary detention based on a suspicion of being unlawfully present. Even US citizens are sometimes arrested by ICE; for aliens, the concern is obviously greater as one may be coerced into accepting deportation (which carries long-lasting immigration consequences) or one may be placed into removal proceedings despite USCIS discretion to ordinarily not remove certain types of aliens.
+
+To avoid this, one may wish to carry subjectively convincing proof of both identity and legal status or authorized stay, for example:
+* For US citizens or nationals: a US passport or wallet-sized US passport card;
+* For lawful permanent residents: an unexpired green card (remember to renew it when it is close to expiration);
+* For lawful nonimmigrants or parolees: an unexpired foreign passport together with an unexpired admission stamp or I-94 hardcopy, and, if relevant, a copy of the petition or other document authorizing admission in their current status;
+* For individuals who were lawfully admitted as nonimmigrants or paroled but whose status has expired pending a COS, EOS, or AOS (see below): an unexpired foreign passport together with the expired admission stamp or I-94 hardcopy; a copy of the petition authorizing said admission if relevant; and a copy of the receipt notice for the pending application;
+* For refugees or aliens granted asylum: an unexpired US refugee travel document, an unexpired EAD, or an unexpired foreign passport or other official travel document together with I-94 hardcopy or approval notice.
+
+As a nonimmigrant visa is not proof of legal status, nonimmigrants should remember that a visa is not sufficient for the purposes described above. An EAD also may not be sufficient as it does not necessarily provide an immigration officer with a straightforward way to verify the underlying basis: for example, if you have a C09 EAD (adjustment of status pending) then a CBP officer may not be able to immediately verify whether your I-485 is still pending. See also [link 1](https://www.avvo.com/legal-answers/can-i-pass-a-bp-checkpoint-with-only-my-ead-card---3016062.html), [link 2](https://www.eb5investors.com/qa/what-documents-show-cbp-internal-checkpoint-eb5).
+
 ## Which statuses can I apply for in order to work in the US?
 All lawful permanent residents are authorized to work in the US for as long as that status is not terminated [19]. Some nonimmigrants are eligible for an Employment Authorization Document (EAD). EAD holders must be in possession of the physical card in order to satisfy I-9 requirements [20], and their employment authorization terminates when the card expires [21]. Finally, some nonimmigrant statuses authorize a foreign national to work only for their sponsoring employer(s). These are informally referred to as "work visas".
 
@@ -261,3 +282,6 @@ Given this fact, it is understandable that a change of status petition would be 
 [80] [Unlawful Presence in the United States - MyAttorneyUSA](http://myattorneyusa.com/unlawful-presence-in-the-united-states)  
 [81] [8 CFR §235.1(h)(1)](https://www.law.cornell.edu/cfr/text/8/235.1#h_1)  
 [82] [What the Visa Expiration Date Means - U.S. Department of State](https://travel.state.gov/content/travel/en/us-visas/visa-information-resources/visa-expiration-date.html)  
+[83] [INA 264(e) (8 USC §1304(e))](https://www.law.cornell.edu/uscode/text/8/1304#e)  
+[84] [81 FR 91654](https://www.govinfo.gov/content/pkg/FR-2016-12-19/pdf/2016-30459.pdf)  
+[85] [8 CFR §1.4](https://www.law.cornell.edu/cfr/text/8/1.4)  
