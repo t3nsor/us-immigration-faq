@@ -64,7 +64,7 @@ Historically, in the random selection process, cap-subject petitions for an alie
 
 Therefore, we should be able to estimate the chances of winning the lottery in previous years based on data provided by USCIS. Unfortunately, this is not as straightforward as it looks, because while USCIS has published the number of cap-subject petitions received in recent years [3–8], they don't say how many of them are for beneficiaries with a US master's or higher. Based on data available in [16], let us make the very crude estimate that the fraction of cap-subject petitions filed in FY N that qualified for the master's cap equals the fraction of approved petitions for initial employment in FY N-1 that were for beneficiaries with a master's degree or higher. (Note that petitions *for* the beginning of FY N are filed *in* April of FY N-1.) We therefore get the following estimates:
 
-| Fiscal year | Number of cap-subject petitions filed | Estimated number of petitions filed under master's cap | Chance of winning lottery with US master's or higher | Chance of winning lottery without US master's |
+| Fiscal year | Number of cap-subject petitions or registrations filed | Estimated number of petitions or registrations filed under master's cap | Chance of winning lottery with US master's or higher | Chance of winning lottery without US master's |
 | --- | --- | --- | --- | --- |
 | 2014 | 124,000 | 64,800 | 74% | 62% |
 | 2015 | 172,500 | 93,100 | 55% | 43% |
@@ -73,6 +73,7 @@ Therefore, we should be able to estimate the chances of winning the lottery in p
 | 2018 | 199,000 | 112,300 | 48% | 36% |
 | 2019 | 190,098 | ? | ? | ? |
 | 2020 | 201,011 | ? | ? | ? |
+| 2021 | 275,000 | 126,500 | 39% | 24% |
 
 Note that these figures are inaccurate not only due to the approximation discussed above, but also because not all petitions selected in the lottery are approved (the existence of someone else's petition that is denied on its merits, in theory, doesn't reduce your chances of winning the lottery, since it doesn't consume any quota), because an alien with multiple petitions approved is counted only once, and because there are special rules for Chile and Singapore relating to [H-1B1 visas](H-1B1.md) [55]. So, you really should take the numbers in the chart above as very crude approximations.
 
@@ -81,6 +82,8 @@ It's not clear why the number of petitions filed dropped between FY 2017 and FY 
 * The outcome of the 2016 presidential election discouraged both employers and candidates from trying for a visa that might come under tighter scrutiny. (Note that cap-subject petitions for FY 2017 were filed in April 2016, *before* the election, so the timing makes sense.)
 * The outcome of the 2016 presidential election caused some foreigners to change their minds about whether they wanted to live in the US.
 * Uncertainty over whether the new administration would stop issuing EADs to spouses of H-1B workers discouraged married and engaged individuals from seeking H-1B visas.
+
+In 2020, USCIS published the actual percentage of cap-subject petitions eligible for the advanced degree exemption for FY 2021 [62]. If they continue to do so in following years, it should help to build a more accurate picture regarding the chances of winning the lottery. 
 
 ## I've heard people try to increase their chances in the lottery by having multiple companies submit H-1B petitions for them.
 Federal regulations state that when the random selection procedure must be used, it is *petitions* that are sampled randomly [10]. USCIS appears to acknowledge the possibility that having multiple petitions in the lottery can be used as a tactic to increase one's chances of winning, which is the reason why they adopted a policy [17] that if one employer submits multiple petitions for the same alien, all such petitions will be denied [19]. This is the case even if the multiple petitions are for different roles [18].
@@ -258,3 +261,4 @@ The paragraph regarding the 180-day rule in the answer to the previous question 
 [59] https://www.uscis.gov/sites/default/files/files/pressrelease/ac21guide.pdf  
 [60] [81 FR pp. 82440–82441](https://www.govinfo.gov/content/pkg/FR-2016-11-18/pdf/2016-27540.pdf)  
 [61] [8 CFR §214.1(l)(2)](https://www.law.cornell.edu/cfr/text/8/214.1#l_2)  
+[62] https://www.uscis.gov/news/news-releases/fy-2021-h-1b-cap-petitions-may-be-filed-april-1  
