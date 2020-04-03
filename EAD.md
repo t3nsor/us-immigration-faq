@@ -45,6 +45,11 @@ There are two separate issues here. First, there is INA 264(e) [17], which requi
 
 However, another issue is that aliens may wish to carry with them proof that they have legal status or have complied with the immigration laws. While it is not legally required to carry such proof, it may help avoid unnecessary detention based on the suspicion that the alien is not lawfully present. Since an EAD will usually not constitute proof of authorized stay (see above), it is advised to carry the documents relating to the underlying basis of legal status or authorized stay. For example, if an alien has an expired I-94 but has timely filed an I-485, then a copy of the receipt notice should be carried since it is the pending I-485 that grants an authorized period of stay. Such an alien would have an authorized period of stay regardless of whether they had an EAD or not.
 
+## What should I do if my EAD is lost or stolen?
+Technically, losing the physical card does not revoke your employment authorization but some aliens will not be able to complete Form I-9 without having the card in hand and would therefore be barred from starting new employment. To continue employment with the same employer or engage in self-employment, it is not required to replace the physical card as long as you are still within the validity period for which employment was authorized by USCIS, or you fall into a category for which employment authorization does not expire.
+
+If you do need to replace the physical card within its validity period (*e.g.,* to begin new employment) then you must file Form I-765 again and pay the required filing fee in order to replace the EAD [21]. Some categories of aliens are exempt from paying the fee for a *renewal* EAD, but a *replacement* of an EAD that is still within its validity period is different from a renewal. At the time of writing, the Form I-765 instructions state that a fee is always required for a replacement, except for adjustment of status applicants who paid the I-485 filing fee [21]. When filing for a replacement, be sure to carefully read the instructions that are in effect at the time of application.
+
 # References
 [1] [Form I-9 Acceptable Documents - USCIS](https://www.uscis.gov/i-9-central/acceptable-documents/list-documents/form-i-9-acceptable-documents)  
 [2] [8 CFR §274a.12](https://www.law.cornell.edu/cfr/text/8/274a.12)  
@@ -66,3 +71,4 @@ However, another issue is that aliens may wish to carry with them proof that the
 [18] [8 CFR §264.1(b)](https://www.law.cornell.edu/cfr/text/8/264.1#b)  
 [19] [81 FR 91654](https://www.govinfo.gov/content/pkg/FR-2016-12-19/pdf/2016-30459.pdf)  
 [20] [8 CFR §1.4](https://www.law.cornell.edu/cfr/text/8/1.4)  
+[21] [Instructions for Application for Employment Authorization](https://www.uscis.gov/sites/default/files/files/form/i-765instr.pdf)  
