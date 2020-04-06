@@ -35,7 +35,7 @@ Category (c) aliens may be subject to restrictions on their employment, however 
 
 For instance, USCIS declined to impose any restrictions as to the occupations that H-4 EAD holders may work in [24]. This is also true of other dependent categories: the dependents of aliens who have category (b) work authorization do not have the same restrictions as the principal alien; they can work in any occupation. These dependent subcategories are: A17, A18, C01, C02, C04, C05, C07, C12, C26, and C34. However, a C12 spouse does have the same geographical restriction as the principal [5].
 
-Some subcategories of category (c) are based on a pending application for a permanent status that grants category (a) work authorization: for example, category C09 is based on a pending application for adjustment of status to lawful permanent resident. These aliens are granted work authorization based on the prospect that their application will be approved and their employment will become unrestricted. For this reason, the C09 EAD is unrestricted [25]. Other subcategories in this group are C08, C09, C10, C16, C19, C20, C22, and C24.
+Some subcategories of category (c) are based on a pending application for a status that grants category (a) work authorization: for example, category C09 is based on a pending application for adjustment of status to lawful permanent resident. These aliens are granted work authorization based on the prospect that their application will be approved and their employment will become unrestricted. For this reason, the C09 EAD is unrestricted [25]. Other subcategories in this group are C08, C09, C10, C16, C19, C20, C22, and C24.
 
 Notably, however, the F-1 OPT EAD (C03A, C03B, or C03C) is restricted (TODO: discuss this).
 
