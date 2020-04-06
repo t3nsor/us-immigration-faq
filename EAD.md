@@ -22,9 +22,22 @@ Aliens in category (b) include [H-1B](H-1B.md), [L-1](L-1.md), and [TN](TN.md) n
 Aliens in category (c) include international students, adjustment of status applicants, J-2 nonimmigrants, and some H-4 nonimmigrant spouses [5]. For example, a J-2 nonimmigrant may not begin working immediately upon their admission to the US, but rather, their J-2 status makes them eligible to apply for an EAD, and if the EAD is granted, then they are allowed to work in the US. Similarly, if an alien has a pending application for adjustment of status, this does not mean they are automatically work-authorized, but it means they can use their pending application to separately apply for work authorization.
 
 ## What does the category code mean on an EAD?
-The category code, such as <q>C09</q> on the image shown above, refers to a particular section of 8 CFR §274a.12: for example, if an alien requests an EAD based on 8 CFR §274a.12(c)(9), which means adjustment of status applicant, the alien's EAD will have the code <q>C09</q>. There are some exceptions to this rule: for example, A17 means dependent spouse of E-1/E-2/E-3 worker, and A18 means dependent spouse of L-1 worker [13] (these classes of aliens are provided employment authorization by statute, not regulation).
+The category code, such as <q>C09</q> on the image shown above, refers to a particular section of 8 CFR §274a.12: for example, if an alien requests an EAD based on 8 CFR §274a.12(c)(9), which means adjustment of status applicant, the alien's EAD will have the code <q>C09</q>.
+
+There are some exceptions to this rule: for example, A17 means dependent spouse of E-1/E-2/E-3 worker, and A18 means dependent spouse of L-1 worker [13] (these classes of aliens are provided employment authorization by statute, not regulation). **If your category code is A17 or A18 then you fall into category (c): E and L dependent spouses are not allowed to work without having a valid EAD.** This is because the INA has the language <q>the Attorney General shall authorize the alien spouse to engage in employment in the United States</q> [22][23] indicating that the government must act affirmatively to grant employment authorization.
 
 The codes <q>C09P</q> and <q>C16P</q> have the same meaning as <q>C09</q> and <q>C16</q>, respectively [16]. The letter <q>P</q> means that the EAD is a combo card that also serves as Advance Parole (see below) [14][15].
+
+## If I have an EAD, can I work for any employer?
+Aliens who are authorized employment incident to status (category (a) above) are <q>authorized to be employed in the United States without restrictions as to location or type of employment</q> [3], so they can work for any employer unless otherwise prohibited by law (*e.g.,* some employers must hire US citizens only).
+
+Category (c) aliens may be subject to restrictions on their employment, however most subcategories do not have any such restrictions.
+
+For instance, USCIS declined to impose any restrictions as to the occupations that H-4 EAD holders may work in [24]. This is also true of other dependent categories: the dependents of aliens who have category (b) work authorization do not have the same restrictions as the principal alien; they can work in any occupation. These dependent subcategories are: A17, A18, C01, C02, C04, C05, C07, C12, C26, and C34. However, a C12 spouse does have the same geographical restriction as the principal [5].
+
+Some subcategories of category (c) are based on a pending application for a permanent status that grants category (a) work authorization: for example, category C09 is based on a pending application for adjustment of status to lawful permanent resident. These aliens are granted work authorization based on the prospect that their application will be approved and their employment will become unrestricted. For this reason, the C09 EAD is unrestricted [25]. Other subcategories in this group are C08, C09, C10, C16, C19, C20, C22, and C24.
+
+Notably, however, the F-1 OPT EAD (C03A, C03B, or C03C) is restricted (TODO: discuss this).
 
 ## How do I apply for an EAD?
 Refugees and some asylees [6] will receive an EAD without having to make a separate application. An alien who qualifies for an EAD (see above) but does not receive one automatically must file Form I-765 with the required evidence stated in the form instructions [7].
@@ -69,6 +82,10 @@ If you do need to replace the physical card within its validity period (*e.g.,* 
 [16] [Fact Sheet - Automatic Extensions of EADs Provided by the “Retention of EB-1, EB2, and EB-3 Immigrant Workers and Program Improvements Affecting High-Skilled Nonimmigrant Workers” Final Rule - USCIS](https://www.uscis.gov/sites/default/files/USCIS/Verification/I-9%20Central/FactSheets/Fact-Sheet-AutoExtendEAD.pdf)  
 [17] [INA 264(e) (8 USC §1304(e))](https://www.law.cornell.edu/uscode/text/8/1304#e)  
 [18] [8 CFR §264.1(b)](https://www.law.cornell.edu/cfr/text/8/264.1#b)  
-[19] [81 FR 91654](https://www.govinfo.gov/content/pkg/FR-2016-12-19/pdf/2016-30459.pdf)  
+[19] [81 FR p. 91654](https://www.govinfo.gov/content/pkg/FR-2016-12-19/pdf/2016-30459.pdf)  
 [20] [8 CFR §1.4](https://www.law.cornell.edu/cfr/text/8/1.4)  
 [21] [Instructions for Application for Employment Authorization](https://www.uscis.gov/sites/default/files/files/form/i-765instr.pdf)  
+[22] [INA 214(c)(2)(E) (8 USC §1184(c)(2)(E))](https://www.law.cornell.edu/uscode/text/8/1184#c_2_E)  
+[23] *Ibid.*, (e)(6)  
+[24] [80 FR p. 10294](https://www.govinfo.gov/content/pkg/FR-2015-02-25/pdf/2015-04042.pdf)  
+[25] [Murthy Law Firm - What You Want to Know About the Pending I-485-Based EAD](https://www.murthy.com/2011/01/07/what-you-want-to-know-about-the-pending-i-485-based-ead/)  
