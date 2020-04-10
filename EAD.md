@@ -37,7 +37,7 @@ For instance, USCIS declined to impose any restrictions as to the occupations th
 
 Some subcategories of category (c) are based on a pending application for a status that grants category (a) work authorization: for example, category C09 is based on a pending application for adjustment of status to lawful permanent resident. These aliens are granted work authorization based on the prospect that their application will be approved and their employment will become unrestricted. For this reason, the C09 EAD is unrestricted [25]. Other subcategories in this group are C08, C09, C10, C16, C19, C20, C22, and C24.
 
-Notably, however, the F-1 OPT EAD (C03A, C03B, or C03C) is restricted (TODO: discuss this).
+Notably, however, the F-1 OPT EAD (C03A, C03B, or C03C) is restricted. The regulation states that "a student may apply to USCIS for authorization for temporary employment for optional practical training directly related to the student's major area of study." [28] USCIS and ICE have interpreted this to mean that the EAD, once granted, may only be used for employment related to the student's major [26][27]. For example, even if the F-1 nonimmigrant is maintaining employment related to their field of study at all times, they should not attempt to engage in unrelated side employment, such as driving for Uber or Lyft. ICE recommends that students maintain evidence that their employment is related to their degree. That being said, an OPT EAD holder is authorized for ordinary full-time employment, contract (*i.e.,* <q>1099</q> employment), and self-employment [27]. M-1 OPT EAD holders (category C06) are similarly restricted to employment in their field of study [5][26].
 
 ## How do I apply for an EAD?
 Refugees and some asylees [6] will receive an EAD without having to make a separate application. An alien who qualifies for an EAD (see above) but does not receive one automatically must file Form I-765 with the required evidence stated in the form instructions [7].
@@ -89,3 +89,6 @@ If you do need to replace the physical card within its validity period (*e.g.,* 
 [23] *Ibid.*, (e)(6)  
 [24] [80 FR p. 10294](https://www.govinfo.gov/content/pkg/FR-2015-02-25/pdf/2015-04042.pdf)  
 [25] [Murthy Law Firm - What You Want to Know About the Pending I-485-Based EAD](https://www.murthy.com/2011/01/07/what-you-want-to-know-about-the-pending-i-485-based-ead/)  
+[26] [Students and Employment - USCIS](https://www.uscis.gov/working-united-states/students-and-exchange-visitors/students-and-employment)  
+[27] [SEVP Policy Guidance 0801-02: Updates to Post-Completion Optional Practical Training](https://www.aila.org/File/DownloadEmbeddedFile/47746)  
+[28] [8 CFR §214.2(f)(10)(ii)(A)](https://www.law.cornell.edu/cfr/text/8/214.2#f_10_ii_A)  
