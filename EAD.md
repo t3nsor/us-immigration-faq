@@ -90,6 +90,21 @@ There is one exception to rule 2 above: category codes A12 (Temporary Protected 
 ## Did USCIS announce any additional eligibility for EAD extensions due to the COVID-19 pandemic?
 As of the time of writing (April 25, 2020), the answer is **no.** Although some news sources reported that USCIS announced automatic 240-day extensions of employment authorization, the [actual announcement by USCIS](https://www.uscis.gov/news/alerts/covid-19-delays-extensionchange-status-filings) **merely reiterates existing policy** regarding extensions of [H-1B status](H-1B.md#what-happens-if-my-employer-applies-to-extend-my-stay-but-my-i-94-expires-while-the-petition-is-pending) and other statuses that provide employment authorization as described in section (b). There is no special relief for aliens whose EADs are expiring or have expired.
 
+## If I have an EAD, can my dependents receive an EAD?
+If you have an EAD, your spouse and children will often, but not always, be able to obtain an EAD in the same category. It is important to remember that their qualification for an EAD usually is derived *from their own status*, and not *from your EAD*.
+
+This distinction is often crucial in the case of C09 EADs. An alien qualifies for a C09 EAD if they have filed an I-485 and it is still pending. If a principal I-485 filer has obtained a C09 EAD, and they have a spouse or dependent children, those dependents usually can also file I-485s based on the principal's petition either concurrently with the principal or at a later time. This implies that:
+
+* If a dependent has filed an I-485, then they would also be able to obtain a C09 EAD.
+* If a dependent *cannot* file an I-485 (possibly because the dates have retrogressed since the principal filed) then they would not be able to get a C09 EAD. This is because C09 EAD eligibility is solely based on a pending I-485. One cannot apply for a C09 EAD on the basis that they are the dependent of a person who already has a C09 EAD.
+* If the principal doesn't need their C09 EAD for some reason, and chooses not to apply for one, but the dependents have their own pending I-485s, the dependents can apply for EADs without the principal. (However, since there is no application fee for most C09 EADs, this is not typical.)
+
+There is one exception to the general rule. This exception is for categories C35 and C36 (compelling circumstances with I-140) [35]:
+
+* Dependents of C35 EAD holders can apply for C36 EADs.
+* The dependent does not need to have a separate petition since the principal's I-140 petition will eventually be usable for adjustment of both the principal and dependents.
+* Dependents cannot be granted C36 EADs until the principal has been granted their C35 EAD.
+
 # References
 [1] [Form I-9 Acceptable Documents - USCIS](https://www.uscis.gov/i-9-central/acceptable-documents/list-documents/form-i-9-acceptable-documents)  
 [2] [8 CFR §274a.12](https://www.law.cornell.edu/cfr/text/8/274a.12)  
@@ -125,3 +140,4 @@ As of the time of writing (April 25, 2020), the answer is **no.** Although some 
 [32] [Completing Section 3, Reverification and Rehires - USCIS](https://www.uscis.gov/i-9-central/complete-correct-form-i-9/completing-section-3-reverification-and-rehires)  
 [33] [8 CFR §274a.14(a)(1)(i)](https://www.law.cornell.edu/cfr/text/8/274a.14#a_1_i)  
 [34] [8 CFR §274a.13(d)](https://www.law.cornell.edu/cfr/text/8/274a.13#d)  
+[35] [8 CFR §204.5(p)](https://www.law.cornell.edu/cfr/text/8/204.5#p)  
