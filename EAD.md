@@ -70,7 +70,9 @@ Aliens described in section (a) who are maintaining their status continue to be 
 
 For aliens described in section (c), however, their employment authorization expires when the EAD expires [33]. Such aliens cannot begin or continue any employment after the EAD expires unless they have obtained a new or renewed EAD, are eligible for an automatic extension (see below), or have some other employment authorization.
 
-Some types of EADs can be renewed. Form I-765 must be used to apply for a renewal EAD. Be sure to read the instructions [21] for details on whether your EAD can be renewed. The earliest date you can apply for a renewal is 180 days before your current EAD expires [30]. It is recommended that you apply as soon as possible since EAD processing times can be several months. If your EAD has already expired, you can still apply for a renewal, but you won't be eligible for an automatic extension.
+Some types of EADs can be renewed. Form I-765 must be used to apply for a renewal EAD. Be sure to read the instructions [21] for details on whether your EAD can be renewed. The earliest date you can apply for a renewal is 180 days before your current EAD expires [31]. It is recommended that you apply as soon as possible since EAD processing times can be several months. If your EAD has already expired, you can still apply for a renewal, but you won't be eligible for an automatic extension.
+
+If you are applying for a renewal of an EAD/AP combo card, the same time frame applies: the earliest date you can file is 180 days before the expiration of your current card [43].
 
 ## What is the automatic 180-day extension for EADs?
 In some cases, applying to renew an EAD causes the original EAD's expiration date to be postponed by 180 days. In order for this automatic extension to occur, all of the following conditions must be met [35]:
@@ -86,6 +88,8 @@ Thus, an H-4 EAD or L-2 EAD holder should make an effort to submit a renewal I-7
 If the renewal application is denied, then the automatic 180-day extension terminates [35]. In that case, an alien described in section (c) must stop working immediately even though their employer may not be notified about the denial. If the renewal application is approved, the alien should be reverified at some point before the end of the 180-day period.
 
 There is one exception to rule 2 above: category codes A12 (Temporary Protected Status) and C19 (pending TPS), for the purposes of automatic EAD extensions, are considered as if they were the same code. A TPS EAD holder may also receive an automatic extension without having to apply for one, if such extension is announced in the Federal Register [16].
+
+Note that in the case of an EAD/AP combo card, filing for a renewal does extend the employment authorization, but does not extend the parole authorization.
 
 ## Did USCIS announce any additional eligibility for EAD extensions due to the COVID-19 pandemic?
 As of the time of writing (April 25, 2020), the answer is **no.** Although some news sources reported that USCIS announced automatic 240-day extensions of employment authorization, the [actual announcement by USCIS](https://www.uscis.gov/news/alerts/covid-19-delays-extensionchange-status-filings) **merely reiterates existing policy** regarding extensions of [H-1B status](H-1B.md#what-happens-if-my-employer-applies-to-extend-my-stay-but-my-i-94-expires-while-the-petition-is-pending) and other statuses that provide employment authorization as described in section (b). There is no special relief for aliens whose EADs are expiring or have expired.
@@ -176,3 +180,4 @@ It does appear, however, that USCIS may treat the compelling circumstances EAD (
 [40] [How can H4 maintain legal status after using EAD? (Post #17)](https://forums.immigration.com/threads/how-can-h4-maintain-legal-status-after-using-ead.167419/#post-1208477)  
 [41] [Concurrent work on EAD and H1B (Post #20)](https://forums.immigration.com/threads/concurrent-work-on-ead-and-h1b.277647/#post-2352761)  
 [42] [Retention of EB-1, EB-2, and EB-3 Immigrant Workers and Program Improvements Affecting High-Skilled Nonimmigrant Workers (81 FR 82398&ndash;82492)](https://www.govinfo.gov/content/pkg/FR-2016-11-18/pdf/2016-27540.pdf)  
+[43] You can get this information from <q>Ask Emma</q> on the USCIS website, by asking <q>When can I renew my combo card?</q>
