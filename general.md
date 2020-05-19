@@ -25,7 +25,7 @@ By law, aliens are required to carry a <q>certificate of alien registration</q> 
 Federal regulations [17] define the set of forms that aliens may carry in order to satisfy the registration requirement. For most aliens, this will be one of:
 
 * A [green card](green-card.md) or temporary I-551 stamp, or
-* The alien's current Form I-94, if unexpired (an alien with a valid electronic I-94 is not legally required to carry a printout [84][85]), or
+* The alien's current Form I-94, if unexpired. An I-94 printed by the alien from the CBP website after admission is considered valid for this purpose [84][85], or
 * A passport with an unexpired admission stamp, or
 * An [Employment Authorization Document](EAD.md).
 
