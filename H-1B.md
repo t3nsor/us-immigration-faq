@@ -216,6 +216,9 @@ The proclamation also applies to dependents. Therefore, a person cannot obtain a
 
 Since the Proclamation only affects visa issuance, it does not affect the ability of Canadian citizens to enter the US in H-1B or H-4 status, since they do not require visas in order to apply for H-1B or H-4 status at the port of entry. Canadian citizens can still enter the US in H-1B status if they have a valid petition approved by USCIS, even if they do not fall under any of the exemptions listed above. [64][65]
 
+## Does the H-1B visa ban of June 22, 2020 affect H-1B extensions, change of employer, or Change of Status to and from H-1B?
+No. [A visa is distinct from status](general.md#whats-the-difference-between-visa-and-status). A visa is also not the same thing as an H-1B petition. The proclamation [63], as written, applies to visas, and therefore does not affect the approval of H-1B petitions, or Extension of Stay or Change of Status based on an H-1B petition. Similarly, extensions of H-4 status and Change of Status to H-4 are unaffected.
+
 # References
 [1] INA 101(a)(15)(L) ([8 USC §1101(a)(15)(L)](https://www.law.cornell.edu/uscode/text/8/1101#a_15_L))  
 [2] INA 214(g)(1)(A)(vii) ([8 USC §1184(g)(1)(A)(vii)](https://www.law.cornell.edu/uscode/text/8/1184#g_1_A_vii))  
