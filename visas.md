@@ -47,6 +47,23 @@ Thus, as discussed previously, the rules are quite different for Canadians and o
 
 It is important to remember that aliens in general, including Canadians, may become inadmissible to the US if they were previously removed or committed certain severe crimes or violations of US immigration law. Even in such cases, there is no point in a Canadian trying to apply for a visa, since the application will be denied due to inadmissibility anyway. It is sometimes possible to have grounds of inadmissibility waived by filing the appropriate form. If the waiver application is approved, the Canadian is then once again eligible for visa-free entry.
 
+## If someone is subject to a travel ban, can they still obtain a visa?
+An alien who is inadmissible under INA 212 (8 USC 1182) may not be issued a visa according to INA 221(g) (8 USC 1201(g)) [14]. This includes presidential proclamations, which are made under INA 212(f). The main INA 212(f) proclamations that are currently active (as of June 25, 2020) are:
+
+* The nationality bans [22][23]
+* The immigrant visa ban [15]
+* The work visa ban [16]
+* The COVID-19 bans (based on physical presence in certain countries) [17&ndash;21]
+
+Thus, individuals who are subject to the above travel bans are not eligible to be issued a visa, unless:
+* they can demonstrate that they fall under one of the exemptions in the proclamation;
+* they are applying for a visa in a category that is not banned by the proclamation; or
+* they are granted a waiver when they apply for the visa.
+
+Thus, if an individual had a pending visa application as of the date that one of the INA 212(f) proclamations became effective, and that individual was banned by the proclamation, then the consular officer would be obligated to refuse the application under INA 221(g). In some cases the refused application will be referred to administrative processing to determine whether the individual may qualify for an exemption or waiver (for example, see [24]).
+
+With the exception of the COVID-19 bans, the above proclamations allow people who already possess valid visas to continue to use them to seek admission to the US.
+
 # References
 [1] [8 CFR §211.1(a)](https://www.law.cornell.edu/cfr/text/8/211.1#a)  
 [2] [8 CFR §217.5(a)](https://www.law.cornell.edu/cfr/text/8/217.5#a)  
@@ -61,3 +78,14 @@ It is important to remember that aliens in general, including Canadians, may bec
 [11] https://consulmex.sre.gob.mx/sanfrancisco/index.php/visas-traveling-to-mexico  
 [12] [22 CFR §41.111](https://www.law.cornell.edu/cfr/text/22/41.111)  
 [13] [9 FAM 403.9-3(B)(4)](https://fam.state.gov/FAM/09FAM/09FAM040309.html)  
+[14] INA 221(g) ([8 USC §1201(g)](https://www.law.cornell.edu/uscode/text/8/1201#g))  
+[15] [Proclamation Suspending Entry of Immigrants Who Present Risk to the U.S. Labor Market During the Economic Recovery Following the COVID-19 Outbreak](https://www.whitehouse.gov/presidential-actions/proclamation-suspending-entry-immigrants-present-risk-u-s-labor-market-economic-recovery-following-covid-19-outbreak/)  
+[16] [Proclamation Suspending Entry of Aliens Who Present a Risk to the U.S. Labor Market Following the Coronavirus Outbreak](https://www.whitehouse.gov/presidential-actions/proclamation-suspending-entry-aliens-present-risk-u-s-labor-market-following-coronavirus-outbreak/)  
+[17] [Presidential Proclamation 9984](https://www.whitehouse.gov/presidential-actions/proclamation-suspension-entry-immigrants-nonimmigrants-persons-pose-risk-transmitting-2019-novel-coronavirus/)  
+[18] [Presidential Proclamation 9992](https://www.whitehouse.gov/presidential-actions/proclamation-suspension-entry-immigrants-nonimmigrants-certain-additional-persons-pose-risk-transmitting-coronavirus/)  
+[19] [Presidential Proclamation 9993](https://www.whitehouse.gov/presidential-actions/proclamation-suspension-entry-immigrants-nonimmigrants-certain-additional-persons-pose-risk-transmitting-2019-novel-coronavirus/)  
+[20] [Presidential Proclamation 9996](https://www.whitehouse.gov/presidential-actions/proclamation-suspension-entry-immigrants-nonimmigrants-certain-additional-persons-pose-risk-transmitting-coronavirus-2/)  
+[21] [Presidential Proclamation 10041](https://www.whitehouse.gov/presidential-actions/proclamation-suspension-entry-immigrants-nonimmigrants-certain-additional-persons-pose-risk-transmitting-novel-coronavirus/)  
+[22] [Presidential Proclamation 9645](https://www.whitehouse.gov/presidential-actions/presidential-proclamation-enhancing-vetting-capabilities-processes-detecting-attempted-entry-united-states-terrorists-public-safety-threats/)  
+[23] [Presidential Proclamation 9983](https://www.whitehouse.gov/presidential-actions/proclamation-improving-enhanced-vetting-capabilities-processes-detecting-attempted-entry/)  
+[24] https://twitter.com/gsiskind/status/1275792561454579712
