@@ -18,4 +18,4 @@ That being said, whenever possible, we will provide citations to the relevant st
 * [L-1.md](L-1.md) for questions about L-1A and L-1B visas/status
 * [TN.md](TN.md) for questions about TN visas/status
 * [visas.md](visas.md) for questions about visas in general (stamped into your passport by the State Department)
-* [EAD.md](ead.md) for questions about Employment Authorization Documents (EADs)
+* [EAD.md](EAD.md) for questions about Employment Authorization Documents (EADs)
