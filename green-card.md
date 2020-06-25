@@ -110,6 +110,9 @@ USCIS may revoke an EAD when it determines that a change in circumstances result
 
 Note, however, that if you are placed in removal proceedings upon the denial of the adjustment of status application (see above), then this has a side effect of automatically revoking your EAD; USCIS is not required to send notice of revocation in such cases [58].
 
+## Has USCIS stopped approving I-485s because of the immigrant visa ban of April 22, 2020?
+No. The proclamation in question [62] applies to the issuance of immigrant visas at consular posts. It does not prevent USCIS from issuing green cards to individuals who have applied for adjustment of status from within the US. There had been some [speculation](https://www.rollcall.com/2020/06/12/administration-puts-hold-on-green-card-requests-from-us/) that I-485 processing had been paused, but the author of that article later posted an [update](https://www.rollcall.com/2020/06/17/immigration-agency-resumes-processing-u-s-based-green-cards/) clarifying that the supposed pause on I-485 adjudication was related to prioritizing limited USCIS resources and was not related to the immigrant visa ban. I-485s for all categories continued to be processed despite the proclamation of April 22, 2020.
+
 # References
 [1] INA 101(a)(15)(O)(i) ([8 USC §1101(a)(15)(O)(i)](https://www.law.cornell.edu/uscode/text/8/1101#a_15_O_i))  
 [2] INA 289 ([8 USC §1359](https://www.law.cornell.edu/uscode/text/8/1359))  
@@ -172,3 +175,4 @@ Note, however, that if you are placed in removal proceedings upon the denial of 
 [59] [8 CFR §274a.12(a)(3–5)](https://www.law.cornell.edu/cfr/text/8/274a.12#a)  
 [60] [Notice to Appear Policy Memorandum](https://www.uscis.gov/legal-resources/notice-appear-policy-memorandum)  
 [61] INA 322 ([8 USC §1433](https://www.law.cornell.edu/uscode/text/8/1433))  
+[62] [Proclamation Suspending Entry of Immigrants Who Present Risk to the U.S. Labor Market During the Economic Recovery Following the COVID-19 Outbreak](https://www.whitehouse.gov/presidential-actions/proclamation-suspending-entry-immigrants-present-risk-u-s-labor-market-economic-recovery-following-covid-19-outbreak/)  
