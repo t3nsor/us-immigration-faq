@@ -98,6 +98,9 @@ If you are interested in pursuing a green card while in TN status, be sure to di
 
 The reader of this FAQ may wish to read a [well-known thread](https://forums.immigration.com/threads/i-am-no-longer-curious-i-am-appppprrrroooooveeedd.141272/#post-1041766) which discusses the experience of pursuing a green card while in TN status. (However, while curiousGeorge suggests that applying for a TN "with a **new** company once you've filed an I-140" will cause problems, there does not seem to be any evidence that this is particularly problematic. Indeed, switching companies should *reduce* the suspicion of immigrant intent, since the new company would need to file a new I-140.)
 
+## Does the work visa ban of June 22, 2020 apply to TN visas?
+No. The proclamation [49] only applies to [H-1B](H-1B.md), H-2B, J-1, and [L-1](L-1.md) visas. TN processing is not affected by the proclamation. In addition, any person who is already inside the US with TN status can still apply for a Change of Status to H-1B despite the proclamation.
+
 ## References
 [1] INA 214(e)(2) ([8 USC §1184(e)(2)](https://www.law.cornell.edu/uscode/text/8/1184#e_2))  
 [2] [NAFTA Appendix 1603.D.1](https://www.nafta-sec-alena.org/Home/Texts-of-the-Agreement/North-American-Free-Trade-Agreement?mvid=1&secid=8fd98e3e-4495-43a8-ba47-4a6955d6b5db#Ap1603.D.1)  
@@ -147,3 +150,4 @@ The reader of this FAQ may wish to read a [well-known thread](https://forums.imm
 [46] INA 245(k)(1) ([8 USC §1255(k)(1)](https://www.law.cornell.edu/uscode/text/8/1255#k_1)  
 [47] [8 CFR §214.6(j)(4)](https://www.law.cornell.edu/cfr/text/8/214.6#j_4)  
 [48] [9 FAM 402.17-10(a)](https://fam.state.gov/FAM/09FAM/09FAM040217.html#M402_17_10)  
+[49] [Proclamation Suspending Entry of Aliens Who Present a Risk to the U.S. Labor Market Following the Coronavirus Outbreak](https://www.whitehouse.gov/presidential-actions/proclamation-suspending-entry-aliens-present-risk-u-s-labor-market-following-coronavirus-outbreak)  
