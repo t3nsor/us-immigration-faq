@@ -51,7 +51,7 @@ The question is: based on the fact that you had won the lottery and you had an H
 
 The answer to this question is, unfortunately, unclear, with different sources making different claims. USCIS does not appear to have issued official guidance regarding these questions. Thus, it is advisable for aliens seeking H-1B status to do their best to ensure that they acquire H-1B status as soon as possible after winning the lottery in order to guarantee that they are <q>counted against the cap</q> and will be cap-exempt for the next 6 years, even if this means staying at an employer you hate for 6 months waiting for October to start.
 
-If you did acquire H-1B status, then even if your employment is terminated shortly thereafter, you are definitely counted under the cap [43] and your cap exemption is safe.
+If you did acquire H-1B status, then even if your employment is terminated shortly thereafter, you are definitely counted under the cap [43] and your cap exemption is safe. (The only exception to this rule would be if USCIS revoked the petition for fraud, misrepresentation, or because it was not legally eligible to be approved in the first place.)
 
 ## What happens when you have used up 6 years in H-1B status?
 We simply quote the text of the relevant regulation [41]:
