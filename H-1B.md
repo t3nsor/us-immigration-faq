@@ -39,6 +39,20 @@ In recent years there have been more than 85,000 applicants per year. You might 
 * Aliens who have already been counted against the cap are, for the next 6 years, not subject to the cap when seeking admission in H-1B status or switching to another employer wishing to sponsor them for H-1B status [13]. Days spent outside the US do not count against the 6 years [14], so winning the lottery qualifies you up to 6 years of total time in the US in H-1B status, assuming that you also qualify on the merits and are not inadmissible.
 * There are circumstances in which H-1B time can be extended beyond 6 years (see below).
 
+## Does the cap exemption apply if I won the lottery but didn't actually acquire H-1B status?
+Suppose an employer filed a petition for you in the lottery, the petition was approved, but you didn't actually obtain H-1B status. Some possible situations where this happens are:
+
+* Your case was filed as a change of status, but your employment with the petitioner was terminated prior to Oct 1, so the change of status did not take place.
+* You never worked for the petitioning employer. They had intended for you to join them on Oct 1, but you decided not to.
+* Your case was filed under consular processing. You were still in the US on Oct 1, working for the employer in some other status. Before you had the chance to travel and return in H-1B status, your employment was terminated.
+* Your case was filed under consular processing. You are outside the US, and you were going to travel to the US on or after Oct 1 in order to work for the petitioning employer, but before you had the chance to do so, they withdrew their offer.
+
+The question is: based on the fact that you had won the lottery and you had an H-1B petition approved at one point, can a new employer file a cap-exempt H-1B petition for you?
+
+The answer to this question is, unfortunately, unclear, with different sources making different claims. USCIS does not appear to have issued official guidance regarding these questions. Thus, it is advisable for aliens seeking H-1B status to do their best to ensure that they acquire H-1B status as soon as possible after winning the lottery in order to guarantee that they are <q>counted against the cap</q> and will be cap-exempt for the next 6 years, even if this means staying at an employer you hate for 6 months waiting for October to start.
+
+If you did acquire H-1B status, then even if the petition is revoked shortly thereafter, you are definitely counted under the cap [43] and your cap exemption is safe.
+
 ## What happens when you have used up 6 years in H-1B status?
 We simply quote the text of the relevant regulation [41]:
 
@@ -262,7 +276,7 @@ No. [A visa is distinct from status](general.md#whats-the-difference-between-vis
 [40] [9 FAM 402.10-11(A)](https://fam.state.gov/FAM/09FAM/09FAM040210.html)  
 [41] [8 CFR §214.2(h)(13)(iii)(A)](https://www.law.cornell.edu/cfr/text/8/214.2#h_13_iii_A)  
 [42] [USCIS-AFM 31.3(g)(11)](https://www.uscis.gov/ilink/docView/AFM/HTML/AFM/0-0-0-1/0-0-0-13593/0-0-0-13813.html)  
-[43]  
+[43] [8 CFR §214.2(h)(8)(ii)(A)](https://www.law.cornell.edu/cfr/text/8/214.2#ii_8_ii_A)  
 [44] [8 CFR §274a.12](https://www.law.cornell.edu/cfr/text/8/274a.12#b_20)   
 [45] [AC21 §106(a–b)](https://www.uscis.gov/ilink/docView/PUBLAW/HTML/PUBLAW/0-0-0-22204.html)  
 [46] [8 CFR §214.2(h)(13)(iii)(D)](https://www.law.cornell.edu/cfr/text/8/214.2#h_13_iii_D)  
