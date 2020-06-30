@@ -215,18 +215,18 @@ The regulations [48] clarify that the H-1B petitioner need not be the same one t
 The paragraph regarding the 180-day rule in the answer to the previous question about the lengthy adjudication exemption also applies to the per-country limitation exemption. Likewise, note that the exemption is not limited to extension petitions.
 
 ## Who is covered by the H-1B visa ban of June 22, 2020?
-Due to the Proclamation [63], H-1B visas may not be issued between June 24, 2020 and Dec 31, 2020, except to individuals who fall under one of the following exemptions:
+Due to the Proclamation [63][66], H-1B visas may not be issued between June 24, 2020 and Dec 31, 2020, except to individuals who fall under one of the following exemptions:
 
 * Persons who are physically present in the US on June 24, 2020 at 12:01 AM ET
-* Persons who possess a nonimmigrant visa (of any type) that is valid on June 24, 2020 at 12:01 AM ET
+* Persons who already possess an H-1B visa that is valid on June 24, 2020 at 12:01 AM ET
 * Persons who possess an advance parole document or other travel document issued by the US, which is valid on June 24, 2020 at 12:01 AM ET
 * Spouses and children of US citizens
 * Persons whose job in the US is essential to the US food supply chain, in the opinion of the State Department or DHS
 * Persons whose entry to the US would be in the national interest, for example, for national security or defense reasons, or because they are involved in health care related to COVID-19. This determination will be made by the State Department or DHS.
 
-For example, a person who was in the US on June 24, 2020 at 12:01 AM ET with an expired visa would still be eligible to travel outside the US and renew their visa (however, they might find it difficult to get a consular appointment). A person who was outside the US on June 24, 2020 at 12:01 AM ET, but has a valid B-1/B-2 or F-1 visa, could still theoretically obtain an H-1B visa at a later time. A person who has a valid H-1B visa can still use it to enter the US.
+For example, a person who was in the US on June 24, 2020 at 12:01 AM ET with an expired H-1B would still be eligible to travel outside the US and renew their visa (however, they might find it difficult to get a consular appointment, and there are reports that the State Department is refusing such applications without any legal authority). A person who was outside the US on June 24, 2020 at 12:01 AM ET, but has a valid H-1B visa, can still use it to enter the US. A previous version of the proclamation allowed people who possess any kind of valid nonimmigrant visa (such as B-1/B-2 or F-1) to be exempt from the ban and receive an H-1B visa, but the amendment [66] eliminated this possibility.
 
-The proclamation also applies to dependents. Therefore, a person cannot obtain an H-4 visa as the dependent of an H-1B nonimmigrant, unless they fall into one of the exceptions listed above. For example, if an H-1B nonimmigrant was inside the US on June 24, but their spouse or child was temporarily outside the US with an expired visa, said spouse or child may not be able to obtain an H-4 visa to re-enter the US until the end of the year. An H-4 nonimmigrant who was in the US on June 24 could theoretically still travel and renew their H-4 visa. A person who has a valid H-4 visa can still use it to enter the US.
+The proclamation also applies to dependents. Therefore, a person cannot obtain an H-4 visa as the dependent of an H-1B nonimmigrant, unless they fall into one of the exceptions listed above. For example, if an H-1B nonimmigrant was inside the US on June 24, but their spouse or child was temporarily outside the US with an expired visa, said spouse or child may not be able to obtain an H-4 visa to re-enter the US until the end of the year. An H-4 nonimmigrant who was in the US on June 24 could theoretically still travel and renew their H-4 visa, but it's not clear whether the State Department will accept such applications. A person who has a valid H-4 visa can still use it to enter the US.
 
 Since the Proclamation only affects visa issuance, it does not affect the ability of Canadian citizens to enter the US in H-1B or H-4 status, since they do not require visas in order to apply for H-1B or H-4 status at the port of entry. Canadian citizens can still enter the US in H-1B status if they have a valid petition approved by USCIS, even if they do not fall under any of the exemptions listed above. [64][65]
 
@@ -298,3 +298,4 @@ No. [A visa is distinct from status](general.md#whats-the-difference-between-vis
 [63] [Proclamation Suspending Entry of Aliens Who Present a Risk to the U.S. Labor Market Following the Coronavirus Outbreak](https://www.whitehouse.gov/presidential-actions/proclamation-suspending-entry-aliens-present-risk-u-s-labor-market-following-coronavirus-outbreak)  
 [64] [Seyfarth Shaw LLP - FAQ - New Proclamation Suspending Entry of H-1B, L-1, J-1, and H-2B Nonimmigrant](https://www.seyfarth.com/news-insights/faq-new-proclamation-suspending-entry-of-h-1b-l-1-j-1-and-h-2b-nonimmigrant.html)  
 [65] https://twitter.com/gsiskind/status/1275888516459827200  
+[66] [Proclamation on Amendment to Proclamation 10052](https://www.whitehouse.gov/presidential-actions/proclamation-amendment-proclamation-10052)  
