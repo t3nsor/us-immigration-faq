@@ -48,7 +48,7 @@ Thus, as discussed previously, the rules are quite different for Canadians and o
 It is important to remember that aliens in general, including Canadians, may become inadmissible to the US if they were previously removed or committed certain severe crimes or violations of US immigration law. Even in such cases, there is no point in a Canadian trying to apply for a visa, since the application will be denied due to inadmissibility anyway. It is sometimes possible to have grounds of inadmissibility waived by filing the appropriate form. If the waiver application is approved, the Canadian is then once again eligible for visa-free entry.
 
 ## If someone is subject to a travel ban, can they still obtain a visa?
-An alien who is inadmissible under INA 212 (8 USC 1182) may not be issued a visa according to INA 221(g) (8 USC 1201(g)) [14]. This includes presidential proclamations, which are made under INA 212(f). The main INA 212(f) proclamations that are currently active (as of June 25, 2020) are:
+An alien who is inadmissible to the United States may not be issued a visa according to INA 221(g) (8 USC 1201(g)) [14]. The State Department has taken the position that this includes INA 212(f), which is used by the President in order to suspend entry of aliens (the so-called <q>travel bans</q>), and has therefore refused to issue visas to the banned individuals. The main INA 212(f) proclamations that are currently active (as of June 25, 2020) are:
 
 * The nationality bans [22][23]
 * The immigrant visa ban [15]
@@ -63,6 +63,8 @@ Thus, individuals who are subject to the above travel bans are not eligible to b
 Thus, if an individual had a pending visa application as of the date that one of the INA 212(f) proclamations became effective, and that individual was banned by the proclamation, then the consular officer would be obligated to refuse the application under INA 221(g). In some cases the refused application will be referred to administrative processing to determine whether the individual may qualify for an exemption or waiver (for example, see [24]).
 
 With the exception of the COVID-19 bans, the above proclamations allow people who already possess valid visas to continue to use them to seek admission to the US.
+
+Recently, there have been legal challenges to the State Department's policy of denying visas to the banned individuals, arguing that the suspension of entry under INA 212(f) is not an inadmissibility, and that the State Department therefore must issue visas to the banned individuals even though they may not be able to use them until the presidential proclamations expire or are lifted. So far, this argument has been only been accepted by a federal court in the case of diversity immigrant visas [25] and not for any other visa types.
 
 # References
 [1] [8 CFR §211.1(a)](https://www.law.cornell.edu/cfr/text/8/211.1#a)  
@@ -89,3 +91,4 @@ With the exception of the COVID-19 bans, the above proclamations allow people wh
 [22] [Presidential Proclamation 9645](https://www.whitehouse.gov/presidential-actions/presidential-proclamation-enhancing-vetting-capabilities-processes-detecting-attempted-entry-united-states-terrorists-public-safety-threats/)  
 [23] [Presidential Proclamation 9983](https://www.whitehouse.gov/presidential-actions/proclamation-improving-enhanced-vetting-capabilities-processes-detecting-attempted-entry/)  
 [24] https://twitter.com/gsiskind/status/1275792561454579712
+[25] https://www.natlawreview.com/article/update-gomez-v-trump  
