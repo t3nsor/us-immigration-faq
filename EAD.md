@@ -3,7 +3,7 @@
 ## What is an employment authorization document (EAD)?
 An EAD is a wallet-sized card issued by USCIS that can be used as a List A document (evidence of both identity and US employment authorization) [1]. EADs issued since 2017 look like this:
 
-![EAD specimen, 2017 edition](https://www.uscis.gov/sites/default/files/images/Verification/I9Central/EAD_Current_Front.jpg)
+![EAD specimen, 2017 edition](https://www.uscis.gov/sites/default/files/images/article-i9-central/USCIS_13.0-List-A-EAD-Current-Front_241x161%402x.png)
 
 ## Is the <q>USCIS#</q> on an EAD the same as the holder's Alien Number?
 As of 2019, USCIS ominously states that *at this time*, the USCIS# on an EAD is just the holder's Alien Number, except that an Alien Number is written with a leading letter <q>A</q> and the USCIS Number is not [12]. The [USCIS Glossary](https://www.uscis.gov/tools/glossary) has two separate entries for <q>Alien Number</q> and <q>USCIS Number</q>, which is an additional indication that at some point in the future, the two numbers may become different, but this hasn't occurred yet.
@@ -50,6 +50,11 @@ There is one situation where the approval of an EAD application actually gives l
 There is also one situation where the approval of an EAD application does not confer any status, but does protect the alien from unlawful presence, namely: when an alien holds a <q>compelling circumstances EAD</q> (category (c)(35) or (c)(36)). The EAD prevents the alien from accruing unlawful presence for as long as it remains valid. In addition, unlawful presence also does not accrue while the application for the compelling circumstances EAD is pending, provided that the application was timely filed and non-frivolous. [10][11]
 
 In all other cases, when USCIS approves an EAD, they are *only* granting employment authorization to the applicant, and not any other immigration benefit.
+
+## If my EAD expires, am I out of status?
+As mentioned above, approval of an EAD does not confer status. It therefore stands to reason that, when an EAD expires, it does not cause the bearer to lose status, either.
+
+This is particularly confusing for adjustment of status applicants, who sometimes assume that obtaining an EAD based on their pending I-485 gives them a temporary status that enables them to remain in status if their previous status expires or is otherwise lost. In actual fact, an alien who has properly filed a form I-485 is in a <q>period of authorized stay</q> while their form I-485 is pending [46], regardless of whether they have an EAD or not. If an alien's EAD expires while form I-485 is still pending, therefore, the alien remains in authorized stay, but may lose work authorization.
 
 ## Do I need to carry my EAD with me when I am in the US?
 Unlike a green card, an EAD does not necessarily need to be carried by its holder at all times.
@@ -187,3 +192,4 @@ USCIS takes the position that an alien must be inside the United States in order
 [44] In a [2003 memo](https://www.hsdl.org/?view&did=20015), USCIS clarified that the language <q>must apply to the Service for a
 document evidencing such employment</q> and <q>as evidenced by an employment authorization document issued by the Service</q> do not mean that section (a) aliens need approval from USCIS in order to be employment-authorized. They receive employment authorization automatically when their status begins. However, some section (a) aliens cannot prove their employment authorization without an EAD, and so must apply to USCIS for an EAD before they can complete form I-9.
 [45] [Form I-765, 08/25/20 edition, page 4](https://www.uscis.gov/sites/default/files/document/forms/i-765.pdf)  
+[46] [USCIS-AFM 40.9.2(b)(3)(A)](https://www.uscis.gov/sites/default/files/document/policy-manual-afm/afm40-external.pdf)  
