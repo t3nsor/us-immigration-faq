@@ -126,6 +126,8 @@ Since, as discussed above, H-1B nonimmigrants are generally authorized only to w
 
 If the H-1B worker wants to change employers without leaving the US, the new employer should file for an extension of stay on the I-129 petition [35]. (Note that sometimes this doesn't actually lengthen the period for which the beneficiary is allowed to remain in the US, but it is nonetheless considered an application for extension of stay. Presumably the logic employed by USCIS here is that the alien's authorized period of stay in H-1B status *with respect to the new employer* is initially zero, and then becomes nonzero once the petition is approved.)
 
+The adjudication of the new employer's I-129 petition is a two-step process, in which USCIS first determines whether the beneficiary qualifies for H-1B classification with the new job offered, and then determines whether the beneficiary qualifies to extend their H-1B status while remaining in the United States [38]. Usually, both steps will be approved, in which case USCIS sends Form I-797A, containing an I-94 reflecting the extension granted [72]. However, it's possible that the petition is approved while the extension of stay is denied—typically because USCIS has determined that the beneficiary has violated their status, making them ineligible for an extension—and the beneficiary must usually leave the United States and re-enter using their H-1B visa (which may need to be renewed if it has expired or has been revoked).
+
 In order to make it as easy as possible for H-1B workers to switch jobs, the [AC21 Act](https://en.wikipedia.org/wiki/American_Competitiveness_in_the_21st_Century_Act) included a provision, INA 214(n), that allows an H-1B worker to commence new employment as soon as the new employer *files* the H-1B petition; that is, it's not necessary to wait for the petition to be *approved*. However, in order to take advantage of this *portability* provision, the H-1B worker must meet the other conditions to be eligible for extension of stay, that is, they must be maintaining their H-1B status at the time of filing, and in particular must not have engaged in unauthorized employment [27][37][39]. If the petition is denied, the worker must stop working for the new employer [27]. Note that an H-1B worker may be eligible for a grace period after the end of their employment, and H-1B portability is available during the grace period (see below).
 
 However, it should be emphasized that INA 214(n) doesn't actually grant H-1B status by itself. Suppose an alien was working at Company A, and then Company B filed a portability petition and the alien resigned from Company A. The alien is now availing themselves of INA 214(n). If the alien now moves from Company B to Company C, once again upon filing of a portability petition, then the Company B petition acts as a <q>bridge</q>. If the Company B petition is now denied, then since the alien did not have valid H-1B status at the time the Company C petition is filed, the Company C petition must also be denied because the requirements for portability were not met in the Company C instance&mdash;USCIS refers to this as <q>undercutting the bridge</q>. The fact that the alien was employment authorized under INA 214(n) and working for Company B at the time when the Company C petition was filed does not mean the alien qualified to use INA 214(n) with Company C, if the Company B petition ends up being denied. [42]
@@ -255,15 +257,15 @@ No. [A visa is distinct from status](general.md#whats-the-difference-between-vis
 [12] INA 214(g)(5)(A–B) ([8 USC §1184(g)(5)(A–B)](https://www.law.cornell.edu/uscode/text/8/1184#g_5_A))  
 [13] INA 214(g)(7) ([8 USC §1184(g)(7)](https://www.law.cornell.edu/uscode/text/8/1184#g_7))  
 [14] [8 CFR §214.2(h)(13)(iii)(C)](https://www.law.cornell.edu/cfr/text/8/214.2#h_13_iii_C)  
-[15] [USCIS-AFM 31.3(g)(15)](https://www.uscis.gov/ilink/docView/AFM/HTML/AFM/0-0-0-1/0-0-0-13593/0-0-0-13813.html)  
+[15] USCIS-AFM 31.3(g)(15), [archived August 24, 2019](http://web.archive.org/web/20190824032657/https://www.uscis.gov/ilink/docView/AFM/HTML/AFM/0-0-0-1/0-0-0-13593/0-0-0-13813.html)  
 [16] https://www.uscis.gov/tools/reports-studies/reports-and-studies  
 [17] [73 FR 15391](https://www.gpo.gov/fdsys/pkg/FR-2008-03-24/pdf/E8-5906.pdf)  
 [18] *Ibid.*, p. 15392  
 [19] [8 CFR §214.2(h)(2)(i)(G)](https://www.law.cornell.edu/cfr/text/8/214.2#h_2_i_G)  
 [20] Adopted Decision 2018-02, [*Matter of S- Inc.*](https://www.uscis.gov/sites/default/files/err/D2%20-%20Temporary%20Worker%20in%20a%20Specialty%20Occupation%20or%20Fashion%20Model%20%28H-1B%29/Decisions_Issued_in_2018/JAN112018_03D2101.pdf)  
-[21] [8 CFR §274a.12(b)(9)](https://www.law.cornell.edu/cfr/text/8/274a.12#b_9)  
+[21] [8 CFR §274a.12(b)(9)](https://www.law.http://web.archive.org/web/20190824032657/https://www.uscis.gov/ilink/docView/AFM/HTML/AFM/0-0-0-1/0-0-0-13593/0-0-0-13813.htmlcornell.edu/cfr/text/8/274a.12#b_9)  
 [22] [8 CFR §214.2(h)(2)(i)(H)](https://www.law.cornell.edu/cfr/text/8/214.2#h_2_i_H)  
-[23] [USCIS-AFM 31.3(g)(16)](https://www.uscis.gov/ilink/docView/AFM/HTML/AFM/0-0-0-1/0-0-0-13593/0-0-0-13813.html#0-0-0-511)  
+[23] USCIS-AFM 31.3(g)(16), [archived August 24, 2019](http://web.archive.org/web/20190824032657/https://www.uscis.gov/ilink/docView/AFM/HTML/AFM/0-0-0-1/0-0-0-13593/0-0-0-13813.html)  
 [24] [8 CFR §274a.12(c)(9)](https://www.law.cornell.edu/cfr/text/8/274a.12#c_9)  
 [25] [8 CFR §204.5(p)](https://www.law.cornell.edu/cfr/text/8/204.5#p)  
 [26] [Employment Authorization in Compelling Circumstances](https://www.uscis.gov/working-united-states/employment-authorization-compelling-circumstances)  
@@ -273,16 +275,16 @@ No. [A visa is distinct from status](general.md#whats-the-difference-between-vis
 [30] *Ibid.*, (h)(9)(i)  
 [31] [9 FAM 402.10-7(G)](https://fam.state.gov/FAM/09FAM/09FAM040210.html)  
 [32] [Instructions for Petition for Nonimmigrant Worker](https://www.uscis.gov/sites/default/files/files/form/i-129instr.pdf)  
-[33] [USCIS-AFM 30.3(d)(3)](https://www.uscis.gov/ilink/docView/AFM/HTML/AFM/0-0-0-1/0-0-0-12693/0-0-0-12947.html)  
-[34] *Ibid.*, (d)(7)(A)
+[33] USCIS-AFM 30.3(d)(3), [archived August 24, 2019](http://web.archive.org/web/20190824032609/https://www.uscis.gov/ilink/docView/AFM/HTML/AFM/0-0-0-1/0-0-0-12693/0-0-0-12947.html)  
+[34] *Ibid.*, (d)(7)(A)  
 [35] [8 CFR §214.2(h)(2)(i)(D)](https://www.law.cornell.edu/cfr/text/8/214.2#h_2_i_D)  
 [36] *Ibid.*, (h)(15)(ii)(B)  
 [37] *Ibid.*, (h)(2)(i)(H)  
-[38] [USCIS-AFM 30.2(d)(3)](https://www.uscis.gov/ilink/docView/AFM/HTML/AFM/0-0-0-1/0-0-0-12693/0-0-0-12738.html)  
+[38] USCIS-AFM 30.2(d)(3), [archived August 24, 2019](http://web.archive.org/web/20190824032600/https://www.uscis.gov/ilink/docView/AFM/HTML/AFM/0-0-0-1/0-0-0-12693/0-0-0-12738.html)  
 [39] [8 CFR §214.1(c)(4)](https://www.law.cornell.edu/cfr/text/8/214.1#c_4)  
 [40] [9 FAM 402.10-11(A)](https://fam.state.gov/FAM/09FAM/09FAM040210.html)  
 [41] [8 CFR §214.2(h)(13)(iii)(A)](https://www.law.cornell.edu/cfr/text/8/214.2#h_13_iii_A)  
-[42] [USCIS-AFM 31.3(g)(11)](https://www.uscis.gov/ilink/docView/AFM/HTML/AFM/0-0-0-1/0-0-0-13593/0-0-0-13813.html)  
+[42] USCIS-AFM 31.3(g)(11), [archived August 24, 2019](http://web.archive.org/web/20190824032657/https://www.uscis.gov/ilink/docView/AFM/HTML/AFM/0-0-0-1/0-0-0-13593/0-0-0-13813.html)  
 [43] [8 CFR §214.2(h)(8)(ii)(A)](https://www.law.cornell.edu/cfr/text/8/214.2#ii_8_ii_A)  
 [44] [8 CFR §274a.12](https://www.law.cornell.edu/cfr/text/8/274a.12#b_20)   
 [45] [AC21 §106(a–b)](https://www.uscis.gov/ilink/docView/PUBLAW/HTML/PUBLAW/0-0-0-22204.html)  
@@ -290,8 +292,8 @@ No. [A visa is distinct from status](general.md#whats-the-difference-between-vis
 [47] [AC21 §104(c)](https://www.uscis.gov/ilink/docView/PUBLAW/HTML/PUBLAW/0-0-0-22204.html)  
 [48] [8 CFR §214.2(h)(13)(iii)(E)](https://www.law.cornell.edu/cfr/text/8/214.2#h_13_iii_E)  
 [49] [81 FR 82398–82492](https://www.govinfo.gov/content/pkg/FR-2016-11-18/pdf/2016-27540.pdf)  
-[50] [USCIS-AFM 31.2(d)(4)](https://www.uscis.gov/ilink/docView/AFM/HTML/AFM/0-0-0-1/0-0-0-13593/0-0-0-13680.html)  
-[51] [USCIS-AFM 31.3(g)(8)](https://www.uscis.gov/ilink/docView/AFM/HTML/AFM/0-0-0-1/0-0-0-13593/0-0-0-13813.html)  
+[50] USCIS-AFM 31.2(d)(4), [archived August 24, 2019](http://web.archive.org/web/20190824032652/https://www.uscis.gov/ilink/docView/AFM/HTML/AFM/0-0-0-1/0-0-0-13593/0-0-0-13680.html)  
+[51] USCIS-AFM 31.3(g)(8), [archived August 24, 2019](http://web.archive.org/web/20190824032657/https://www.uscis.gov/ilink/docView/AFM/HTML/AFM/0-0-0-1/0-0-0-13593/0-0-0-13813.html)  
 [52] [8 CFR §205.1(a)(3)(iii)(C–D)](https://www.law.cornell.edu/cfr/text/8/205.1#a_3_iii)  
 [53] [81 FR pp. 82407, 82414–82415](https://www.govinfo.gov/content/pkg/FR-2016-11-18/pdf/2016-27540.pdf)  
 [55] INA 214(g)(8)(B) ([8 USC §1184(g)(8)(B)](https://www.law.cornell.edu/uscode/text/8/1184#g_8_B))  
@@ -311,3 +313,4 @@ No. [A visa is distinct from status](general.md#whats-the-difference-between-vis
 [69] https://twitter.com/TravelGov/status/1284201220605960198  
 [70] https://twitter.com/TravelGov/status/1284248313777266691  
 [71] https://twitter.com/TravelGov/status/1284219605741981698  
+[72] USCIS-AFM 30.2(d)(7)(A), [archived August 24, 2020](http://web.archive.org/web/20190824032600/https://www.uscis.gov/ilink/docView/AFM/HTML/AFM/0-0-0-1/0-0-0-12693/0-0-0-12738.html)  
