@@ -209,6 +209,6 @@ USCIS takes the position that an alien must be inside the United States in order
 [44] In a [2003 memo](https://www.hsdl.org/?view&did=20015), USCIS clarified that the language <q>must apply to the Service for a
 document evidencing such employment</q> and <q>as evidenced by an employment authorization document issued by the Service</q> do not mean that section (a) aliens need approval from USCIS in order to be employment-authorized. They receive employment authorization automatically when their status begins. However, some section (a) aliens cannot prove their employment authorization without an EAD, and so must apply to USCIS for an EAD before they can complete form I-9.
 [45] [Form I-765, 08/25/20 edition, page 4](https://www.uscis.gov/sites/default/files/document/forms/i-765.pdf)  
-[46] [USCIS-AFM 40.9.2(b)(3)(A)](https://www.uscis.gov/sites/default/files/document/policy-manual-afm/afm40-external.pdf)  
+[46] USCIS-AFM 40.9.2(b)(3)(A), [archived May 7, 2020](http://web.archive.org/web/20200507080142/http://www.uscis.gov/ilink/docView/AFM/HTML/AFM/0-0-0-1/0-0-0-17138/0-0-0-18383.html#0-0-0-1885)  
 [47] [USCIS-PM 7(B)(4)(G)](https://www.uscis.gov/policy-manual/volume-7-part-b-chapter-4#S-G)  
 [48] [Who can an H-1B alien work for? (Wayback Machine)](http://web.archive.org/web/20100201141716/http://www.uscis.gov/portal/site/uscis/menuitem.5af9bb95919f35e66f614176543f6d1a/?vgnextoid=186aec897643f010VgnVCM1000000ecd190aRCRD&vgnextchannel=1847c9ee2f82b010VgnVCM10000045f3d6a1RCRD)  
