@@ -258,7 +258,7 @@ EB-1A and EB-2 NIW immigrants, if applying for adjustment of status, must sign a
 [27] *Ibid.*, (i)  
 [28] *Ibid.*, (j)(5)  
 [29] INA 204(a)(1)(F) ([8 USC §1154(a)(1)(F)](https://www.law.cornell.edu/uscode/text/8/1154#a_1_F))  
-[30] [USCIS-AFM 23.5(f)(1)](https://www.uscis.gov/ilink/docView/AFM/HTML/AFM/0-0-0-1/0-0-0-8624/0-0-0-9232.html#0-0-0-1583)  
+[30] USCIS-AFM 23.5(f)(1), [archived May 11, 2020](http://web.archive.org/web/20200511012136/https://www.uscis.gov/ilink/docView/AFM/HTML/AFM/0-0-0-1/0-0-0-8624/0-0-0-9232.html#0-0-0-1583)  
 [31] [8 CFR §245.25(a)(1)](https://www.law.cornell.edu/cfr/text/8/245.25#a_1)  
 [32] [8 CFR §204.5(j)(3)(i)](https://www.law.cornell.edu/cfr/text/8/204.5#j_3_i)  
 [33] [8 CFR §245.25(a)(3)](https://www.law.cornell.edu/cfr/text/8/245.25#a_3)  
@@ -274,5 +274,5 @@ EB-1A and EB-2 NIW immigrants, if applying for adjustment of status, must sign a
 [43] [9 FAM 502.4](https://fam.state.gov/FAM/09FAM/09FAM050204.html)  
 [44] [8 CFR §245.2(a)(2)(i)(B)](https://www.law.cornell.edu/cfr/text/8/245.2#a_2_i_B)  
 [45] [81 FR 82416](https://www.govinfo.gov/content/pkg/FR-2016-11-18/pdf/2016-27540.pdf)  
-[46] [USCIS-AFM 20.2(c)](https://www.uscis.gov/ilink/docView/AFM/HTML/AFM/0-0-0-1/0-0-0-2872/0-0-0-2977.html#0-0-0-1473)  
+[46] USCIS-AFM 20.2(c), [archived April 11, 2020](http://web.archive.org/web/20200411010520/https://www.uscis.gov/ilink/docView/AFM/HTML/AFM/0-0-0-1/0-0-0-2872/0-0-0-2977.html#0-0-0-1473)  
 [47] The US does not issue green cards to these individuals while they are still employed, since it would be inappropriate from a foreign policy perspective. They must be retired so that the US does not have the appearance of compromising their ability to perform their official duties. However, this restriction does not apply to the children of these individuals, who may receive green cards after completing 7 years of residence.  
