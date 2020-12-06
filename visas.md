@@ -64,7 +64,7 @@ Thus, if an individual had a pending visa application as of the date that one of
 
 With the exception of the COVID-19 bans, the above proclamations allow people who already possess valid visas to continue to use them to seek admission to the US.
 
-Recently, there have been legal challenges to the State Department's policy of denying visas to the banned individuals, arguing that the suspension of entry under INA 212(f) is not an inadmissibility, and that the State Department therefore must issue visas to the banned individuals even though they may not be able to use them until the presidential proclamations expire or are lifted. So far, this argument has been only been accepted by a federal court in the case of diversity immigrant visas [25] and not for any other visa types.
+Recently, there have been legal challenges to the State Department's policy of denying visas to the banned individuals, arguing that the suspension of entry under INA 212(f) is not an inadmissibility, and that the State Department therefore must issue visas to the banned individuals even though they may not be able to use them until the presidential proclamations expire or are lifted. In a number of cases, the plaintiffs were able to obtain relief (the State Department was ordered to issue the visas, although the holders of those visas will not be able to use them until the bans are lifted). For more information, see the status-specific pages of the FAQ.
 
 # References
 [1] [8 CFR §211.1(a)](https://www.law.cornell.edu/cfr/text/8/211.1#a)  
