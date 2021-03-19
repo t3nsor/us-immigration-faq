@@ -48,23 +48,25 @@ Thus, as discussed previously, the rules are quite different for Canadians and o
 It is important to remember that aliens in general, including Canadians, may become inadmissible to the US if they were previously removed or committed certain severe crimes or violations of US immigration law. Even in such cases, there is no point in a Canadian trying to apply for a visa, since the application will be denied due to inadmissibility anyway. It is sometimes possible to have grounds of inadmissibility waived by filing the appropriate form. If the waiver application is approved, the Canadian is then once again eligible for visa-free entry.
 
 ## If someone is subject to a travel ban, can they still obtain a visa?
-An alien who is inadmissible to the United States may not be issued a visa according to INA 221(g) (8 USC 1201(g)) [14]. The State Department has taken the position that this includes INA 212(f), which is used by the President in order to suspend entry of aliens (the so-called <q>travel bans</q>), and has therefore refused to issue visas to the banned individuals. The main INA 212(f) proclamations that are currently active (as of June 25, 2020) are:
+Typically, a noncitizen who is inadmissible is also banned from obtaining a visa [26]. The State Department has taken the position that this rule extends to those noncitizens who are banned by §212(f), which is used by the President in order to suspend entry of aliens (the so-called <q>travel bans</q>), and has therefore refused to issue visas to the banned individuals. The main INA 212(f) proclamations that are currently active (as of March 19, 2020) are:
 
-* The nationality bans [22][23]
-* The immigrant visa ban [15]
-* The work visa ban [16]
-* The COVID-19 bans (based on physical presence in certain countries) [17&ndash;21]
+* The work visa ban [16], which is scheduled to expire on March 31, 2021 [20].
+* The COVID-19 bans (based on physical presence in certain countries) [17&ndash;19]
 
-Thus, individuals who are subject to the above travel bans are not eligible to be issued a visa, unless:
+Note that the nationality bans [22][23] were rescinded on January 20, 2020 [27] and the immigrant visa ban [15] was rescinded on February 24, 2021 [28]. These bans are no longer in effect.
+
+Thus, the State Department took the position that individuals who are subject to the above travel bans are not eligible to be issued a visa, unless:
 * they can demonstrate that they fall under one of the exemptions in the proclamation;
 * they are applying for a visa in a category that is not banned by the proclamation; or
 * they are granted a waiver when they apply for the visa.
 
-Thus, if an individual had a pending visa application as of the date that one of the INA 212(f) proclamations became effective, and that individual was banned by the proclamation, then the consular officer would be obligated to refuse the application under INA 221(g). In some cases the refused application will be referred to administrative processing to determine whether the individual may qualify for an exemption or waiver (for example, see [24]).
+A banned individual who applied for a visa would thus either receive an outright denial, or be referred to administrative processing to determine whether the individual may qualify for an exemption or waiver (for example, see [24]).
 
 With the exception of the COVID-19 bans, the above proclamations allow people who already possess valid visas to continue to use them to seek admission to the US.
 
-Recently, there have been legal challenges to the State Department's policy of denying visas to the banned individuals, arguing that the suspension of entry under INA 212(f) is not an inadmissibility, and that the State Department therefore must issue visas to the banned individuals even though they may not be able to use them until the presidential proclamations expire or are lifted. In a number of cases, the plaintiffs were able to obtain relief (the State Department was ordered to issue the visas, although the holders of those visas will not be able to use them until the bans are lifted). For more information, see the status-specific pages of the FAQ.
+A number of legal challenges have asserted that §212(f) may only be used to ban *entry*, and not issuance of visas. For example, in the case of the COVID-19 bans, the argument is that people who are present in a country that is subject to a COVID-19 ban should be allowed to obtain visas from those countries' consular posts, even though (after receiving the visa) they need to spend at least 14 days in a non-banned country before they are eligible to use said visa to travel to the US. In a number of cases, the plaintiffs were able to obtain relief (the State Department was ordered by a judge to issue the visas). As some of these cases are still pending, we won't go into any further detail here.
+
+If a person, as a result of litigation, does receive a visa despite being subject to a ban, then the visa is annotated with some wording like "subject to proclamation 10014", which  means the person has to wait for the ban to expire before they can actually use the visa. This is different from a visa that was issued *before* the proclamation, or a visa that was issued as a result of an *exemption* from the proclamation.
 
 # References
 [1] [8 CFR §211.1(a)](https://www.law.cornell.edu/cfr/text/8/211.1#a)  
@@ -83,12 +85,15 @@ Recently, there have been legal challenges to the State Department's policy of d
 [14] INA 221(g) ([8 USC §1201(g)](https://www.law.cornell.edu/uscode/text/8/1201#g))  
 [15] [Proclamation Suspending Entry of Immigrants Who Present Risk to the U.S. Labor Market During the Economic Recovery Following the COVID-19 Outbreak](https://www.whitehouse.gov/presidential-actions/proclamation-suspending-entry-immigrants-present-risk-u-s-labor-market-economic-recovery-following-covid-19-outbreak/)  
 [16] [Proclamation Suspending Entry of Aliens Who Present a Risk to the U.S. Labor Market Following the Coronavirus Outbreak](https://www.whitehouse.gov/presidential-actions/proclamation-suspending-entry-aliens-present-risk-u-s-labor-market-following-coronavirus-outbreak/)  
-[17] [Presidential Proclamation 9984](https://www.whitehouse.gov/presidential-actions/proclamation-suspension-entry-immigrants-nonimmigrants-persons-pose-risk-transmitting-2019-novel-coronavirus/)  
-[18] [Presidential Proclamation 9992](https://www.whitehouse.gov/presidential-actions/proclamation-suspension-entry-immigrants-nonimmigrants-certain-additional-persons-pose-risk-transmitting-coronavirus/)  
-[19] [Presidential Proclamation 9993](https://www.whitehouse.gov/presidential-actions/proclamation-suspension-entry-immigrants-nonimmigrants-certain-additional-persons-pose-risk-transmitting-2019-novel-coronavirus/)  
-[20] [Presidential Proclamation 9996](https://www.whitehouse.gov/presidential-actions/proclamation-suspension-entry-immigrants-nonimmigrants-certain-additional-persons-pose-risk-transmitting-coronavirus-2/)  
-[21] [Presidential Proclamation 10041](https://www.whitehouse.gov/presidential-actions/proclamation-suspension-entry-immigrants-nonimmigrants-certain-additional-persons-pose-risk-transmitting-novel-coronavirus/)  
+[17] [Presidential Proclamation 9984](https://www.trumpwhitehouse.gov/presidential-actions/proclamation-suspension-entry-immigrants-nonimmigrants-persons-pose-risk-transmitting-2019-novel-coronavirus/)  
+[18] [Presidential Proclamation 9992](https://www.trumpwhitehouse.gov/presidential-actions/proclamation-suspension-entry-immigrants-nonimmigrants-certain-additional-persons-pose-risk-transmitting-coronavirus/)  
+[19] https://www.whitehouse.gov/briefing-room/presidential-actions/2021/01/25/proclamation-on-the-suspension-of-entry-as-immigrants-and-non-immigrants-of-certain-additional-persons-who-pose-a-risk-of-transmitting-coronavirus-disease/    
+[20] [Presidential Proclamation 10131](https://www.federalregister.gov/documents/2021/01/06/2021-00039/suspension-of-entry-of-immigrants-and-nonimmigrants-who-continue-to-present-a-risk-to-the-united)  
+[21] (Reserved)  
 [22] [Presidential Proclamation 9645](https://www.whitehouse.gov/presidential-actions/presidential-proclamation-enhancing-vetting-capabilities-processes-detecting-attempted-entry-united-states-terrorists-public-safety-threats/)  
 [23] [Presidential Proclamation 9983](https://www.whitehouse.gov/presidential-actions/proclamation-improving-enhanced-vetting-capabilities-processes-detecting-attempted-entry/)  
 [24] https://twitter.com/gsiskind/status/1275792561454579712
 [25] https://www.natlawreview.com/article/update-gomez-v-trump  
+[26] INA 212(a) ([8 USC 1182(a)](https://www.law.cornell.edu/uscode/text/8/1182#a))  
+[27] https://www.whitehouse.gov/briefing-room/presidential-actions/2021/01/20/proclamation-ending-discriminatory-bans-on-entry-to-the-united-states/  
+[28] https://www.whitehouse.gov/briefing-room/presidential-actions/2021/02/24/a-proclamation-on-revoking-proclamation-10014/  
