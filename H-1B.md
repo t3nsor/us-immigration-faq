@@ -216,7 +216,7 @@ The regulations [48] clarify that the H-1B petitioner need not be the same one t
 
 The paragraph regarding the 180-day rule in the answer to the previous question about the lengthy adjudication exemption also applies to the per-country limitation exemption. Likewise, note that the exemption is not limited to extension petitions.
 
-## Who is covered by the H-1B visa ban of June 22, 2020?
+## Who was covered by the H-1B visa ban of June 22, 2020?
 **The work visa ban [63][66] expired at the end of March 31, 2021 and is no longer in effect. The information below is provided for historical context only.** Due to the proclamation, H-1B visas were not be issued between June 24, 2020 and Dec 31, 2020, except to individuals who fell under one of the following exemptions:
 
 * Persons who were physically present in the US on June 24, 2020 at 12:01 AM ET
