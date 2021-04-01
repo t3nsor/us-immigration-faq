@@ -98,8 +98,8 @@ If you are interested in pursuing a green card while in TN status, be sure to di
 
 The reader of this FAQ may wish to read a [well-known thread](https://forums.immigration.com/threads/i-am-no-longer-curious-i-am-appppprrrroooooveeedd.141272/#post-1041766) which discusses the experience of pursuing a green card while in TN status. (However, while curiousGeorge suggests that applying for a TN "with a **new** company once you've filed an I-140" will cause problems, there does not seem to be any evidence that this is particularly problematic. Indeed, switching companies should *reduce* the suspicion of immigrant intent, since the new company would need to file a new I-140.)
 
-## Does the work visa ban of June 22, 2020 apply to TN visas?
-No. The proclamation [49] only applies to [H-1B](H-1B.md), H-2B, J-1, and [L-1](L-1.md) visas. TN processing is not affected by the proclamation. In addition, any person who is already inside the US with TN status can still apply for a Change of Status to H-1B despite the proclamation.
+## Did the work visa ban of June 22, 2020 apply to TN visas?
+No. The proclamation [49] (which expired at the end of March 31, 2021) only applied to [H-1B](H-1B.md), H-2B, J-1, and [L-1](L-1.md) visas. TN status was not affected by the proclamation, although reduced capacity at consulates may have impacted Mexican citizens, who require a visa to enter in TN status. In addition, any person who was already inside the US with TN status still had the option to apply for a Change of Status to H-1B despite the proclamation.
 
 ## References
 [1] INA 214(e)(2) ([8 USC §1184(e)(2)](https://www.law.cornell.edu/uscode/text/8/1184#e_2))  
