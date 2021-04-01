@@ -48,25 +48,18 @@ Thus, as discussed previously, the rules are quite different for Canadians and o
 It is important to remember that aliens in general, including Canadians, may become inadmissible to the US if they were previously removed or committed certain severe crimes or violations of US immigration law. Even in such cases, there is no point in a Canadian trying to apply for a visa, since the application will be denied due to inadmissibility anyway. It is sometimes possible to have grounds of inadmissibility waived by filing the appropriate form. If the waiver application is approved, the Canadian is then once again eligible for visa-free entry.
 
 ## If someone is subject to a travel ban, can they still obtain a visa?
-Typically, a noncitizen who is inadmissible is also banned from obtaining a visa [26]. The State Department has taken the position that this rule extends to those noncitizens who are banned by §212(f), which is used by the President in order to suspend entry of aliens (the so-called <q>travel bans</q>), and has therefore refused to issue visas to the banned individuals. The main INA 212(f) proclamations that are currently active (as of March 19, 2020) are:
+Typically, a noncitizen who is inadmissible is also banned from obtaining a visa [26]. The State Department has taken the position that this rule extends to those noncitizens who are banned by §212(f), which is used by the President in order to suspend entry of aliens (the so-called <q>travel bans</q>), and has therefore refused to issue visas to the banned individuals. As of April 1, 2021, noncitizens are banned by §212(f) from entering the US if they have been physically present in certain countries during the last 14 days before seeking entry [17&ndash;19]. This ban does not apply to lawful permanent residents (green card holders).
 
-* The work visa ban [16], which is scheduled to expire on March 31, 2021 [20].
-* The COVID-19 bans (based on physical presence in certain countries) [17&ndash;19]
+Note that the nationality bans [22][23] were rescinded on January 20, 2020 [27], the immigrant visa ban [15] was rescinded on February 24, 2021 [28], and the work visa ban [16] expired at the end of March 31, 2021 [20]. These bans are no longer in effect.
 
-Note that the nationality bans [22][23] were rescinded on January 20, 2020 [27] and the immigrant visa ban [15] was rescinded on February 24, 2021 [28]. These bans are no longer in effect.
-
-Thus, the State Department took the position that individuals who are subject to the above travel bans are not eligible to be issued a visa, unless:
+The State Department took the position that individuals who are subject to §212(f) travel bans are not eligible to be issued a visa, unless:
 * they can demonstrate that they fall under one of the exemptions in the proclamation;
 * they are applying for a visa in a category that is not banned by the proclamation; or
 * they are granted a waiver when they apply for the visa.
 
 A banned individual who applied for a visa would thus either receive an outright denial, or be referred to administrative processing to determine whether the individual may qualify for an exemption or waiver (for example, see [24]).
 
-With the exception of the COVID-19 bans, the above proclamations allow people who already possess valid visas to continue to use them to seek admission to the US.
-
 A number of legal challenges have asserted that §212(f) may only be used to ban *entry*, and not issuance of visas. For example, in the case of the COVID-19 bans, the argument is that people who are present in a country that is subject to a COVID-19 ban should be allowed to obtain visas from those countries' consular posts, even though (after receiving the visa) they need to spend at least 14 days in a non-banned country before they are eligible to use said visa to travel to the US. In a number of cases, the plaintiffs were able to obtain relief (the State Department was ordered by a judge to issue the visas). As some of these cases are still pending, we won't go into any further detail here.
-
-If a person, as a result of litigation, does receive a visa despite being subject to a ban, then the visa is annotated with some wording like "subject to proclamation 10014", which  means the person has to wait for the ban to expire before they can actually use the visa. This is different from a visa that was issued *before* the proclamation, or a visa that was issued as a result of an *exemption* from the proclamation.
 
 # References
 [1] [8 CFR §211.1(a)](https://www.law.cornell.edu/cfr/text/8/211.1#a)  
