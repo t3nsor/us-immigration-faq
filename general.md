@@ -13,11 +13,27 @@ A *visa* is issued to a foreign national by the State Department at a consular p
 An expired visa is not valid for admission to the United States [1][16] but under certain conditions, a visa may be considered to be automatically extended beyond its original expiration date. The validity period of a visa does not limit the period of authorized stay [16]. Thus, the expiration of a visa, in and of itself, does not mean a nonimmigrant is required to leave the United States, but if the alien does leave the United States, they must obtain a new visa from a consular post in order to re-enter the United States, unless they can benefit from the automatic revalidation provisions. A visa also does not constitute proof of alien registration [17].
 
 ## How do I know when my status expires?
-Nonimmigrants who arrive in the United States by air or sea and are granted admission are issued an electronic I-94 form, which can be retrieved from [CBP's website](https://i94.cbp.dhs.gov/I94/). Those who arrive by land may be issued a paper I-94. In either case, the "admit until" date on the I-94 indicates the last day of the nonimmigrant's period of authorized stay [18]. If you are granted extension or change of status by USCIS, your approval notice will indicate the new period of authorized stay [59][60].
+Nonimmigrants who arrive in the United States by air or sea and who are granted admission are issued an electronic I-94 form, which can be retrieved from [CBP's website](https://i94.cbp.dhs.gov/I94/). Those who arrive by land may be issued a paper I-94. In either case, the "admit until" date on the I-94 indicates the last day of the nonimmigrant's period of authorized stay [18]. If you are granted extension or change of status by USCIS, your approval notice will indicate the new period of authorized stay [59][60].
 
 Some nonimmigrants, most commonly F nonimmigrants (international students) and J nonimmigrants (exchange visitors) receive an I-94 whose end date is <q>D/S</q> (duration of status). These individuals are not given a specific date to leave by DHS directly, but are instead authorized to remain in the US until the expiration of the program they were admitted for [82]. (Extension of stay for F and J nonimmigrants is discussed in an answer below.) 
 
 There are two main categories of nonimmigrant visitors who do *not* receive an I-94: Canadian visitors by land, and Mexicans with a Border Crossing Card exempt from the passport requirement. A Canadian visitor by land will only be issued an I-94 if they apply for one and pay the required fee. If a Canadian visitor is not issued an I-94, they must leave by the date CBP stamps on their passport. If no date is explicitly given, they must leave within 6 months of their admission [80]. A Mexican citizen who enters the US using a Border Crossing Card, without presenting a passport, is not issued an I-94 and can generally stay in the US for up to 30 days per visit and is geographically restricted to a region near the US&ndash;Mexico border [81]. They must present a passport and obtain an I-94 if they wish to stay for longer or if they need to travel outside the designated region.
+
+## Do parolees receive an I-94?
+Yes [88]. However, if the reason why you were paroled is because of your pending Adjustment of Status application, then the expiration date on the I-94 does not necessarily mean that you have to leave the United States by that date. If your I-94 expires and your Adjustment of Status is *still* pending, then you can stay in the United States. See [below](#what-happens-if-my-nonimmigrant-status-expires-while-my-change-of-status-extension-of-stay-or-adjustment-of-status-application-is-pending).
+
+## Do lawful permanent residents receive an I-94?
+CBP does not use Form I-94 to record lawful permanent resident travel [89], though they do still maintain entry/exit records for LPRs. LPRs are responsible for recording their own entry/exit dates, although it's possible to get this information from CBP by filing a Freedom of Information Act request. USCIS normally does not issue an I-94 when a person adjusts status to LPR. There are some limited situations in which an LPR can receive an I-94 from USCIS [87]. A lawful permanent resident should use their green card or other Form I-551 as evidence of lawful status in the United States.
+
+## Do asylees and refugees receive an I-94?
+Yes. An I-94 is issued when a person is admitted to the United States as as refugee or when a person's asylum application is granted. Such I-94s may be used as evidence that the bearer has the right to work in the United States [90].
+
+## What should I do if I lose my I-94?
+If you were issued an electronic I-94, you can always use the CBP website to see your most recent I-94 record. Even if you were issued a paper I-94, it's possible that an electronic version still exists. But there are still cases where you will have *only* a paper I-94. For example, if you were granted an extension of stay by USCIS, then USCIS would have issued a paper I-94 with your approval notice. The information on that I-94 is not available on the CBP website, since CBP did not create the record of admission. [89]
+
+One obvious method to get a new I-94 is to leave and re-enter the United States. You may have been planning on leaving anyway, in which case there is no requirement to re-enter the United States (obviously) but care should be taken to ensure that your departure is recorded. If you leave the US by air, then DHS will record your departure electronically. But if you leave by land, then you should request to have your passport stamped by Canada or Mexico so that, if you ever travel to the US in the future and are questioned about whether you overstayed in the US, you will have proof that you did not overstay.
+
+If you want to stay in the US, an obvious question arises: how do you know how long you're allowed to remain in the US, if you've lost your I-94? If there is some doubt about this, then it is usually better to leave the US to avoid a possible overstay. If this is somehow not a concern for you, but you still need an I-94 in order to present to someone else as proof of lawful status, then you can file [Form I-102](https://www.uscis.gov/i-102) with USCIS. You should be aware that this is often more expensive and time-consuming than leaving and re-entering the United States.
 
 ## What immigration papers do I need to carry with me while I am in the US?
 By law, aliens are required to carry a <q>certificate of alien registration</q> [83]. US citizens and nationals are not legally obligated to carry proof of their citizenship or nationality.
@@ -285,3 +301,8 @@ Given this fact, it is understandable that a change of status petition would be 
 [83] [INA 264(e) (8 USC §1304(e))](https://www.law.cornell.edu/uscode/text/8/1304#e)  
 [84] [81 FR 91654](https://www.govinfo.gov/content/pkg/FR-2016-12-19/pdf/2016-30459.pdf)  
 [85] [8 CFR §1.4](https://www.law.cornell.edu/cfr/text/8/1.4)  
+[86] [I-94 Automation Fact Sheet](https://www.cbp.gov/sites/default/files/assets/documents/2021-Feb/i-94_automation_fact-sheet.pdf)  
+[87] [11 USCIS-PM F.1](https://www.uscis.gov/policy-manual/volume-11-part-f-chapter-1)  
+[88] [8 CFR §235.1(h)(2)](https://www.law.cornell.edu/cfr/text/8/235.1#h_2)  
+[89] [CBP I-94 FAQ](https://i94.cbp.dhs.gov/I94/#/faq)  
+[90] [USCIS Handbook for Employers, Section 6.3](https://www.uscis.gov/i-9-central/handbook-for-employers-m-274/60-evidence-of-status-for-certain-categories/63-refugees-and-asylees)  
