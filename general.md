@@ -126,9 +126,13 @@ If your family members do not qualify to accompany you to the US in a dependent 
 Employment of aliens in the United States is heavily restricted by [INA 274a (8 USC §1324a)](https://www.law.cornell.edu/uscode/text/8/1324a) and [8 CFR §274](https://www.law.cornell.edu/cfr/text/8/part-274a). In the case of nonimmigrant dependents, such as those in H-4 or L-2 status, employment is generally not permitted unless the individual has been issued an Employment Authorization Document (EAD) by USCIS. The statutes and regulations do allow nonimmigrant dependents in some categories to receive EADs; see the FAQ section about the corresponding principal classifications for more information (for example [the H-1B FAQ](H-1b.md)).
 
 ## If I am a nonimmigrant, can my dependents study in the US?
-Dependent nonimmigrant status is based on the relationship to the principal nonimmigrant, and not on any particular activity. Dependent nonimmigrants may therefore choose to undertake a variety of activities in the US without violating their status, including study. As there is no law prohibiting aliens from studying in the US generally, all nonimmigrant dependent classifications permit study. In fact, the Supreme Court has ruled that school-aged alien children are entitled to receive K-12 education on the same terms as US citizen children, even if they have not been lawfully admitted to the US [46].
+Dependent nonimmigrant status is based on the relationship to the principal nonimmigrant, and not on any particular activity. Dependent nonimmigrants may therefore choose to undertake a variety of activities in the US without violating their status, including study.
 
-However, note that (in contrast to nonimmigrants in dependent classification) B nonimmigrants, even if their primary purpose of travel is to be with a family member in the US, are specifically prohibited from studying [43][44].
+Study contrasts with work in the sense that, under US federal law, work is always prohibited for non-citizens except for those for whom it is specifically allowed, such as lawful permanent residents (see the previous FAQ entry). On the other hand, there is no such law about studying. Therefore, studying is always allowed, unless it is specifically prohibited.
+
+Therefore, most dependent nonimmigrants are allowed to study in the US. The main exception is an F-2 or M-2 spouse is restricted from pursuing full-time study [91]. This rule seems to have been made up by the State Department, as there is no obvious statutory basis for it. For other dependent nonimmigrant classifications, such as H-4 and L-2, there generally do not appear to be any restrictions on study. In fact, the Supreme Court has ruled that school-aged alien children are entitled to receive K-12 education on the same terms as US citizen children, even if they have not been lawfully admitted to the US [46].
+
+Note that B nonimmigrants, even if their primary purpose of travel is to be with a family member in the US, are specifically prohibited from studying [43][44]. There are no dependent B visas.
 
 ## Is it possible to have derivative nonimmigrant status when the principal is absent from the US?
 Where INA 101(a)(15) authorizes the admission of dependent nonimmigrants [36], it specifies that the dependents must be "accompanying or following to join". This means that when the principal is admitted, their dependents may either be admitted in the corresponding dependent status at the same time, or they can be admitted after the principal has already been admitted (not before).
@@ -306,3 +310,4 @@ Given this fact, it is understandable that a change of status petition would be 
 [88] [8 CFR §235.1(h)(2)](https://www.law.cornell.edu/cfr/text/8/235.1#h_2)  
 [89] [CBP I-94 FAQ](https://i94.cbp.dhs.gov/I94/#/faq)  
 [90] [USCIS Handbook for Employers, Section 6.3](https://www.uscis.gov/i-9-central/handbook-for-employers-m-274/60-evidence-of-status-for-certain-categories/63-refugees-and-asylees)  
+[91] [9 FAM 402.5-5(M)(3)](https://fam.state.gov/FAM/09FAM/09FAM040205.html#M402_5_5_M_3)  
