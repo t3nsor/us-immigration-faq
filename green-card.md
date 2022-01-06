@@ -112,6 +112,8 @@ Note, however, that if you are placed in removal proceedings upon the denial of 
 ## Has USCIS stopped approving I-485s because of the immigrant visa ban of April 22, 2020?
 No. The proclamation in question [62] applies to the issuance of immigrant visas at consular posts. It does not prevent USCIS from issuing green cards to individuals who have applied for adjustment of status from within the US. There had been some [speculation](https://www.rollcall.com/2020/06/12/administration-puts-hold-on-green-card-requests-from-us/) that I-485 processing had been paused, but the author of that article later posted an [update](https://www.rollcall.com/2020/06/17/immigration-agency-resumes-processing-u-s-based-green-cards/) clarifying that the supposed pause on I-485 adjudication was related to prioritizing limited USCIS resources and was not related to the immigrant visa ban. I-485s for all categories continued to be processed despite the proclamation of April 22, 2020.
 
+The immigrant visa ban was rescinded on February 24, 2021.
+
 # References
 [1] INA 101(a)(15)(O)(i) ([8 USC §1101(a)(15)(O)(i)](https://www.law.cornell.edu/uscode/text/8/1101#a_15_O_i))  
 [2] INA 289 ([8 USC §1359](https://www.law.cornell.edu/uscode/text/8/1359))  
@@ -175,3 +177,4 @@ No. The proclamation in question [62] applies to the issuance of immigrant visas
 [60] [Notice to Appear Policy Memorandum](https://www.uscis.gov/legal-resources/notice-appear-policy-memorandum)  
 [61] INA 322 ([8 USC §1433](https://www.law.cornell.edu/uscode/text/8/1433))  
 [62] [Proclamation Suspending Entry of Immigrants Who Present Risk to the U.S. Labor Market During the Economic Recovery Following the COVID-19 Outbreak](https://www.whitehouse.gov/presidential-actions/proclamation-suspending-entry-immigrants-present-risk-u-s-labor-market-economic-recovery-following-covid-19-outbreak/)  
+[63] https://www.whitehouse.gov/briefing-room/presidential-actions/2021/02/24/a-proclamation-on-revoking-proclamation-10014/  
