@@ -121,6 +121,21 @@ An EAD grants employment authorization that is not restricted to a particular em
 1. With a pending Form I-485 [24]. Usually this will be at the final stage of the [employment-based green card process](EB.md), but could also occur through, *e.g.*, marriage to a US citizen. See [the green card FAQ](green-card.md).
 2. With an approved [Form I-140](EB.md), but only if you can convince USCIS that you have "compelling circumstances" and your priority date is within 1 year of the cut-off date [25][26].
 
+## How can my spouse qualify for an H-4 EAD?
+If you and your family have already progressed to the I-485 stage of the [employment-based green card process](EB.md) process, then you and your dependent family members can apply for an [EAD](EAD.md) on the basis of the pending I-485 [24]. If you haven't reached this stage yet, there is an earlier stage of the green card process where your *spouse* can apply for an EAD, but this won't apply to yourself or to your dependent children. This is usually referred to as the H-4 EAD, but not all H-4 noncitizens are eligible for it:
+
+The precise conditions to qualify for an H-4 EAD are [73][74]:
+
+* The applicant must be in H-4 status;
+* The applicant's H-4 status must be as the spouse (not child) of an H-1B principal. Spouses of [H-1B1](H-1B1.md), H-2, and H-3 nonimmigrants do not qualify.
+* The H-1B principal must be the beneficiary of an approved I-140 **or** the H-1B principal must have been granted H-1B status pursuant to an AC21 exemption. (There are two types of AC21 exemption: the <q>lengthy adjudication exemption</q> and the <q>per-country limitation exemption</q>, which are discussed in more detail below.)
+
+It is not enough for the H-1B principal to merely *qualify* for an AC21 exemption. The H-1B principal must have actually obtained H-1B status pursuant to an AC21 exemption in order to satisfy the criteria for their spouse to obtain an H-4 EAD. However, if the H-1B principal has an approved I-140, then they are not required to demonstrate that they have been granted an AC21 exemption.
+
+The H-4 spouse cannot use their own I-140 in order to qualify for the H-4 EAD category. Likewise, an H-4 spouse who, at one point in time, was in H-1B status and benefitted from an AC21 exemption cannot use this fact to qualify for an H-4 EAD. An H-4 EAD applicant must demonstrate that their spouse, who is the H-1B principal at the time of application, is the beneficiary of an approved I-140 or has been granted H-1B status pursuant to an AC21 exemption.
+
+Provided that the H-4 spouse indeed qualifies for an H-4 EAD, they can obtain one by filing form I-765 and indicating category (C)(26). [75]
+
 ## How can I change employers in H-1B status?
 Since, as discussed above, H-1B nonimmigrants are generally authorized only to work for a sponsoring employer, if an H-1B worker wants to change jobs, the new company must be one that is willing to sponsor H-1Bs, and must file an H-1B petition (Form I-129) on behalf of the prospective employee. Therefore, the new job must also be in a speciality occupation and is subject to the same evidentiary requirements as any previous H-1B petitions. However, as previously discussed, an alien who has already been counted against the H-1B cap does not need to enter the lottery again until they've used up 6 years of H-1B time [13]. This means that switching jobs while already in H-1B status tends to be a quicker process than getting an H-1B for your first job in the US.
 
@@ -314,3 +329,6 @@ No. [A visa is distinct from status](general.md#whats-the-difference-between-vis
 [70] https://twitter.com/TravelGov/status/1284248313777266691  
 [71] https://twitter.com/TravelGov/status/1284219605741981698  
 [72] USCIS-AFM 30.2(d)(7)(A), [archived August 24, 2020](http://web.archive.org/web/20190824032600/https://www.uscis.gov/ilink/docView/AFM/HTML/AFM/0-0-0-1/0-0-0-12693/0-0-0-12738.html)  
+[73] [8 CFR §274a.12(c)(26)](https://www.law.cornell.edu/cfr/text/8/274a.12#c_26)  
+[74] [8 CFR §214.2(h)(9)(iv)](https://www.law.cornell.edu/cfr/text/8/214.2#h_9_iv)  
+[75] [Instructions for Application for Employment Authorization](https://www.uscis.gov/sites/default/files/document/forms/i-765instr.pdf)  
