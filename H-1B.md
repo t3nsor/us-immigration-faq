@@ -197,6 +197,13 @@ Note that the exemption provided by AC21 §106 and the corresponding regulations
 
 The 365-day waiting period required to claim the lengthy adjudication exemption is the reason why most companies will try to file the labor certification before the end of the fifth year of the employee's H-1B time. Assuming that the labor certification and I-140 are not denied, this ensures that the employee will become eligible for the exemption by the time their 6 years period expires, so no interruption to their employment will be necessary.
 
+## Am I eligible for the lengthy adjudication exemption if I failed to file an I-485 in time because I had to switch employers?
+A noncitizen who has an approved I-140 with a current priority date, and who decides that they no longer want to be a permanent resident, cannot use AC21 to stay in H-1B status forever because they will lose eligibility for 1-year H-1B extensions after failing to file an I-485 for 12 consecutive months. However, what about the situation where the noncitizen wants to become a permanent resident, but their approved I-140 with a current priority date is not usable because the employer that filed it no longer has a job available for them? Such a noncitizen would be eligible to be sponsored for a green card by a different employer, which would have to file a new I-140 for that noncitizen, retaining the old priority date. However, this process can often take longer than a year. Would the noncitizen be able to get AC21 extensions?
+
+According to [46], although there is a one-year deadline to file an I-485 if you have an approved I-140 with a current priority date and want to continue qualifying for AC21 H-1B extensions, there is a possible exemption to this deadline: <em><q>USCIS may excuse a failure to file in its discretion if the alien establishes that the failure to apply was due to circumstances beyond his or her control.</q></em> If the noncitizen cannot file an I-485 because they have changed employers (and thus cannot use the old I-140), would this qualify as circumstances beyond their control?
+
+The answer is that we don't know. USCIS has not provided guidance on this situation. A poster on Trackitt claimed [78] that according to their employer's law firm, an attempt to obtain an AC21 extension in this situation sometimes succeeds and sometimes does not (suggesting that USCIS, even internally, does not have a consistent policy). Noncitizens should bear in mind that if their priority date is current or will be current soon, switching jobs <em>may</em> adversely impact their ability to obtain future H-1B extensions due to failing to meet the one-year deadline, particularly if they will need to redo PERM with their new employer.
+
 ## What are the rules for the per-country limitation exemption?
 This exemption was created by AC21 §104(c) [47], according to which you qualify if:
 * You currently hold, or ever held H-1B status; and
@@ -359,3 +366,4 @@ No. [A visa is distinct from status](general.md#whats-the-difference-between-vis
 [75] [Instructions for Application for Employment Authorization](https://www.uscis.gov/sites/default/files/document/forms/i-765instr.pdf)  
 [76] [USCIS Policy Manual, Volume 10, Part B, Chapter 2](https://www.uscis.gov/policy-manual/volume-10-part-b-chapter-2)  
 [77] [8 CFR §274a.13(d)](https://www.law.cornell.edu/cfr/text/8/274a.13#d)  
+[78] https://www.trackitt.com/usa-discussion-forums/i485-eb/2335928895/not-eligible-for-h1b-renewal-current-priority-date-for-1-years/  
