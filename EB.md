@@ -149,6 +149,10 @@ If you have filed Form I-485 based on an I-140 that was concurrently filed or pe
 
 When you submit Supplement J, if your I-140 is still pending, USCIS will first examine the facts to determine whether or not the I-140 *would have been approvable* if it had been adjudicated at the 180 day mark. If so, the I-140 will be approved, and then USCIS will adjudicate Supplement J. If the I-140 is denied, then portability cannot be granted. [38][39]
 
+To be more precise, when USCIS receives a Supplement J requesting portability, but the underlying I-140 is still pending, USCIS will approve the I-140 if it determines that:
+* the ability-to-pay requirement was met on the date when the I-140 was filed (not necessarily after), and
+* all other requirements for I-140 approval were met on the date when the I-140 was filed and continued to be met until the I-485 had been pending 180 days. [17][39]
+
 Porting with a pending I-140 is considered risky. Even if you believe that the I-140 should be approved, it's possible that USCIS will issue an RFE on the I-140, as the law firm acting on behalf of the I-140 employer may have made a mistake such as forgetting to submit some required document. (There are also allegations that USCIS sometimes asks for documents that shouldn't actually be required.) In that case, it's the I-140 employer's responsibility to provide the missing evidence in order to respond to the RFE, and they may not be interested in doing so for a former employee. If the RFE is not adequately addressed, the I-140 will be denied, and the applicant would have to start over with a new I-140.
 
 ## Can I use I-485 portability if the I-140 was withdrawn after approval?
